@@ -1,126 +1,105 @@
-
 #EXTM3U
-#EXTINF:-1 tvg-id="1726ae10" tvg-name="Deepto TV HD" tvg-logo="https://i.postimg.cc/Jh8rc7Dn/Deepto-TV-HD.png" tvg-chno="1" group-title="Nayeem's BDCast",Deepto TV HD
+#EXTINF:-1 tvg-id="1726ae10" tvg-name="Deepto TV HD" tvg-logo="https://i.postimg.cc/Jh8rc7Dn/Deepto-TV-HD.png" tvg-chno="1" group-title="SR BDCast",Deepto TV HD
 https://entezeetv.fun/bdcast/hls/index.m3u8?id=1726ae10&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
-#EXTINF:-1 tvg-id="4ed08af5" tvg-name="Somoy News" tvg-logo="https://i.postimg.cc/4yvnV8sK/Somoy-TV.png" tvg-chno="2" group-title="Nayeem's BDCast",Somoy News
+#EXTINF:-1 tvg-id="4ed08af5" tvg-name="Somoy News" tvg-logo="https://i.postimg.cc/4yvnV8sK/Somoy-TV.png" tvg-chno="2" group-title="SR BDCast",Somoy News
 https://entezeetv.fun/bdcast/hls/index.m3u8?id=4ed08af5&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
-#EXTINF:-1 tvg-id="ae559a27" tvg-name="ATN Bangla HD" tvg-logo="https://i.postimg.cc/NfXYJXPY/ATN-Bangla.png" tvg-chno="3" group-title="Nayeem's BDCast",ATN Bangla HD
+#EXTINF:-1 tvg-id="ae559a27" tvg-name="ATN Bangla HD" tvg-logo="https://i.postimg.cc/NfXYJXPY/ATN-Bangla.png" tvg-chno="3" group-title="SR BDCast",ATN Bangla HD
 https://entezeetv.fun/bdcast/hls/index.m3u8?id=ae559a27&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
-#EXTINF:-1 tvg-id="e181c0f8" tvg-name="ATN Music" tvg-logo="https://i.postimg.cc/0QdZyPnb/ATN-Music-TV.png" tvg-chno="4" group-title="Nayeem's BDCast",ATN Music
+#EXTINF:-1 tvg-id="e181c0f8" tvg-name="ATN Music" tvg-logo="https://i.postimg.cc/0QdZyPnb/ATN-Music-TV.png" tvg-chno="4" group-title="SR BDCast",ATN Music
 https://entezeetv.fun/bdcast/hls/index.m3u8?id=e181c0f8&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
-#EXTINF:-1 tvg-id="66c4b0b8" tvg-name="Asian TV" tvg-logo="https://i.postimg.cc/ncXG94c4/Asian-TV.png" tvg-chno="5" group-title="Nayeem's BDCast",Asian TV
+#EXTINF:-1 tvg-id="66c4b0b8" tvg-name="Asian TV" tvg-logo="https://i.postimg.cc/ncXG94c4/Asian-TV.png" tvg-chno="5" group-title="SR BDCast",Asian TV
 https://entezeetv.fun/bdcast/hls/index.m3u8?id=66c4b0b8&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
-#EXTINF:-1 tvg-id="01eabe3c" tvg-name="Bangla Vision HD" tvg-logo="https://i.postimg.cc/5y8VKjyM/Bangla-Vision.png" tvg-chno="6" group-title="Nayeem's BDCast",Bangla Vision HD
+#EXTINF:-1 tvg-id="01eabe3c" tvg-name="Bangla Vision HD" tvg-logo="https://i.postimg.cc/5y8VKjyM/Bangla-Vision.png" tvg-chno="6" group-title="SR BDCast",Bangla Vision HD
 https://entezeetv.fun/bdcast/hls/index.m3u8?id=01eabe3c&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
-#EXTINF:-1 tvg-id="08edaaca" tvg-name="ATN News" tvg-logo="https://i.postimg.cc/wMgDBrT2/ATN-News.png" tvg-chno="7" group-title="Nayeem's BDCast",ATN News
+#EXTINF:-1 tvg-id="08edaaca" tvg-name="ATN News" tvg-logo="https://i.postimg.cc/wMgDBrT2/ATN-News.png" tvg-chno="7" group-title="SR BDCast",ATN News
 https://entezeetv.fun/bdcast/hls/index.m3u8?id=08edaaca&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
-#EXTINF:-1 tvg-id="e0cfe755" tvg-name="Bioshakhi TV" tvg-logo="https://i.postimg.cc/SKfWWGk6/Boishakhi-TV.png" tvg-chno="8" group-title="Nayeem's BDCast",Bioshakhi TV
+#EXTINF:-1 tvg-id="e0cfe755" tvg-name="Bioshakhi TV" tvg-logo="https://i.postimg.cc/SKfWWGk6/Boishakhi-TV.png" tvg-chno="8" group-title="SR BDCast",Bioshakhi TV
 https://entezeetv.fun/bdcast/hls/index.m3u8?id=e0cfe755&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
-#EXTINF:-1 tvg-id="71ad885a" tvg-name="BTV World HD" tvg-logo="https://i.postimg.cc/76gZRqK0/BTV-World.png" tvg-chno="9" group-title="Nayeem's BDCast",BTV World HD
+#EXTINF:-1 tvg-id="71ad885a" tvg-name="BTV World HD" tvg-logo="https://i.postimg.cc/76gZRqK0/BTV-World.png" tvg-chno="9" group-title="SR BDCast",BTV World HD
 https://entezeetv.fun/bdcast/hls/index.m3u8?id=71ad885a&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
-#EXTINF:-1 tvg-id="ae7cdb8f" tvg-name="BTV Chattogram" tvg-logo="https://i.postimg.cc/pdQNbytW/BTV-Chattogram.png" tvg-chno="10" group-title="Nayeem's BDCast",BTV Chattogram
+#EXTINF:-1 tvg-id="ae7cdb8f" tvg-name="BTV Chattogram" tvg-logo="https://i.postimg.cc/pdQNbytW/BTV-Chattogram.png" tvg-chno="10" group-title="SR BDCast",BTV Chattogram
 https://entezeetv.fun/bdcast/hls/index.m3u8?id=ae7cdb8f&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
-#EXTINF:-1 tvg-id="4c45af5d" tvg-name="Sangsad Television" tvg-logo="https://i.postimg.cc/SQ2BkZ41/Sangsad-Television.png" tvg-chno="11" group-title="Nayeem's BDCast",Sangsad Television
+#EXTINF:-1 tvg-id="4c45af5d" tvg-name="Sangsad Television" tvg-logo="https://i.postimg.cc/SQ2BkZ41/Sangsad-Television.png" tvg-chno="11" group-title="SR BDCast",Sangsad Television
 https://entezeetv.fun/bdcast/hls/index.m3u8?id=4c45af5d&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
-#EXTINF:-1 tvg-id="85c43e1d" tvg-name="Channel 9 HD" tvg-logo="https://i.postimg.cc/SQYcd9Lz/Channel9.png" tvg-chno="12" group-title="Nayeem's BDCast",Channel 9 HD
+#EXTINF:-1 tvg-id="85c43e1d" tvg-name="Channel 9 HD" tvg-logo="https://i.postimg.cc/SQYcd9Lz/Channel9.png" tvg-chno="12" group-title="SR BDCast",Channel 9 HD
 https://entezeetv.fun/bdcast/hls/index.m3u8?id=85c43e1d&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
-#EXTINF:-1 tvg-id="c7608fa9" tvg-name="Channel 24" tvg-logo="https://i.postimg.cc/vmynH2Cr/BD-Channel24.png" tvg-chno="13" group-title="Nayeem's BDCast",Channel 24
+#EXTINF:-1 tvg-id="c7608fa9" tvg-name="Channel 24" tvg-logo="https://i.postimg.cc/vmynH2Cr/BD-Channel24.png" tvg-chno="13" group-title="SR BDCast",Channel 24
 https://entezeetv.fun/bdcast/hls/index.m3u8?id=c7608fa9&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
-#EXTINF:-1 tvg-id="vdce53cs" tvg-name="Channel I HD" tvg-logo="https://i.postimg.cc/hPPcgLCX/Channel-I.png" tvg-chno="14" group-title="Nayeem's BDCast",Channel I HD
+#EXTINF:-1 tvg-id="vdce53cs" tvg-name="Channel I HD" tvg-logo="https://i.postimg.cc/hPPcgLCX/Channel-I.png" tvg-chno="14" group-title="SR BDCast",Channel I HD
 https://entezeetv.fun/bdcast/hls/index.m3u8?id=vdce53cs&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
-#EXTINF:-1 tvg-id="19414441" tvg-name="DBC News 24/7" tvg-logo="https://i.postimg.cc/15JCh6T5/DBC-News.png" tvg-chno="15" group-title="Nayeem's BDCast",DBC News 24/7
+#EXTINF:-1 tvg-id="19414441" tvg-name="DBC News 24/7" tvg-logo="https://i.postimg.cc/15JCh6T5/DBC-News.png" tvg-chno="15" group-title="SR BDCast",DBC News 24/7
 https://entezeetv.fun/bdcast/hls/index.m3u8?id=19414441&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
-#EXTINF:-1 tvg-id="649941fa" tvg-name="Desh TV Live" tvg-logo="https://i.postimg.cc/V60v1jDy/Desh-TV-Live.png" tvg-chno="16" group-title="Nayeem's BDCast",Desh TV Live
+#EXTINF:-1 tvg-id="649941fa" tvg-name="Desh TV Live" tvg-logo="https://i.postimg.cc/V60v1jDy/Desh-TV-Live.png" tvg-chno="16" group-title="SR BDCast",Desh TV Live
 https://entezeetv.fun/bdcast/hls/index.m3u8?id=649941fa&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
-#EXTINF:-1 tvg-id="90d7bc25" tvg-name="Ekattor TV HD" tvg-logo="https://i.postimg.cc/YqRdQgzB/Ekattor-TV-HD.png" tvg-chno="17" group-title="Nayeem's BDCast",Ekattor TV HD
+#EXTINF:-1 tvg-id="90d7bc25" tvg-name="Ekattor TV HD" tvg-logo="https://i.postimg.cc/YqRdQgzB/Ekattor-TV-HD.png" tvg-chno="17" group-title="SR BDCast",Ekattor TV HD
 https://entezeetv.fun/bdcast/hls/index.m3u8?id=90d7bc25&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
-#EXTINF:-1 tvg-id="6ed8e577" tvg-name="Ekushey TV" tvg-logo="https://i.postimg.cc/HnZB11xs/Ekushey-TV.png" tvg-chno="18" group-title="Nayeem's BDCast",Ekushey TV
+#EXTINF:-1 tvg-id="6ed8e577" tvg-name="Ekushey TV" tvg-logo="https://i.postimg.cc/HnZB11xs/Ekushey-TV.png" tvg-chno="18" group-title="SR BDCast",Ekushey TV
 https://entezeetv.fun/bdcast/hls/index.m3u8?id=6ed8e577&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
-#EXTINF:-1 tvg-id="h8d56bee" tvg-name="Gaan Bangla" tvg-logo="https://i.postimg.cc/6pwDXnB8/Gaan-Bangla.png" tvg-chno="19" group-title="Nayeem's BDCast",Gaan Bangla
+#EXTINF:-1 tvg-id="h8d56bee" tvg-name="Gaan Bangla" tvg-logo="https://i.postimg.cc/6pwDXnB8/Gaan-Bangla.png" tvg-chno="19" group-title="SR BDCast",Gaan Bangla
 https://entezeetv.fun/bdcast/hls/index.m3u8?id=h8d56bee&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
-#EXTINF:-1 tvg-id="89b4zb3d" tvg-name="Jamuna TV" tvg-logo="https://i.postimg.cc/bNQwgx6r/Jamuna-TV.png" tvg-chno="20" group-title="Nayeem's BDCast",Jamuna TV
+#EXTINF:-1 tvg-id="89b4zb3d" tvg-name="Jamuna TV" tvg-logo="https://i.postimg.cc/bNQwgx6r/Jamuna-TV.png" tvg-chno="20" group-title="SR BDCast",Jamuna TV
 https://entezeetv.fun/bdcast/hls/index.m3u8?id=89b4zb3d&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
-#EXTINF:-1 tvg-id="f190c3dt" tvg-name="Maasranga HD" tvg-logo="https://i.postimg.cc/mDvTm5xc/Maasranga.png" tvg-chno="21" group-title="Nayeem's BDCast",Maasranga HD
+#EXTINF:-1 tvg-id="f190c3dt" tvg-name="Maasranga HD" tvg-logo="https://i.postimg.cc/mDvTm5xc/Maasranga.png" tvg-chno="21" group-title="SR BDCast",Maasranga HD
 https://entezeetv.fun/bdcast/hls/index.m3u8?id=f190c3dt&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
-#EXTINF:-1 tvg-id="hhzi207e" tvg-name="Maasranga HD" tvg-logo="https://i.postimg.cc/mDvTm5xc/Maasranga.png" tvg-chno="22" group-title="Nayeem's BDCast",Maasranga HD
+#EXTINF:-1 tvg-id="hhzi207e" tvg-name="Maasranga HD" tvg-logo="https://i.postimg.cc/mDvTm5xc/Maasranga.png" tvg-chno="22" group-title="SR BDCast",Maasranga HD
 https://entezeetv.fun/bdcast/hls/index.m3u8?id=hhzi207e&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
-#EXTINF:-1 tvg-id="70znfha3" tvg-name="News24 HD" tvg-logo="https://i.postimg.cc/vB3W9fCS/News24BD.png" tvg-chno="23" group-title="Nayeem's BDCast",News24 HD
+#EXTINF:-1 tvg-id="70znfha3" tvg-name="News24 HD" tvg-logo="https://i.postimg.cc/vB3W9fCS/News24BD.png" tvg-chno="23" group-title="SR BDCast",News24 HD
 https://entezeetv.fun/bdcast/hls/index.m3u8?id=70znfha3&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
-#EXTINF:-1 tvg-id="adei2579" tvg-name="RTV HD" tvg-logo="https://i.postimg.cc/Qdvs8ztf/RTV-HD.png" tvg-chno="24" group-title="Nayeem's BDCast",RTV HD
+#EXTINF:-1 tvg-id="adei2579" tvg-name="RTV HD" tvg-logo="https://i.postimg.cc/Qdvs8ztf/RTV-HD.png" tvg-chno="24" group-title="SR BDCast",RTV HD
 https://entezeetv.fun/bdcast/hls/index.m3u8?id=adei2579&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
-#EXTINF:-1 tvg-id="1938a86s" tvg-name="SATV" tvg-logo="https://i.postimg.cc/GtMwZ7VJ/SATV.png" tvg-chno="25" group-title="Nayeem's BDCast",SATV
+#EXTINF:-1 tvg-id="1938a86s" tvg-name="SATV" tvg-logo="https://i.postimg.cc/GtMwZ7VJ/SATV.png" tvg-chno="25" group-title="SR BDCast",SATV
 https://entezeetv.fun/bdcast/hls/index.m3u8?id=1938a86s&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
-#EXTINF:-1 tvg-id="5149cfic" tvg-name="NTV" tvg-logo="https://i.postimg.cc/3NqfXPz6/NTV.png" tvg-chno="26" group-title="Nayeem's BDCast",NTV
+#EXTINF:-1 tvg-id="5149cfic" tvg-name="NTV" tvg-logo="https://i.postimg.cc/3NqfXPz6/NTV.png" tvg-chno="26" group-title="SR BDCast",NTV
 https://entezeetv.fun/bdcast/hls/index.m3u8?id=5149cfic&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
-#EXTINF:-1 tvg-id="sllfd45v" tvg-name="Independent TV" tvg-logo="https://i.postimg.cc/qB6YsGk3/Independent.png" tvg-chno="27" group-title="Nayeem's BDCast",Independent TV
+#EXTINF:-1 tvg-id="sllfd45v" tvg-name="Independent TV" tvg-logo="https://i.postimg.cc/qB6YsGk3/Independent.png" tvg-chno="27" group-title="SR BDCast",Independent TV
 https://entezeetv.fun/bdcast/hls/index.m3u8?id=sllfd45v&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
-#EXTINF:-1 tvg-id="zns9eha2" tvg-name="Ananda TV" tvg-logo="https://i.postimg.cc/DZTg115q/Ananda-TV.png" tvg-chno="28" group-title="Nayeem's BDCast",Ananda TV
+#EXTINF:-1 tvg-id="zns9eha2" tvg-name="Ananda TV" tvg-logo="https://i.postimg.cc/DZTg115q/Ananda-TV.png" tvg-chno="28" group-title="SR BDCast",Ananda TV
 https://entezeetv.fun/bdcast/hls/index.m3u8?id=zns9eha2&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
-#EXTINF:-1 tvg-id="cZtxlaRR" tvg-name="Mohona TV" tvg-logo="https://i.postimg.cc/8P9Lhhzj/Mohona-TV.png" tvg-chno="29" group-title="Nayeem's BDCast",Mohona TV
+#EXTINF:-1 tvg-id="cZtxlaRR" tvg-name="Mohona TV" tvg-logo="https://i.postimg.cc/8P9Lhhzj/Mohona-TV.png" tvg-chno="29" group-title="SR BDCast",Mohona TV
 https://entezeetv.fun/bdcast/hls/index.m3u8?id=cZtxlaRR&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
-#EXTINF:-1 tvg-id="xhv98NSI" tvg-name="Bangla TV HD" tvg-logo="https://i.postimg.cc/Rhj2tXpv/Bangla-TV-HD.png" tvg-chno="30" group-title="Nayeem's BDCast",Bangla TV HD
+#EXTINF:-1 tvg-id="xhv98NSI" tvg-name="Bangla TV HD" tvg-logo="https://i.postimg.cc/Rhj2tXpv/Bangla-TV-HD.png" tvg-chno="30" group-title="SR BDCast",Bangla TV HD
 https://entezeetv.fun/bdcast/hls/index.m3u8?id=xhv98NSI&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
-#EXTINF:-1 tvg-id="tn1z61cp" tvg-name="Bangla TV Europe" tvg-logo="https://i.postimg.cc/LXVzLXy5/Bangla-TV-Europe.png" tvg-chno="31" group-title="Nayeem's BDCast",Bangla TV Europe
+#EXTINF:-1 tvg-id="tn1z61cp" tvg-name="Bangla TV Europe" tvg-logo="https://i.postimg.cc/LXVzLXy5/Bangla-TV-Europe.png" tvg-chno="31" group-title="SR BDCast",Bangla TV Europe
 https://entezeetv.fun/bdcast/hls/index.m3u8?id=tn1z61cp&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
-#EXTINF:-1 tvg-id="b9deo5z8" tvg-name="Amar Bangla" tvg-logo="https://i.postimg.cc/XY4crCKR/Aamar-Bangla.png" tvg-chno="32" group-title="Nayeem's BDCast",Amar Bangla
+#EXTINF:-1 tvg-id="b9deo5z8" tvg-name="Amar Bangla" tvg-logo="https://i.postimg.cc/XY4crCKR/Aamar-Bangla.png" tvg-chno="32" group-title="SR BDCast",Amar Bangla
 https://entezeetv.fun/bdcast/hls/index.m3u8?id=b9deo5z8&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
-#EXTINF:-1 tvg-id="hi8d62ma" tvg-name="Colors Bangla HD" tvg-logo="https://i.postimg.cc/L8sdzn2W/Colors-Bangla-HD.png" tvg-chno="33" group-title="Nayeem's BDCast",Colors Bangla HD
+#EXTINF:-1 tvg-id="hi8d62ma" tvg-name="Colors Bangla HD" tvg-logo="https://i.postimg.cc/L8sdzn2W/Colors-Bangla-HD.png" tvg-chno="33" group-title="SR BDCast",Colors Bangla HD
 https://entezeetv.fun/bdcast/hls/index.m3u8?id=hi8d62ma&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
-#EXTINF:-1 tvg-id="ihs4ma9m" tvg-name="Aakash Aath" tvg-logo="https://i.postimg.cc/851zVtDX/Aakash-Aath.png" tvg-chno="34" group-title="Nayeem's BDCast",Aakash Aath
+#EXTINF:-1 tvg-id="ihs4ma9m" tvg-name="Aakash Aath" tvg-logo="https://i.postimg.cc/851zVtDX/Aakash-Aath.png" tvg-chno="34" group-title="SR BDCast",Aakash Aath
 https://entezeetv.fun/bdcast/hls/index.m3u8?id=ihs4ma9m&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
-#EXTINF:-1 tvg-id="h1sf6i2t" tvg-name="News18 Bengali" tvg-logo="https://i.postimg.cc/hv1wR1Ds/News18-Bengali.png" tvg-chno="35" group-title="Nayeem's BDCast",News18 Bengali
+#EXTINF:-1 tvg-id="h1sf6i2t" tvg-name="News18 Bengali" tvg-logo="https://i.postimg.cc/hv1wR1Ds/News18-Bengali.png" tvg-chno="35" group-title="SR BDCast",News18 Bengali
 https://entezeetv.fun/bdcast/hls/index.m3u8?id=h1sf6i2t&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
-#EXTINF:-1 tvg-id="2dto881c" tvg-name="R Plus" tvg-logo="https://i.postimg.cc/xdm6S3gm/RPlus.png" tvg-chno="36" group-title="Nayeem's BDCast",R Plus
+#EXTINF:-1 tvg-id="2dto881c" tvg-name="R Plus" tvg-logo="https://i.postimg.cc/xdm6S3gm/RPlus.png" tvg-chno="36" group-title="SR BDCast",R Plus
 https://entezeetv.fun/bdcast/hls/index.m3u8?id=2dto881c&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
-#EXTINF:-1 tvg-id="dbnh6c75" tvg-name="Colors Bangla Cinema" tvg-logo="https://i.postimg.cc/25YZVdrh/Colors-Bangla-Cinema.png" tvg-chno="37" group-title="Nayeem's BDCast",Colors Bangla Cinema
+#EXTINF:-1 tvg-id="dbnh6c75" tvg-name="Colors Bangla Cinema" tvg-logo="https://i.postimg.cc/25YZVdrh/Colors-Bangla-Cinema.png" tvg-chno="37" group-title="SR BDCast",Colors Bangla Cinema
 https://entezeetv.fun/bdcast/hls/index.m3u8?id=dbnh6c75&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
-#EXTINF:-1 tvg-id="909do5b0" tvg-name="Sun Bangla" tvg-logo="https://i.postimg.cc/XJrDszJS/Sun-Bangla.png" tvg-chno="38" group-title="Nayeem's BDCast",Sun Bangla
+#EXTINF:-1 tvg-id="909do5b0" tvg-name="Sun Bangla" tvg-logo="https://i.postimg.cc/XJrDszJS/Sun-Bangla.png" tvg-chno="38" group-title="SR BDCast",Sun Bangla
 https://entezeetv.fun/bdcast/hls/index.m3u8?id=909do5b0&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
-#EXTINF:-1 tvg-id="d2tb9mb4" tvg-name="Zee Bangla HD" tvg-logo="https://i.postimg.cc/q7HXJQH8/Zee-Bangla-HD.png" tvg-chno="39" group-title="Nayeem's BDCast",Zee Bangla HD
+#EXTINF:-1 tvg-id="d2tb9mb4" tvg-name="Zee Bangla HD" tvg-logo="https://i.postimg.cc/q7HXJQH8/Zee-Bangla-HD.png" tvg-chno="39" group-title="SR BDCast",Zee Bangla HD
 https://entezeetv.fun/bdcast/hls/index.m3u8?id=d2tb9mb4&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
-#EXTINF:-1 tvg-id="ts451n13" tvg-name="Dhoom Music" tvg-logo="https://i.postimg.cc/fT4XGQp8/Dhoom-Music.png" tvg-chno="40" group-title="Nayeem's BDCast",Dhoom Music
+#EXTINF:-1 tvg-id="ts451n13" tvg-name="Dhoom Music" tvg-logo="https://i.postimg.cc/fT4XGQp8/Dhoom-Music.png" tvg-chno="40" group-title="SR BDCast",Dhoom Music
 https://entezeetv.fun/bdcast/hls/index.m3u8?id=ts451n13&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
-#EXTINF:-1 tvg-id="fo98ioc0" tvg-name="ABP Ananda" tvg-logo="https://i.postimg.cc/MG2Yt852/ABP-Ananda.png" tvg-chno="41" group-title="Nayeem's BDCast",ABP Ananda
+#EXTINF:-1 tvg-id="fo98ioc0" tvg-name="ABP Ananda" tvg-logo="https://i.postimg.cc/MG2Yt852/ABP-Ananda.png" tvg-chno="41" group-title="SR BDCast",ABP Ananda
 https://entezeetv.fun/bdcast/hls/index.m3u8?id=fo98ioc0&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
-#EXTINF:-1 tvg-id="zz43df6d" tvg-name="Sun Bangla" tvg-logo="https://i.postimg.cc/XJrDszJS/Sun-Bangla.png" tvg-chno="42" group-title="Nayeem's BDCast",Sun Bangla
+#EXTINF:-1 tvg-id="zz43df6d" tvg-name="Sun Bangla" tvg-logo="https://i.postimg.cc/XJrDszJS/Sun-Bangla.png" tvg-chno="42" group-title="SR BDCast",Sun Bangla
 https://entezeetv.fun/bdcast/hls/index.m3u8?id=zz43df6d&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
-#EXTINF:-1 tvg-id="128c3o95" tvg-name="Colors Bangla HD" tvg-logo="https://i.postimg.cc/L8sdzn2W/Colors-Bangla-HD.png" tvg-chno="43" group-title="Nayeem's BDCast",Colors Bangla HD
+#EXTINF:-1 tvg-id="128c3o95" tvg-name="Colors Bangla HD" tvg-logo="https://i.postimg.cc/L8sdzn2W/Colors-Bangla-HD.png" tvg-chno="43" group-title="SR BDCast",Colors Bangla HD
 https://entezeetv.fun/bdcast/hls/index.m3u8?id=128c3o95&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
-#EXTINF:-1 tvg-id="93z1f0zv" tvg-name="U Bangla TV" tvg-logo="https://i.postimg.cc/VkXD2g7b/UBangla-TV.png" tvg-chno="44" group-title="Nayeem's BDCast",U Bangla TV
+#EXTINF:-1 tvg-id="93z1f0zv" tvg-name="U Bangla TV" tvg-logo="https://i.postimg.cc/VkXD2g7b/UBangla-TV.png" tvg-chno="44" group-title="SR BDCast",U Bangla TV
 https://entezeetv.fun/bdcast/hls/index.m3u8?id=93z1f0zv&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
-#EXTINF:-1 tvg-id="5150x44c" tvg-name="Discovery HD" tvg-logo="https://i.postimg.cc/zB7w8PWV/Discovery.png" tvg-chno="45" group-title="Nayeem's BDCast",Discovery HD
+#EXTINF:-1 tvg-id="5150x44c" tvg-name="Discovery HD" tvg-logo="https://i.postimg.cc/zB7w8PWV/Discovery.png" tvg-chno="45" group-title="SR BDCast",Discovery HD
 https://entezeetv.fun/bdcast/hls/index.m3u8?id=5150x44c&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
-#EXTINF:-1 tvg-id="d60o0c54" tvg-name="Republic Bangla TV" tvg-logo="https://i.postimg.cc/wxJnq4NB/Republic-Bangla.png" tvg-chno="46" group-title="Nayeem's BDCast",Republic Bangla TV
+#EXTINF:-1 tvg-id="d60o0c54" tvg-name="Republic Bangla TV" tvg-logo="https://i.postimg.cc/wxJnq4NB/Republic-Bangla.png" tvg-chno="46" group-title="SR BDCast",Republic Bangla TV
 https://entezeetv.fun/bdcast/hls/index.m3u8?id=d60o0c54&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
-#EXTINF:-1 tvg-id="q921cn70" tvg-name="Zee Bangla" tvg-logo="https://i.postimg.cc/FRDK6FxY/Zee-Bangla.png" tvg-chno="47" group-title="Nayeem's BDCast",Zee Bangla
+#EXTINF:-1 tvg-id="q921cn70" tvg-name="Zee Bangla" tvg-logo="https://i.postimg.cc/FRDK6FxY/Zee-Bangla.png" tvg-chno="47" group-title="SR BDCast",Zee Bangla
 https://entezeetv.fun/bdcast/hls/index.m3u8?id=q921cn70&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
-#EXTINF:-1 tvg-id="2oxadfdx" tvg-name="Zee Bangla HD" tvg-logo="https://i.postimg.cc/q7HXJQH8/Zee-Bangla-HD.png" tvg-chno="48" group-title="Nayeem's BDCast",Zee Bangla HD
+#EXTINF:-1 tvg-id="2oxadfdx" tvg-name="Zee Bangla HD" tvg-logo="https://i.postimg.cc/q7HXJQH8/Zee-Bangla-HD.png" tvg-chno="48" group-title="SR BDCast",Zee Bangla HD
 https://entezeetv.fun/bdcast/hls/index.m3u8?id=2oxadfdx&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
-#EXTINF:-1 tvg-id="f77vf029" tvg-name="Zee Bangla Cinema" tvg-logo="https://i.postimg.cc/kGHYf86f/Zee-Bangla-Cinema.png" tvg-chno="49" group-title="Nayeem's BDCast",Zee Bangla Cinema
+#EXTINF:-1 tvg-id="f77vf029" tvg-name="Zee Bangla Cinema" tvg-logo="https://i.postimg.cc/kGHYf86f/Zee-Bangla-Cinema.png" tvg-chno="49" group-title="SR BDCast",Zee Bangla Cinema
 https://entezeetv.fun/bdcast/hls/index.m3u8?id=f77vf029&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
-#EXTINF:-1 tvg-id="0RTkWfzB" tvg-name="Enterr10 Bangla" tvg-logo="https://i.postimg.cc/Bvc76qGZ/Enterr10-Bangla.png" tvg-chno="50" group-title="Nayeem's BDCast",Enterr10 Bangla
+#EXTINF:-1 tvg-id="0RTkWfzB" tvg-name="Enterr10 Bangla" tvg-logo="https://i.postimg.cc/Bvc76qGZ/Enterr10-Bangla.png" tvg-chno="50" group-title="SR BDCast",Enterr10 Bangla
 https://entezeetv.fun/bdcast/hls/index.m3u8?id=0RTkWfzB&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
-#EXTINF:-1 tvg-id="4eavizab" tvg-name="Sangeet Bangla" tvg-logo="https://i.postimg.cc/XvD5ZgTH/Sangeet-Bangla.png" tvg-chno="51" group-title="Nayeem's BDCast",Sangeet Bangla
+#EXTINF:-1 tvg-id="4eavizab" tvg-name="Sangeet Bangla" tvg-logo="https://i.postimg.cc/XvD5ZgTH/Sangeet-Bangla.png" tvg-chno="51" group-title="SR BDCast",Sangeet Bangla
 https://entezeetv.fun/bdcast/hls/index.m3u8?id=4eavizab&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
-#EXTINF:-1 tvg-id="he4be5di" tvg-name="TV9 Bangla" tvg-logo="https://i.postimg.cc/J0zSc30y/TV9-Bangla.png" tvg-chno="52" group-title="Nayeem's BDCast",TV9 Bangla
+#EXTINF:-1 tvg-id="he4be5di" tvg-name="TV9 Bangla" tvg-logo="https://i.postimg.cc/J0zSc30y/TV9-Bangla.png" tvg-chno="52" group-title="SR BDCast",TV9 Bangla
 https://entezeetv.fun/bdcast/hls/index.m3u8?id=he4be5di&e=.m3u8|Referer=https://entezeetv.fun/bdcast/
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
