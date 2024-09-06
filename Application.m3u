@@ -1,10 +1,6 @@
 #EXTM3U
 Application.m3u
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/F8qb3L9/20240817-143011.png" group-title="𝗦𝗥 𝗣𝗥𝗘𝗠𝗜𝗨𝗠", t.me/sr_premium
-https://pixeldrain.com/api/file/JdMKTzC9
-
-
 #EXTINF:-1 tvg-id="4ed08af5" tvg-name="Somoy News" tvg-logo="https://i.postimg.cc/4yvnV8sK/Somoy-TV.png" tvg-chno="2" group-title="SR News",Somoy News BDCAST
 https://entezeetv.fun/bdcast/hls/index.m3u8?id=4ed08af5&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
 
