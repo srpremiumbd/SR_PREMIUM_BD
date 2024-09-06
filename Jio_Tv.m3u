@@ -1,5 +1,7 @@
 #EXTM3U x-tvg-url="http://14.102.123.50:5001/epg.xml.gz"
-#EXTINF:-1 tvg-logo="https://i.ibb.co/1nCNCM7/20240803-185219.png" group-title="𝗝𝗢𝗜𝗡 𝗢𝗨𝗥 𝗧𝗘𝗟𝗘𝗚𝗥𝗔𝗠", t.me/bdixiptvhub
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/F8qb3L9/20240817-143011.png" group-title="𝗦𝗥 𝗣𝗥𝗘𝗠𝗜𝗨𝗠", t.me/sr_premium
+https://pixeldrain.com/api/file/JdMKTzC9
 http://14.102.123.50:5001/live/143.m3u8
 #EXTINF:-1 tvg-id=143 tvg-name="CNBC Tv18 Prime HD" tvg-logo="http://14.102.123.50:5001/jtvimage/CNBC_Tv18_Prime_HD.png" tvg-language="English" tvg-type="Business" group-title="Business", CNBC Tv18 Prime HD
 http://14.102.123.50:5001/live/143.m3u8
