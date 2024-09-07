@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/F8qb3L9/20240817-143011.png" group-title="𝗦𝗥 𝗣𝗥𝗘𝗠𝗜𝗨𝗠", t.me/sr_premium
+https://pixeldrain.com/api/file/JdMKTzC9
 
 #EXTINF:-1 tvg-id="4ed08af5" tvg-name="Somoy News" tvg-logo="https://i.postimg.cc/4yvnV8sK/Somoy-TV.png" tvg-chno="2" group-title="SR News",Somoy News BDCAST
 https://entezeetv.fun/bdcast/hls/index.m3u8?id=4ed08af5&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
@@ -1896,3 +1898,15 @@ https://pixeldra.in/api/file/PoS6P57h?download
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZTk0OTdmNzQtOGY3Ni00YmRlLWFiMDEtOTAyZGYxN2E1ZWEyXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_FMjpg_UX1000_.jpg" group-title="SR BDIX Kolkata", Le Chakka (2010)
 https://pixeldra.in/api/file/Z74JYVYQ?download
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYdKYGqW/image.png" group-title="SR BDIX Bangla Web", Lojja (2024)
+https://pixeldra.in/api/file/5DBBZ4DA?download
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC_mCCgDJin3c7FWX3FTQ5WbxwiIvr9f9hVfwfbmAljnEjvsafMuADTQU&s=10" group-title="SR BDIX Bangla Web", Uttoron (2022)
+https://pixeldra.in/api/file/n5SCyr1y?download
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sfRxd1tRcW3p9eJiVEFghLN3o6N.jpg" group-title="SR BDIX Bangla Web", Hello Remember Me (2022)
+https://pixeldra.in/api/file/MV66Zi1T?download
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BODc3N2NiZjgtNjdkYS00OGRmLTlmZjUtODc5NzYzM2VjMjM0XkEyXkFqcGdeQXVyMTUzNTgzNzM0._V1_FMjpg_UX1000_.jpg" group-title="SR BDIX Bangla Web", Dakghor (2023)
+https://pixeldra.in/api/file/CcVY6HsQ?download
