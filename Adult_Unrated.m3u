@@ -279,3 +279,9 @@ http://server3.ftpbd.net/FTP-3/Hindi%20TV%20Series/Gandii%20Baat%20%28TV%20Serie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/lKyQHpleUeZt7xNWrzFm577y80l.jpg" group-title="SR BDIX Hindi Web", Bekaaboo S01 (2019)
 https://pixeldra.in/api/file/3HQVurFj?download
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/tZfgEmLluwGTekxBx6e12DtlagC.jpg" group-title="SR BDIX Hindi Web", Bekaaboo S02 (2021)
+https://pixeldra.in/api/file/ZXAJaeSA?download
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR43iMCTheQ1zyUL6OtNZ5TE4k-kujgN_e81Hm7JFw1yPK4kPCeJ0URkTrf&s=10" group-title="SR BDIX Hindi Web", Bekaaboo S03 (2023)
+https://pixeldra.in/api/file/W72CqHk5?download
+
