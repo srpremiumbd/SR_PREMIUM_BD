@@ -135,7 +135,7 @@ https://allinonereborn.com/livetv-web/live.php?id=5094&vtoken=&e=.m3u8
 https://cdn2.pishow.tv/live/156/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d2RxB8P/20240817-133048.png" group-title="SR Movies", Goldmines
-https://evbr.short.gy/BDStreamHub/Goldmines.ts
+http://172.105.123.238:18002/play/a00z
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QCCFhSh/20240817-133814.png" group-title="SR Entertainment", Enterr10 Bangla
