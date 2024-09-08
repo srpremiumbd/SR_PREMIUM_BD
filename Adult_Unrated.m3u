@@ -489,3 +489,9 @@ http://server4.ftpbd.net/FTP-4/English%20%26%20Foreign%20TV%20Series/Supersex%20
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Dw9ybX1G/image.png" group-title="SR BDIX Supersex S01 (2024)", Episode 07
 http://server4.ftpbd.net/FTP-4/English%20%26%20Foreign%20TV%20Series/Supersex%20%28TV%20Series%202024-%29/Season%2001%201080p%20%5BHindi-English%5D/Supersex.S01E07.1080p.WEB-DL.HIN-ENG.5.1.x264.MSub.mkv
 
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81Xcv9kUFbL._SX342_.jpg" group-title="SR BDIX Hollywood", Piranha 3D (2010)
+http://172.16.50.7/DHAKA-FLIX-7/English%20Movies/%282010%29/Piranha%203D%20%282010%29%20720p%20%5BDual%20Audio%5D/Piranha%203D%20%282010%29%20720p%20BluRay%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv
+
+#EXTINF:-1 tvg-logo="http://172.16.50.7/DHAKA-FLIX-7/English%20Movies/%282012%29/Piranha%203DD%20%282012%29%20720p%20%5BDual%20Audio%5D/Piranha%203DD%20%282012%29%20720p%20BluRay%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-%20mkvC.mkv" group-title="SR BDIX Hollywood", Piranha 3DD (2012)
+http://172.16.50.7/DHAKA-FLIX-7/English%20Movies/%282012%29/Piranha%203DD%20%282012%29%20720p%20%5BDual%20Audio%5D/Piranha%203DD%20%282012%29%20720p%20BluRay%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-%20mkvC.mkv
+
