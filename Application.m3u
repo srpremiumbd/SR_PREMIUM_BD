@@ -3,6 +3,9 @@
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F8qb3L9/20240817-143011.png" group-title="𝗦𝗥 𝗣𝗥𝗘𝗠𝗜𝗨𝗠", t.me/sr_premium
 https://pixeldrain.com/api/file/JdMKTzC9
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/T432dfs/20240815-181328.png" group-title="SR Bangladeshi", Rtv 
+https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=rtv
+
 #EXTINF:-1 tvg-id="4ed08af5" tvg-name="Somoy News" tvg-logo="https://i.postimg.cc/4yvnV8sK/Somoy-TV.png" tvg-chno="2" group-title="SR News",Somoy News BDCAST
 https://entezeetv.fun/bdcast/hls/index.m3u8?id=4ed08af5&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
 
@@ -1541,13 +1544,13 @@ https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/tsports/op.m3u8?id=li
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Gs6ttXW/a-AL.jpg" group-title="SR BDIX Aapka Apna Zakir" , Episode S1EP07
 http://172.16.50.9/DHAKA-FLIX-9/Awards%20%26%20TV%20Shows/%23%20TV%20SPECIAL%20%26%20SHOWS/Aapka%20Apna%20Zakir%20%28TV%20Shows%202024%E2%80%93%20%29%20720p/Season%201%20%28Hindi%20Language%29/Aapka%20Apna%20Zakir%20S01E07%20Hindi%20720p%20SONY%20WEBRip%20x264%20AAC%20-%20mkvCinemas.mkv
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gdkmbPJ/3x4-1722094497876.jpg" group-title="SR BDIX Khatron Ke Khiladi S14 " , Episode S14EP11
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/YZb1NJq/image.png" group-title="SR BDIX Khatron Ke Khiladi S14 " , Episode S14EP11
 https://f1.fastdl.lol/Khatron.Ke.Khiladi.S014EP11.720p.WeB-DL.HINDI.2CH.x264-SkymoviesHD.mkv
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Gs6ttXW/a-AL.jpg" group-title="SR BDIX Aapka Apna Zakir" , Episode S1EP08
 http://172.16.50.9/DHAKA-FLIX-9/Awards%20%26%20TV%20Shows/%23%20TV%20SPECIAL%20%26%20SHOWS/Aapka%20Apna%20Zakir%20%28TV%20Shows%202024%E2%80%93%20%29%20720p/Season%201%20%28Hindi%20Language%29/Aapka%20Apna%20Zakir%20S01E08%20Hindi%20720p%20SONY%20WEBRip%20x264%20AAC%20-%20mkvCinemas.mkv
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gdkmbPJ/3x4-1722094497876.jpg" group-title="SR BDIX Khatron Ke Khiladi S14 " , Episode S14EP12
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/YZb1NJq/image.png" group-title="SR BDIX Khatron Ke Khiladi S14 " , Episode S14EP12
 https://pixeldra.in/api/file/5tvtAoq4?download
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTM4lK0IeKZWPWRGFFl9cXHsxo3ksvM5u_efXG3KmTCZeMr0lE5uOmZlPA7&s=10" group-title="SR BDIX South" , Srinivasa Kalyanam (2018)
@@ -1924,7 +1927,7 @@ http://server4.ftpbd.net/FTP-4/English%20%26%20Foreign%20TV%20Series/Squid%20Gam
 http://server4.ftpbd.net/FTP-4/English%20%26%20Foreign%20TV%20Series/Squid%20Game%20%28Tv%20series%202021%29/Season%201%201080p%20Dual%20Audio/Squid.Game.S01E03.The.Man.With.The.Umbrella.1080p.10bit.DDP.5.1.x265.%5BHashMiner%5D.mkv
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVHLjhrTtUTSO8sHRax-XIL9Z9JY9EtY6cdi-LueaS2fvvSXJZJsaL1JQ&s=10" group-title="SR BDIX Squid Game S01 (2021)", Episode 04
-http://server4.ftpbd.net/FTP-4/English%20%26%20Foreign%20TV%20Series/Squid%20Game%20%28Tv%20series%202021%29/Season%201%201080p%20Dual%20Audio/Squid.Game.S01E04.Stick.To.The.Team.1080p.10bit.DDP.5.1.x265.%5BHashMiner%5D.mkv
+https://pixeldrain.com/api/file/Lj1zWott
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVHLjhrTtUTSO8sHRax-XIL9Z9JY9EtY6cdi-LueaS2fvvSXJZJsaL1JQ&s=10" group-title="SR BDIX Squid Game S01 (2021)", Episode 05
 http://server4.ftpbd.net/FTP-4/English%20%26%20Foreign%20TV%20Series/Squid%20Game%20%28Tv%20series%202021%29/Season%201%201080p%20Dual%20Audio/Squid.Game.S01E05.A.Fair.World.1080p.10bit.DDP.5.1.x265.%5BHashMiner%5D.mkv
@@ -2028,8 +2031,20 @@ https://pixeldrain.com/api/file/SGHrE8QU
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/02MjMh8/kkk-12-3x4-1656410642168.jpg" group-title="SR BDIX Khatron Ke Khiladi S12" , Episode S12EP26
 https://pixeldrain.com/api/file/pLQsC84a
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gdkmbPJ/3x4-1722094497876.jpg" group-title="SR BDIX Khatron Ke Khiladi S14 " , Episode S14EP13
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/YZb1NJq/image.png" group-title="SR BDIX Khatron Ke Khiladi S14 " , Episode S14EP13
 https://pixeldra.in/api/file/1Ayc2hUH?download
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Gs6ttXW/a-AL.jpg" group-title="SR BDIX Aapka Apna Zakir" , Episode S1EP09
 https://pixeldra.in/api/file/LPhXDCiZ?download
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/YZb1NJq/image.png" group-title="SR BDIX Khatron Ke Khiladi S14 " , Episode S14EP14
+https://pixeldra.in/api/file/nJ83uXfD?download
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Gs6ttXW/a-AL.jpg" group-title="SR BDIX Aapka Apna Zakir" , Episode S1EP10
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qYtrKXX/80b0b69f3c1ded875e48e5005f9ef8d4.jpg" group-title="SR BDIX Dadagiri Unlimited S10" ,5th May 2024 Grand Finale
+https://pixeldrain.com/api/file/KSeQDfpw
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/B6wZFMm/images.jpg" group-title="SR BDIX TV Show" , Zee Bangla Sonar Sansar Awards 2024
+https://pixeldrain.com/api/file/mM8QVbcX
+
