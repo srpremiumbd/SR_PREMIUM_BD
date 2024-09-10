@@ -108,7 +108,7 @@ http://172.16.29.34/ontest1/ontest1/323
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7twc8zN/20240818-124547.png" group-title="SR Entertainment" ,Sony Aath
-https://proximity-team.xyz/Fazla-Rabby/toxic.m3u
+https://proximity-team.xyz/dev/tofi.php?m3u8=https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_aath/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hX8xKVW/20240816-152834.png" group-title="SR Movies" ,Jalsha Movies HD
 http://tv.cloudcdn.me/live.ts?channelId=117&uid=5284&deviceMac=00:1A:79:17:C0:71
@@ -2222,4 +2222,3 @@ https://ghyu67.b-cdn.net/upload/videos/2023/11/[Fibwatch.Com]Inttelligent.(2023)
 
 #EXTINF:-1 tvg-logo="https://moviebaaz.pro/wp-content/uploads/2023/06/images5-203x300.jpg" group-title="SR BDIX Bangla Dubbed", Yevadu-Revenge (2023)
 https://ghyu67.b-cdn.net/upload/videos/2023/06/[Fibwatch.com]Yevadu.Revenge.(2023).Bengali.Dubbed.ORG.720p.mkv
-
