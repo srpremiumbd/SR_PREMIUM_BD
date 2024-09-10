@@ -94,7 +94,7 @@ http://ekdilhai.pro/IN_ColorsBengali/tracks-v1a1/mono.m3u8
 http://14.102.123.50:5001/live/1657.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kHtw2YZ/20240816-160121.png" group-title="SR Entertainment" ,Sony TV HD
-http://opplex.tv:8080/6606/123654/109948
+https://proximity-team.xyz/dev/tofi.php?m3u8=https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_entertainmnt_hd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kHtw2YZ/20240816-160121.png" group-title="SR Entertainment" ,Sony TV HD (BDIX)
 http://172.16.29.34/ontest1/ontest1/395
@@ -108,7 +108,7 @@ http://172.16.29.34/ontest1/ontest1/323
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7twc8zN/20240818-124547.png" group-title="SR Entertainment" ,Sony Aath
-https://mhdtvweb.com/sliv/stream.php?id=sony-aath&e=.m3u8|Referer=https://mhdtvweb.com//&key=thenayeemparvez
+https://proximity-team.xyz/dev/tofi.php?m3u8=https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_aath/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hX8xKVW/20240816-152834.png" group-title="SR Movies" ,Jalsha Movies HD
 http://tv.cloudcdn.me/live.ts?channelId=117&uid=5284&deviceMac=00:1A:79:17:C0:71
@@ -1541,17 +1541,6 @@ https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/tsports/op.m3u8?id=li
 #EXTINF:-1 tvg-logo="https://image.tsports.com/images/mobile_logo/1719672720-LIVE.jpg" group-title="SR Sports" ,T Sports Live 1
 https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/tsports/op.m3u8?id=live-01
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Gs6ttXW/a-AL.jpg" group-title="SR BDIX Aapka Apna Zakir" , Episode S1EP07
-http://172.16.50.9/DHAKA-FLIX-9/Awards%20%26%20TV%20Shows/%23%20TV%20SPECIAL%20%26%20SHOWS/Aapka%20Apna%20Zakir%20%28TV%20Shows%202024%E2%80%93%20%29%20720p/Season%201%20%28Hindi%20Language%29/Aapka%20Apna%20Zakir%20S01E07%20Hindi%20720p%20SONY%20WEBRip%20x264%20AAC%20-%20mkvCinemas.mkv
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/YZb1NJq/image.png" group-title="SR BDIX Khatron Ke Khiladi S14 " , Episode S14EP11
-https://f1.fastdl.lol/Khatron.Ke.Khiladi.S014EP11.720p.WeB-DL.HINDI.2CH.x264-SkymoviesHD.mkv
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Gs6ttXW/a-AL.jpg" group-title="SR BDIX Aapka Apna Zakir" , Episode S1EP08
-http://172.16.50.9/DHAKA-FLIX-9/Awards%20%26%20TV%20Shows/%23%20TV%20SPECIAL%20%26%20SHOWS/Aapka%20Apna%20Zakir%20%28TV%20Shows%202024%E2%80%93%20%29%20720p/Season%201%20%28Hindi%20Language%29/Aapka%20Apna%20Zakir%20S01E08%20Hindi%20720p%20SONY%20WEBRip%20x264%20AAC%20-%20mkvCinemas.mkv
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/YZb1NJq/image.png" group-title="SR BDIX Khatron Ke Khiladi S14 " , Episode S14EP12
-https://pixeldra.in/api/file/5tvtAoq4?download
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTM4lK0IeKZWPWRGFFl9cXHsxo3ksvM5u_efXG3KmTCZeMr0lE5uOmZlPA7&s=10" group-title="SR BDIX South" , Srinivasa Kalyanam (2018)
 http://server3.ftpbd.net/FTP-3/South%20Indian%20Movies/HINDI%20DUBBED/%282018%29/Srinivasa%20Kalyanam%20%282018%29%201080p%20WEBRip%20%5BHindi%20Dubbed%5D/Srinivasa%20Kalyanam%202018%20WebRip%201080p%20Hindi%20DD%202.0%20x264%20ESub.mkv
@@ -2031,17 +2020,6 @@ https://pixeldrain.com/api/file/SGHrE8QU
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/02MjMh8/kkk-12-3x4-1656410642168.jpg" group-title="SR BDIX Khatron Ke Khiladi S12" , Episode S12EP26
 https://pixeldrain.com/api/file/pLQsC84a
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/YZb1NJq/image.png" group-title="SR BDIX Khatron Ke Khiladi S14 " , Episode S14EP13
-https://pixeldra.in/api/file/1Ayc2hUH?download
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Gs6ttXW/a-AL.jpg" group-title="SR BDIX Aapka Apna Zakir" , Episode S1EP09
-https://pixeldra.in/api/file/LPhXDCiZ?download
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/YZb1NJq/image.png" group-title="SR BDIX Khatron Ke Khiladi S14 " , Episode S14EP14
-https://pixeldra.in/api/file/nJ83uXfD?download
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Gs6ttXW/a-AL.jpg" group-title="SR BDIX Aapka Apna Zakir" , Episode S1EP10
-https://pixeldra.in/api/file/u4HjY8eC?download
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qYtrKXX/80b0b69f3c1ded875e48e5005f9ef8d4.jpg" group-title="SR BDIX Dadagiri Unlimited S10" ,5th May 2024 Grand Finale
 https://pixeldrain.com/api/file/KSeQDfpw
@@ -2205,6 +2183,368 @@ https://pixeldra.in/api/file/dXjh7dtp?download
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/4f1e322fe696eb0e5fc04ea98b1c081c5ed986b8efaea262e52f3d607a361a82.jpg" group-title="SR BDIX Kolkata" ,Kellafate (2010)
 https://pixeldra.in/api/file/5xyQhJuX?download
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQvj83VrUkDEWjXL90UxNj3l2aSAupE1e0E93Q-YHqwtydfk--el1rTTpt&s=10" group-title="SR BDIX Bangla Web" ,The Broker (2021)
+http://45.250.20.254/collection/Movies/Bangla%20%28BD%29/The%20Broker%20%282021%29%201080p%20WEBDL.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/kf9hLK41XcPFT33f3ahDeYIvXvJ.jpg" group-title="SR BDIX Bangladesh" ,Hawa (2022)
+https://ghyu67.b-cdn.net/upload/videos/2023/08/[Fibwatch.Com]Hawa.(2022).Bengali.1080p.mkv
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L85nTVNY/1725883958107-Thalavan-hindi-set2-portrait-thumb-New-Movie.jpg" group-title="SR BDIX Hindi Web" ,Thalavan (2024) [Hin+Ban]
+https://ghyu67.b-cdn.net/upload/videos/2024/09/[Fibwatch.Com]Thalavan.(2024).Dual.720p.mkv
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4LpSkljdUP3gXG_M_W-0tlg56e8MIAXbv9xpfKQW4lfs3Sfi2E0mRMcg&s=10" group-title="SR BDIX Bangla Web" ,Shesh Chithi (2022)
+https://ghyu67.b-cdn.net/upload/videos/2023/04/[Fibwatch.Com]Shesh.Chithi.(2022).720p.mkv
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcvcaJQLZnFDWGlCs7FpEGU1dLBVi7yYW5Th3t6nt_O_J2gHpgTqo-_SC-&s=10" group-title="SR BDIX Bangla Dubbed", Inttelligent (2023)
+https://ghyu67.b-cdn.net/upload/videos/2023/11/[Fibwatch.Com]Inttelligent.(2023).Bengali.Dubbed.ORG.1080p.mkv
+
+#EXTINF:-1 tvg-logo="https://moviebaaz.pro/wp-content/uploads/2023/06/images5-203x300.jpg" group-title="SR BDIX Bangla Dubbed", Yevadu-Revenge (2023)
+https://ghyu67.b-cdn.net/upload/videos/2023/06/[Fibwatch.com]Yevadu.Revenge.(2023).Bengali.Dubbed.ORG.720p.mkv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/zsGjjmr/w-Qj-Dpd-Bh-CDu-Kkude-Gfm-Lw2-YIJlg.jpg" group-title="SR BDIX South" , Romeo Juliet (2015)
+https://pixeldra.in/api/file/4V7QnXcB?download
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTF4T38gnTgAnKT6lEQyzgsccmWqsv6QPxNyc0vhNrNlwei5yHT2puvYAI&s=10" group-title="SR BDIX Bollywood" , Luka Chuppi (2019)
 http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2019/Luka%20Chuppi%20%282019%29%20Hindi%20%201080p/Luka%20Chuppi%202019%20Hindi%20%201080p%20HDRip%20x264%202.5GB%20ESubs%5BMB%5D.mkv
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/YZb1NJq/image.png" group-title="SR BDIX Khatron Ke Khiladi S14 " , Episode S14EP11
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Fear%20Factor%20Khatron%20Ke%20Khiladi%20%28TV%20Series%202008%29/Season%2014/Khatron.Ke.Khiladi.S14E11.1080p.WEB-DL.AAC2.0.x264.ESub.mkv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/YZb1NJq/image.png" group-title="SR BDIX Khatron Ke Khiladi S14 " , Episode S14EP12
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Fear%20Factor%20Khatron%20Ke%20Khiladi%20%28TV%20Series%202008%29/Season%2014/Khatron.Ke.Khiladi.S14E12.1080p.WEB-DL.AAC2.0.x264.ESub.mkv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/YZb1NJq/image.png" group-title="SR BDIX Khatron Ke Khiladi S14 " , Episode S14EP13
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Fear%20Factor%20Khatron%20Ke%20Khiladi%20%28TV%20Series%202008%29/Season%2014/Khatron.Ke.Khiladi.S14E13.1080p.WEB-DL.AAC2.0.x264.ESub.mkv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/YZb1NJq/image.png" group-title="SR BDIX Khatron Ke Khiladi S14 " , Episode S14EP14
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Fear%20Factor%20Khatron%20Ke%20Khiladi%20%28TV%20Series%202008%29/Season%2014/Khatron.Ke.Khiladi.S14E14.1080p.WEB-DL.AAC2.0.x264.ESub.mkv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Gs6ttXW/a-AL.jpg" group-title="SR BDIX Aapka Apna Zakir" , Episode S1EP07
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Aapka%20Apna%20Zakir%20%28TV%20Series%202024-%29/Season%2001%201080p/Aapka%20Apna%20Zakir%20Episode%207.1080p.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Gs6ttXW/a-AL.jpg" group-title="SR BDIX Aapka Apna Zakir" , Episode S1EP08
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Aapka%20Apna%20Zakir%20%28TV%20Series%202024-%29/Season%2001%201080p/Aapka%20Apna%20Zakir%20Episode%208.1080p.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Gs6ttXW/a-AL.jpg" group-title="SR BDIX Aapka Apna Zakir" , Episode S1EP09
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Aapka%20Apna%20Zakir%20%28TV%20Series%202024-%29/Season%2001%201080p/Aapka%20Apna%20Zakir%20Episode%209.1080p.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Gs6ttXW/a-AL.jpg" group-title="SR BDIX Aapka Apna Zakir" , Episode S1EP10
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Aapka%20Apna%20Zakir%20%28TV%20Series%202024-%29/Season%2001%201080p/Aapka%20Apna%20Zakir%20Episode%2010.1080p.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg" group-title="Bigg Boss S17 (2023)", S17EP01
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E01.1080p.WEB-DL.AAC2.0.x264.mkv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg" group-title="Bigg Boss S17 (2023)", S17EP02
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E02.1080p.WEB-DL.AAC2.0.x264.mkv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg" group-title="Bigg Boss S17 (2023)", S17EP03
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E03.1080p.WEB-DL.AAC2.0.x264.mkv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg" group-title="Bigg Boss S17 (2023)", S17EP04
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E04.1080p.WEB-DL.AAC2.0.x264.mkv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg" group-title="Bigg Boss S17 (2023)", S17EP05
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E05.1080p.WEB-DL.AAC2.0.x264.mkv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg" group-title="Bigg Boss S17 (2023)", S17EP06
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E06.1080p.WEB-DL.AAC2.0.x264.mkv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg" group-title="Bigg Boss S17 (2023)", S17EP07
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E07.1080p.WEB-DL.AAC2.0.x264.mkv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg" group-title="Bigg Boss S17 (2023)", S17EP08
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E08.1080p.WEB-DL.AAC2.0.x264.mkv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg" group-title="Bigg Boss S17 (2023)", S17EP09
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E09.1080p.WEB-DL.AAC2.0.x264.mkv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg" group-title="Bigg Boss S17 (2023)", S17EP10
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E10.1080p.WEB-DL.AAC2.0.x264.mkv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg" group-title="Bigg Boss S17 (2023)", S17EP11
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E11.1080p.WEB-DL.AAC2.0.x264.mkv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg" group-title="Bigg Boss S17 (2023)", S17EP12
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E12.1080p.WEB-DL.AAC2.0.x264.mkv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg" group-title="Bigg Boss S17 (2023)", S17EP13
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E13.1080p.WEB-DL.AAC2.0.x264.mkv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg" group-title="Bigg Boss S17 (2023)", S17EP14
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E14.1080p.WEB-DL.AAC2.0.x264.mkv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg" group-title="Bigg Boss S17 (2023)", S17EP15
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E15.1080p.WEB-DL.AAC2.0.x264.mkv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg" group-title="Bigg Boss S17 (2023)", S17EP16
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E16.1080p.WEB-DL.AAC2.0.x264.mkv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg" group-title="Bigg Boss S17 (2023)", S17EP17
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E17.1080p.WEB-DL.AAC2.0.x264.mkv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg" group-title="Bigg Boss S17 (2023)", S17EP18
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E18.1080p.WEB-DL.AAC2.0.x264.mkv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg" group-title="Bigg Boss S17 (2023)", S17EP19
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E19.1080p.WEB-DL.AAC2.0.x264.mkv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg" group-title="Bigg Boss S17 (2023)", S17EP20
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E20.1080p.WEB-DL.AAC2.0.x264.mkv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg" group-title="Bigg Boss S17 (2023)", S17EP21
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E21.1080p.WEB-DL.AAC2.0.x264.mkv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg" group-title="Bigg Boss S17 (2023)", S17EP22
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E22.1080p.WEB-DL.AAC2.0.x264.mkv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg" group-title="Bigg Boss S17 (2023)", S17EP23
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E23.1080p.WEB-DL.AAC2.0.x264.mkv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg" group-title="Bigg Boss S17 (2023)", S17EP24
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E24.1080p.WEB-DL.AAC2.0.x264.mkv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg" group-title="Bigg Boss S17 (2023)", S17EP25
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E25.1080p.WEB-DL.AAC2.0.x264.mkv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg" group-title="Bigg Boss S17 (2023)", S17EP26
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E26.1080p.WEB-DL.AAC2.0.x264.mkv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg" group-title="Bigg Boss S17 (2023)", S17EP27
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E27.1080p.WEB-DL.AAC2.0.x264.mkv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg" group-title="Bigg Boss S17 (2023)", S17EP28
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E28.1080p.WEB-DL.AAC2.0.x264.mkv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg" group-title="Bigg Boss S17 (2023)", S17EP29
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E29.1080p.WEB-DL.AAC2.0.x264.mkv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg" group-title="Bigg Boss S17 (2023)", S17EP30
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E30.1080p.WEB-DL.AAC2.0.x264.mkv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg" group-title="Bigg Boss S17 (2023)", S17EP31
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E31.1080p.WEB-DL.AAC2.0.x264.mkv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg" group-title="Bigg Boss S17 (2023)", S17EP32
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E32.1080p.WEB-DL.AAC2.0.x264.mkv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg" group-title="Bigg Boss S17 (2023)", S17EP33
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E33.1080p.WEB-DL.AAC2.0.x264.mkv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg" group-title="Bigg Boss S17 (2023)", S17EP34
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E34.1080p.WEB-DL.AAC2.0.x264.mkv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg" group-title="Bigg Boss S17 (2023)", S17EP35
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E35.1080p.WEB-DL.AAC2.0.x264.mkv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg" group-title="Bigg Boss S17 (2023)", S17EP36
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E36.1080p.WEB-DL.AAC2.0.x264.mkv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg" group-title="Bigg Boss S17 (2023)", S17EP37
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E37.1080p.WEB-DL.AAC2.0.x264.mkv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg" group-title="Bigg Boss S17 (2023)", S17EP38
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E38.1080p.WEB-DL.AAC2.0.x264.mkv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg" group-title="Bigg Boss S17 (2023)", S17EP39
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E39.1080p.WEB-DL.AAC2.0.x264.mkv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg" group-title="Bigg Boss S17 (2023)", S17EP40
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E40.1080p.WEB-DL.AAC2.0.x264.mkv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg" group-title="Bigg Boss S17 (2023)", S17EP41
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E41.1080p.WEB-DL.AAC2.0.x264.mkv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg" group-title="Bigg Boss S17 (2023)", S17EP42
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E42.1080p.WEB-DL.AAC2.0.x264.mkv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg" group-title="Bigg Boss S17 (2023)", S17EP43
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E43.1080p.WEB-DL.AAC2.0.x264.mkv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg" group-title="Bigg Boss S17 (2023)", S17EP44
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E44.1080p.WEB-DL.AAC2.0.x264.mkv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg" group-title="Bigg Boss S17 (2023)", S17EP45
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E45.1080p.WEB-DL.AAC2.0.x264.mkv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg" group-title="Bigg Boss S17 (2023)", S17EP46
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E46.1080p.WEB-DL.AAC2.0.x264.mkv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg" group-title="Bigg Boss S17 (2023)", S17EP47
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E47.1080p.WEB-DL.AAC2.0.x264.mkv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg" group-title="Bigg Boss S17 (2023)", S17EP48
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E48.1080p.WEB-DL.AAC2.0.x264.mkv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg" group-title="Bigg Boss S17 (2023)", S17EP49
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E49.1080p.WEB-DL.AAC2.0.x264.mkv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg" group-title="Bigg Boss S17 (2023)", S17EP50
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E50.1080p.WEB-DL.AAC2.0.x264.mkv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg" group-title="Bigg Boss S17 (2023)", S17EP51
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E51.1080p.WEB-DL.AAC2.0.x264.mkv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg" group-title="Bigg Boss S17 (2023)", S17EP52
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E52.1080p.WEB-DL.AAC2.0.x264.mkv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg" group-title="Bigg Boss S17 (2023)", S17EP53
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E53.1080p.WEB-DL.AAC2.0.x264.mkv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg" group-title="Bigg Boss S17 (2023)", S17EP54
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E54.1080p.WEB-DL.AAC2.0.x264.mkv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg" group-title="Bigg Boss S17 (2023)", S17EP55
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E55.1080p.WEB-DL.AAC2.0.x264.mkv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg" group-title="Bigg Boss S17 (2023)", S17EP56
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E56.1080p.WEB-DL.AAC2.0.x264.mkv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg" group-title="Bigg Boss S17 (2023)", S17EP57
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E57.1080p.WEB-DL.AAC2.0.x264.mkv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg" group-title="Bigg Boss S17 (2023)", S17EP58
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E58.1080p.WEB-DL.AAC2.0.x264.mkv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg" group-title="Bigg Boss S17 (2023)", S17EP59
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E59.1080p.WEB-DL.AAC2.0.x264.mkv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg" group-title="Bigg Boss S17 (2023)", S17EP60
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E60.1080p.WEB-DL.AAC2.0.x264.mkv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg" group-title="Bigg Boss S17 (2023)", S17EP61
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E61.1080p.WEB-DL.AAC2.0.x264.mkv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg" group-title="Bigg Boss S17 (2023)", S17EP62
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E62.1080p.WEB-DL.AAC2.0.x264.mkv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg" group-title="Bigg Boss S17 (2023)", S17EP63
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E63.1080p.WEB-DL.AAC2.0.x264.mkv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg" group-title="Bigg Boss S17 (2023)", S17EP64
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E64.1080p.WEB-DL.AAC2.0.x264.mkv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg" group-title="Bigg Boss S17 (2023)", S17EP65
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E65.1080p.WEB-DL.AAC2.0.x264.mkv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg" group-title="Bigg Boss S17 (2023)", S17EP66
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E66.1080p.WEB-DL.AAC2.0.x264.mkv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg" group-title="Bigg Boss S17 (2023)", S17EP67
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E67.1080p.WEB-DL.AAC2.0.x264.mkv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg" group-title="Bigg Boss S17 (2023)", S17EP68
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E68.1080p.WEB-DL.AAC2.0.x264.mkv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg" group-title="Bigg Boss S17 (2023)", S17EP69
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E69.1080p.WEB-DL.AAC2.0.x264.mkv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg" group-title="Bigg Boss S17 (2023)", S17EP70
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E70.1080p.WEB-DL.AAC2.0.x264.mkv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg" group-title="Bigg Boss S17 (2023)", S17EP71
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E71.1080p.WEB-DL.AAC2.0.x264.mkv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg" group-title="Bigg Boss S17 (2023)", S17EP72
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E72.1080p.WEB-DL.AAC2.0.x264.mkv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg" group-title="Bigg Boss S17 (2023)", S17EP73
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E73.1080p.WEB-DL.AAC2.0.x264.mkv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg" group-title="Bigg Boss S17 (2023)", S17EP74
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E74.1080p.WEB-DL.AAC2.0.x264.mkv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg" group-title="Bigg Boss S17 (2023)", S17EP75
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E75.1080p.WEB-DL.AAC2.0.x264.mkv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg" group-title="Bigg Boss S17 (2023)", S17EP76
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E76.1080p.WEB-DL.AAC2.0.x264.mkv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg" group-title="Bigg Boss S17 (2023)", S17EP77
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E77.1080p.WEB-DL.AAC2.0.x264.mkv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg" group-title="Bigg Boss S17 (2023)", S17EP78
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E78.1080p.WEB-DL.AAC2.0.x264.mkv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg" group-title="Bigg Boss S17 (2023)", S17EP79
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E79.1080p.WEB-DL.AAC2.0.x264.mkv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg" group-title="Bigg Boss S17 (2023)", S17EP80
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E80.1080p.WEB-DL.AAC2.0.x264.mkv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg" group-title="Bigg Boss S17 (2023)", S17EP81
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E81.1080p.WEB-DL.AAC2.0.x264.mkv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg" group-title="Bigg Boss S17 (2023)", S17EP82
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E82.1080p.WEB-DL.AAC2.0.x264.mkv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg" group-title="Bigg Boss S17 (2023)", S17EP83
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E83.1080p.WEB-DL.AAC2.0.x264.mkv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg" group-title="Bigg Boss S17 (2023)", S17EP84
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E84.1080p.WEB-DL.AAC2.0.x264.mkv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg" group-title="Bigg Boss S17 (2023)", S17EP85
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E85.1080p.WEB-DL.AAC2.0.x264.mkv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg" group-title="Bigg Boss S17 (2023)", S17EP86
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E86.1080p.WEB-DL.AAC2.0.x264.mkv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg" group-title="Bigg Boss S17 (2023)", S17EP87
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E87.1080p.WEB-DL.AAC2.0.x264.mkv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg" group-title="Bigg Boss S17 (2023)", S17EP88
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E88.1080p.WEB-DL.AAC2.0.x264.mkv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg" group-title="Bigg Boss S17 (2023)", S17EP89
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E89.1080p.WEB-DL.AAC2.0.x264.mkv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg" group-title="Bigg Boss S17 (2023)", S17EP90
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E90.1080p.WEB-DL.AAC2.0.x264.mkv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg" group-title="Bigg Boss S17 (2023)", S17EP91
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E91.1080p.WEB-DL.AAC2.0.x264.mkv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg" group-title="Bigg Boss S17 (2023)", S17EP92
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E92.1080p.WEB-DL.AAC2.0.x264.mkv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg" group-title="Bigg Boss S17 (2023)", S17EP93
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E93.1080p.WEB-DL.AAC2.0.x264.mkv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg" group-title="Bigg Boss S17 (2023)", S17EP94
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E94.1080p.WEB-DL.AAC2.0.x264.mkv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg" group-title="Bigg Boss S17 (2023)", S17EP95
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E95.1080p.WEB-DL.AAC2.0.x264.mkv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg" group-title="Bigg Boss S17 (2023)", S17EP96
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E96.1080p.WEB-DL.AAC2.0.x264.mkv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg" group-title="Bigg Boss S17 (2023)", S17EP97
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E97.1080p.WEB-DL.AAC2.0.x264.mkv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg" group-title="Bigg Boss S17 (2023)", S17EP98
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E98.1080p.WEB-DL.AAC2.0.x264.mkv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg" group-title="Bigg Boss S17 (2023)", S17EP99
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E99.1080p.WEB-DL.AAC2.0.x264.mkv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg" group-title="Bigg Boss S17 (2023)", S17EP100
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E100.1080p.WEB-DL.AAC2.0.x264.mkv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg" group-title="Bigg Boss S17 (2023)", S17EP101
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E101.1080p.WEB-DL.AAC2.0.x264.mkv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg" group-title="Bigg Boss S17 (2023)", S17EP102
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E102.1080p.WEB-DL.AAC2.0.x264.mkv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg" group-title="Bigg Boss S17 (2023)", S17EP103
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E103.1080p.WEB-DL.AAC2.0.x264.mkv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg" group-title="Bigg Boss S17 (2023)", S17EP104
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E104.1080p.WEB-DL.AAC2.0.x264.mkv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg" group-title="Bigg Boss S17 (2023)", S17EP105
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E105.1080p.WEB-DL.AAC2.0.x264.mkv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg" group-title="Bigg Boss S17 (2023)", S17EP106 Grand Finale
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E106.1080p.WEB-DL.AAC2.0.x264.mkv
