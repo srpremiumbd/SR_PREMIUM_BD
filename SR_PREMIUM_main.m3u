@@ -2549,7 +2549,14 @@ http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20S
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg" group-title="Bigg Boss S17 (2023)", S17EP106 Grand Finale
 http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E106.1080p.WEB-DL.AAC2.0.x264.mkv
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/0n0kY4Q/images.jpg" group-title="SR BDIX Bangla Web" ,Female 3 2023
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/0n0kY4Q/images.jpg" group-title="SR BDIX Bangla Web" ,Female 3 (2023)
 https://ghyu67.b-cdn.net/upload/videos/2023/07/[Fibwatch.Com]Female.3.2023.720p.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSi9PTomg5lEi3LyI7cEUtv-8g1uarTCO3MNa6jAxl3zNxpDrKCYhwfgdpV&s=10" group-title="SR BDIX Bangla Web" ,Female (2021)
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcpjALZ0zY4VoCAbvOMCVPiUaNs9scV1XTO1SX9Lp8DNrKTV4QBS9jfLc6&s=10" group-title="SR BDIX Bangla Web" ,Female 2 (2022)
+
+
 
 
