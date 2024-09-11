@@ -1239,11 +1239,6 @@ http://server3.ftpbd.net/FTP-3/South%20Indian%20Movies/HINDI%20DUBBED/%282018%29
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScic4qtBqUKo_VFW4D5urIf8IOQ9cspwXqY2vw-9WBeF8MhKZMSvNXVjdE&s=10" group-title="SR BDIX South" , Power (2014)
 http://server3.ftpbd.net/FTP-3/South%20Indian%20Movies/HINDI%20DUBBED/%282014%29/Power%20%282014%29%20%5BDual%20Audio%5D/Power%20%28UNLIMITED%29%20%282014%29%20720p%20UNCUT%20HDRip%20%5BMulti%20Audio%5D%20%5BHindi%20%28V.1%29%202.0%20-%20Hindi%20%28V.2%29%202.0%20-%20Telugu%202.0%5D.mkv
 
-#EXTINF:-1 tvg-id="29" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719927885394.png", group-title="SR Movies", Jalsha Movies SD (NS/ott.n)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "Uqquz57boDgHfweoqU9_Tg", "kid": "7--0hzyVR9Ghp6CsLumLTg"}], "type": "temporary"}
-https://medialive.akash-go.com/out/v1/a1a4886d7bdd4797a0eebb69e2c67554/index.mpd
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUwR86jHJIVJLgC6sRp46_M3giz_Uo3MRMStgocnMKCHcwVmUgfz--Juv1&s=10" group-title="SR Movies" ,Jalsha Movies SD
 http://tv.cloudcdn.me/live.ts?channelId=117&uid=13433&deviceMac=00:1A:79:00:97:A1
 
