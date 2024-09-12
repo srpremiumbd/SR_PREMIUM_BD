@@ -1607,30 +1607,6 @@ http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Web%20Series/Syndicate
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ731SDN0-DmHDB9YRRD3b3Qlykc7Wd0UIfnHYwkhF1CIRlhrtOkwR5Bw-G&s=10" group-title="SR BDIX Syndicate 2022" , Episode 07
 http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Web%20Series/Syndicate%20%28TV%20Series%29%202022/Season%201%201080p/Syndicate.2022.S01E07.1080p.mp4
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vccXQhL/20240815-181223.png" group-title="SR BDIX Channel" ,Colors HD
-https://fifabangladesh.live/VHOD/go.php?id=Colors_HD_voot_MOB
-
-#EXTINF:-1 tvg-logo="http://14.102.123.50:5001/jtvimage/Colors_SD.png" group-title="SR BDIX Channel" ,Colors SD
-https://fifabangladesh.live/VHOD/go.php?id=Colors_voot_MOB
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pdQfbjg/20240816-143214.png" group-title="SR BDIX Channel" ,Colors Bangla HD
-https://fifabangladesh.live/VHOD/go.php?id=Colors_Bangla_HD_voot_MOB
-
-#EXTINF:-1 tvg-logo="http://14.102.123.50:5001/jtvimage/Colors_Bangla_SD.png" group-title="SR BDIX Channel" ,Colors Bangla SD
-https://fifabangladesh.live/VHOD/go.php?id=Colors_Bangla_voot_MOB
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/FbkRHbt/20240816-150712.png" group-title="SR BDIX Channel" ,Colors Cineplex HD
-https://fifabangladesh.live/VHOD/go.php?id=Colors_Cineplex_voot_MOB
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qkhk4g3/20240816-150730.png" group-title="SR BDIX Channel" ,Colors Cineplex SD
-https://fifabangladesh.live/VHOD/go.php?id=Colors_Cineplex_SD_voot_MOB
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/b3CWhkd/20240816-150721.png" group-title="SR BDIX Channel" ,Colors Cineplex Superhit
-https://fifabangladesh.live/VHOD/go.php?id=Rishtey_Cineplex_voot_MOB
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NV4JPXV/20240816-145822.png" group-title="SR BDIX Channel" ,Colors Bangla Cinema
-https://fifabangladesh.live/VHOD/go.php?id=Colors_Bangla_Cinema_voot_MOB
-
 #EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/4f1364dc-dbb0-47df-9a43-3f316b371053_180x180_GoldminesMovies.jpg" group-title="SR Movies", Goldmines Movies
 http://172.105.123.238:18002/play/a01j
 
