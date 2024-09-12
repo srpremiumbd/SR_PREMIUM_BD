@@ -2678,3 +2678,6 @@ http://103.153.175.254/NAS1/NAS2/TV_Web_Series/Bangla_Web_Series/Taqdeer%20%28TV
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRb7TJ7dxWFjs3y0sMCduzNOXTbuZQO1dRtmo0exiK_6isDkiahYjP9XeNU&s=10" group-title="SR Movies" , Tara Bangla Cinema
 http://103.145.48.150:90/laosat24/taratv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.static-bluray.com/movies/covers/139800_front.jpg?t=1468569465" group-title="SR BDIX South" , Krishna Gaadi Veera Prema Gaadha (2016)
+https://pixeldra.in/api/file/D7HtXtpz?download
