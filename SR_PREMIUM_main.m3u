@@ -2681,3 +2681,6 @@ http://103.145.48.150:90/laosat24/taratv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.static-bluray.com/movies/covers/139800_front.jpg?t=1468569465" group-title="SR BDIX South" , Krishna Gaadi Veera Prema Gaadha (2016)
 https://pixeldra.in/api/file/D7HtXtpz?download
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpHc30aI4MqSfk7Of2P-cnJs6Vm_NMBBxlmSaVk39NdpbZHUP_5_gPMXZ6&s=10" group-title="SR BDIX South" , Veera (2011)
+https://pixeldra.in/api/file/8ULctWkP?download
