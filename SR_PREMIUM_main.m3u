@@ -91,7 +91,8 @@ http://217.20.112.199/colorsbangla/index.m3u8
 http://ekdilhai.pro/IN_ColorsBengali/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NV4JPXV/20240816-145822.png" group-title="SR Movies" ,Colors Bangla Cinema (JIO)
-http://14.102.123.50:5001/live/1657.m3u8
+https://fifabangladesh.live/VHOD/go.php?id=Colors_Bangla_Cinema_voot_MOB
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kHtw2YZ/20240816-160121.png" group-title="SR Entertainment" ,Sony TV HD
 https://proximity-team.xyz/dev/tofi.php?m3u8=https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_entertainmnt_hd/playlist.m3u8
@@ -129,7 +130,7 @@ http://14.102.123.50:5001/live/482.m3u8
 http://tv.cloudcdn.me/live.ts?channelId=62413&uid=5284&deviceMac=00:1A:79:17:C0:71
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/b3CWhkd/20240816-150721.png" group-title="SR Movies" ,Colors Cineplex Superhit (JIO)
-http://14.102.123.50:5001/live/1450.m3u8
+https://fifabangladesh.live/VHOD/go.php?id=Rishtey_Cineplex_voot_MOB
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/V2Qf8Pw/20240817-101441.png" group-title="SR Entertainment" ,Sony Sab HD
 https://allinonereborn.com/livetv-web/live.php?id=5094&vtoken=&e=.m3u8
@@ -211,10 +212,10 @@ http://14.102.123.50:5001/live/1345.m3u8
 http://14.102.123.50:5001/live/1295.m3u8
 
 #EXTINF:-1 tvg-logo="http://14.102.123.50:5001/jtvimage/Colors_SD.png" group-title="SR Entertainment" ,Colors SD (JIO)
-http://14.102.123.50:5001/live/1368.m3u8
+https://fifabangladesh.live/VHOD/go.php?id=Colors_voot_MOB
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pdQfbjg/20240816-143214.png" group-title="SR Entertainment" ,Colors Bangla HD (JIO)
-http://14.102.123.50:5001/live/756.m3u8
+https://fifabangladesh.live/VHOD/go.php?id=Colors_Bangla_HD_voot_MOB
 
 #EXTINF:-1 tvg-logo="http://14.102.123.50:5001/jtvimage/Nick_Bangla.png" group-title="SR Kids" ,Nick Bangla (JIO)
 http://14.102.123.50:5001/live/1341.m3u8
@@ -223,7 +224,7 @@ http://14.102.123.50:5001/live/1341.m3u8
 http://14.102.123.50:5001/live/816.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vccXQhL/20240815-181223.png" group-title="SR Entertainment" ,Colors HD (JIO)
-http://14.102.123.50:5001/live/144.m3u8
+https://fifabangladesh.live/VHOD/go.php?id=Colors_HD_voot_MOB
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMmRkMGMzYTUtM2E2My00YjZlLWFmZjItMDA5M2EwNjNiZTNjXkEyXkFqcGdeQXVyNDY5MTUyNjU@._V1_.jpg" group-title="SR BDIX South" ,Ala Vaikunthapurramuloo 2020
 http://server3.ftpbd.net/FTP-3/South%20Indian%20Movies/HINDI%20DUBBED/%282020%29/Ala%20Vaikuntapuramlo%20%282020%29%20Dual%20Audio%20%5BHindi%20%26%20Telugu%5D%20WEB-DL/AVPL%202020%20Dual%20Audio%20%5BHindi%20ORG%20%26%20Telugu%5D%20720p.mkv
@@ -2790,34 +2791,34 @@ https://ghyu67.b-cdn.net/upload/videos/2024/04/[Fibwatch.Com]Tiger.2024.S01.COMP
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUk5mcQ7rY8ogNH5SYNAEGDhyi_12EIvVHm3jlBsFB16VJaBGNw1NTdYf8&s=10" group-title="SR BDIX Bangla Dubbed", Adithya Varma (2023)
 https://ghyu67.b-cdn.net/upload/videos/2023/08/[Fibwatch.Com]Adithya.Varma.(2023).Bengali.Dubbed.720p.mkv
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSggG_pDbpfz6oVM5LWmaMRLyAwsr01rKHMh_iqs6-hWlJaG0Quj0QBuFp0&s=10" group-title="SR BDIX Bangla Dubbed", Kanhaiya Ek Yodha (2022) 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSggG_pDbpfz6oVM5LWmaMRLyAwsr01rKHMh_iqs6-hWlJaG0Quj0QBuFp0&s=10" group-title="SR BDIX Bangla Dubbed", Kanhaiya Ek Yodha (2022) 
 https://ghyu67.b-cdn.net/upload/videos/2023/11/[Fibwatch.Com]Kanhaiya.Ek.Yodha.(2022).Bengali.Dubbed.ORG.720p.mkv
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSqovtpR2tKozIciihqQqwY-F5hoxzFMFc_B1FrsCQhMOtEBYrMxGVZAav&s=10" group-title="SR BDIX Bangla Dubbed", Swapnabaj (Soorarai Pottru) (2020)
 https://ghyu67.b-cdn.net/upload/videos/2023/04/[Fibwatch.Com]Swapnabaj.2022.Bengali.Dubbed.720p.mkv
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBpZd9UcVrhIvlAg0UP_37PSSNE0F3lAkjfV3r3UFUuZxUofRm6JHkaCc&s=10" group-title="SR BDIX Bangla Dubbed", Tej I Love you (2024) 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBpZd9UcVrhIvlAg0UP_37PSSNE0F3lAkjfV3r3UFUuZxUofRm6JHkaCc&s=10" group-title="SR BDIX Bangla Dubbed", Tej I Love you (2024) 
 https://ghyu67.b-cdn.net/upload/videos/2024/01/[Fibwatch.Com]Taj.I.Love.you.(2024).Bengali.Dubbed.ORG.720p.mkv
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcTyq62u_U-emAR8_XaxCKIuvCXC_tCjQLEHmpF6ouMIKYNLaRGRH9vKQx&s=10" group-title="SR BDIX Bangla Dubbed", Natakam (2023) 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcTyq62u_U-emAR8_XaxCKIuvCXC_tCjQLEHmpF6ouMIKYNLaRGRH9vKQx&s=10" group-title="SR BDIX Bangla Dubbed", Natakam (2023) 
 https://ghyu67.b-cdn.net/upload/videos/2023/08/[Fibwatch.Com]Natakam.(2023).Bengali.720p.mkv
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkcxy5gfxkt9NysZz7YuH6jr7E_dhhLcKAA6sZihBFza8LsHdWCKdTGvs&s=10" group-title="SR BDIX Bangla Dubbed", Vaaranam Aayiram-Dui Purush (2023) 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkcxy5gfxkt9NysZz7YuH6jr7E_dhhLcKAA6sZihBFza8LsHdWCKdTGvs&s=10" group-title="SR BDIX Bangla Dubbed", Vaaranam Aayiram-Dui Purush (2023) 
 https://ghyu67.b-cdn.net/upload/videos/2023/08/[Fibwatch.Com]Vaaranam.Aayiram-Dui.Purush.(2023).Bengali.720p.mkv
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiUHh4zNCYQFqn7NT-XAti0Bprg_fjKDKpazua2RjQw_vp7chDraTSr4I&s=10" group-title="SR BDIX Bangla Dubbed", OK Jaanu-O Kadhal Kanmani (2023) 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiUHh4zNCYQFqn7NT-XAti0Bprg_fjKDKpazua2RjQw_vp7chDraTSr4I&s=10" group-title="SR BDIX Bangla Dubbed", OK Jaanu-O Kadhal Kanmani (2023) 
 https://ghyu67.b-cdn.net/upload/videos/2023/05/[Fibwatch.Com]OK.Jaanu-O.Kadhal.Kanmani.(2023).Bengali.Dubbed.720p.mkv
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaboZOfqyOqtMv_jPUmLjExudhXf563f98AdApbBctUlmf8wnoG03zlZw&s=10" group-title="SR BDIX Bangladesh", Shaan (2022) 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaboZOfqyOqtMv_jPUmLjExudhXf563f98AdApbBctUlmf8wnoG03zlZw&s=10" group-title="SR BDIX Bangladesh", Shaan (2022) 
 https://ghyu67.b-cdn.net/upload/videos/2023/04/[Fibwatch.Com]Shaan.(2022).720p.mkv
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0LKmOHXgF32Q-M5yKQIdbtJMTgfbEDPfh2RJatrC9CJwVKV2hMv3GCvY&s=10" group-title="SR BDIX Bangla Dubbed", Mukunda-Shotru (2023) 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0LKmOHXgF32Q-M5yKQIdbtJMTgfbEDPfh2RJatrC9CJwVKV2hMv3GCvY&s=10" group-title="SR BDIX Bangla Dubbed", Mukunda-Shotru (2023) 
 https://ghyu67.b-cdn.net/upload/videos/2023/10/[Fibwatch.Com]Mukunda.Shotru.(2023).Bengali.Dubbed.ORG.720p.mkv
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BN2FjMjBmYjktYzRlNy00NmZhLTljNzAtMmU3ZmUyNGJjYWZlXkEyXkFqcGdeQXVyNjA3OTI5MjA@._V1_.jpg" group-title="SR BDIX Kolkata", Wanted (2010)
 https://pixeldra.in/api/file/MRkVE8v2?download
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp9X6rli_TAer_JGBwJVkeCUHw1Dl9exjOtcovdju-OtsnY2dgcolKyBSi&s=10" group-title="SR BDIX Bangla Dubbed", Velayudham-Shahenshah (2023) 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp9X6rli_TAer_JGBwJVkeCUHw1Dl9exjOtcovdju-OtsnY2dgcolKyBSi&s=10" group-title="SR BDIX Bangla Dubbed", Velayudham-Shahenshah (2023) 
 https://ghyu67.b-cdn.net/upload/videos/2023/05/[Fibwatch.Com]Velayudham.Shahenshah.(2023).Bengali.Dubbed.ORG.720p.mkv
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRW_Dnr2YAvMPgbmZONOF58pRBcEGiM46KXgou_sMi946PbLTtFNDNBxMk&s=10" group-title="SR BDIX Bangla Dubbed", Ragada-Dhongsho (2023)
@@ -2841,7 +2842,7 @@ https://ghyu67.b-cdn.net/upload/videos/2023/05/[Fibwatch.Com]Maayavan-Project.Ma
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd97DVQJGqZBK2BuuqV-MHiVop7KJ6Tg0FPv24Eq3fyXr2ZEZc302NTT8&s=10" group-title="SR BDIX Bangla Dubbed", Anniyan – Stranger – Amar Adalat (2023)
 https://ghyu67.b-cdn.net/upload/videos/2023/10/[Fibwatch.Com]Anniyan-Amar.Adalat.Stranger.(2023).720p.mkv
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsWP_7EI8onw9NhMTf97bkdQo5FVeqvwS0GHWaRfGKPDdaPdXYHrUn6UQ&s=10" group-title="SR BDIX Bangla Dubbed", Ishtangaa-Icche Ghuri (2023) 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsWP_7EI8onw9NhMTf97bkdQo5FVeqvwS0GHWaRfGKPDdaPdXYHrUn6UQ&s=10" group-title="SR BDIX Bangla Dubbed", Ishtangaa-Icche Ghuri (2023) 
 https://ghyu67.b-cdn.net/upload/videos/2023/09/[Fibwatch.Com]Ishtangaa-Icche.Ghuri.(2023).720p.mkv
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThCwy5L4u6OMwsHLJD-8CAT_Z9HpqgGRA0xmoTC0UYmG17DSDKuVC7KMM&s=10" group-title="SR BDIX Bangla Dubbed", Vanam-Ovishap (2023)
@@ -2864,4 +2865,3 @@ https://ghyu67.b-cdn.net/upload/videos/2024/04/[Fibwatch.Com]Spider-Man.Homecomi
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkmS7G679JCvFMVLiZDwZCzqLIGvH2UNnmST64UzbIdPQXnUFzJ64wIJg&s=10" group-title="SR BDIX Bangla Dubbed", Spider-Man: Far From Home (2019)
 https://ghyu67.b-cdn.net/upload/videos/2024/06/[Fibwatch.Com]Spider-Man.Far.From.Home.2019.Bangla.DUBBED.720p.mkv
-
