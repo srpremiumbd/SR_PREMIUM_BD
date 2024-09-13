@@ -118,13 +118,13 @@ http://tv.cloudcdn.me/live.ts?channelId=117&uid=5284&deviceMac=00:1A:79:17:C0:71
 http://172.16.29.34/ontest1/ontest1/387
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FbkRHbt/20240816-150712.png" group-title="SR Movies" ,Colors Cineplex HD (JIO)
-http://14.102.123.50:5001/live/1477.m3u8
+https://fifabangladesh.live/VHOD/go.php?id=Colors_Cineplex_voot_MOB
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qkhk4g3/20240816-150730.png" group-title="SR Movies" ,Colors Cineplex SD FHD
 http://tv.cloudcdn.me/live.ts?channelId=156&uid=5284&deviceMac=00:1A:79:17:C0:71
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qkhk4g3/20240816-150730.png" group-title="SR Movies" ,Colors Cineplex SD (JIO)
-http://14.102.123.50:5001/live/482.m3u8
+https://fifabangladesh.live/VHOD/go.php?id=Colors_Cineplex_SD_voot_MOB
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/b3CWhkd/20240816-150721.png" group-title="SR Movies" ,Colors Cineplex Superhit FHD
 http://tv.cloudcdn.me/live.ts?channelId=62413&uid=5284&deviceMac=00:1A:79:17:C0:71
@@ -199,29 +199,11 @@ http://176.119.29.52/live.ts?channelId=33317&uid=5284&deviceMac=00:1A:79:17:C0:7
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mzXD9KY/20240818-182658.png" group-title="SR Kids" ,Hungama TV
 http://xtv.ooo:8080/live/927382370/837382809/150480.m3u8
 
-#EXTINF:-1 tvg-logo="http://14.102.123.50:5001/jtvimage/Pogo_Hindi.png" group-title="SR Kids" ,Pogo Hindi (JIO)
-http://217.20.112.199/pogo/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://14.102.123.50:5001/jtvimage/sonic_Hindi.png" group-title="SR Kids" ,Sonic Hindi (JIO)
-http://14.102.123.50:5001/live/815.m3u8
-
-#EXTINF:-1 tvg-logo="http://14.102.123.50:5001/jtvimage/Sonic_Bangla.png" group-title="SR Kids" ,Sonic Bangla (JIO)
-http://14.102.123.50:5001/live/1345.m3u8
-
-#EXTINF:-1 tvg-logo="http://14.102.123.50:5001/jtvimage/B4U_Kadak.png" group-title="SR Movies" ,B4U Kadak (JIO)
-http://14.102.123.50:5001/live/1295.m3u8
-
-#EXTINF:-1 tvg-logo="http://14.102.123.50:5001/jtvimage/Colors_SD.png" group-title="SR Entertainment" ,Colors SD (JIO)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/Colors_TV_logo.svg" group-title="SR Entertainment" ,Colors SD (JIO)
 https://fifabangladesh.live/VHOD/go.php?id=Colors_voot_MOB
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pdQfbjg/20240816-143214.png" group-title="SR Entertainment" ,Colors Bangla HD (JIO)
 https://fifabangladesh.live/VHOD/go.php?id=Colors_Bangla_HD_voot_MOB
-
-#EXTINF:-1 tvg-logo="http://14.102.123.50:5001/jtvimage/Nick_Bangla.png" group-title="SR Kids" ,Nick Bangla (JIO)
-http://14.102.123.50:5001/live/1341.m3u8
-
-#EXTINF:-1 tvg-logo="http://14.102.123.50:5001/jtvimage/Cartoon_Network_Hindi.png" group-title="SR Kids" ,CN Hindi (JIO)
-http://14.102.123.50:5001/live/816.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vccXQhL/20240815-181223.png" group-title="SR Entertainment" ,Colors HD (JIO)
 https://fifabangladesh.live/VHOD/go.php?id=Colors_HD_voot_MOB
@@ -2842,7 +2824,7 @@ https://ghyu67.b-cdn.net/upload/videos/2024/04/[Fibwatch.Com]Spider-Man.Homecomi
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkmS7G679JCvFMVLiZDwZCzqLIGvH2UNnmST64UzbIdPQXnUFzJ64wIJg&s=10" group-title="SR BDIX Bangla Dubbed", Spider-Man: Far From Home (2019)
 https://ghyu67.b-cdn.net/upload/videos/2024/06/[Fibwatch.Com]Spider-Man.Far.From.Home.2019.Bangla.DUBBED.720p.mkv
 
-#EXTINF:-1 tvg-logo="http://14.102.123.50:5001/jtvimage/Colors_Bangla_SD.png" group-title="SR Entertainment" ,Colors Bangla SD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7b/Colors_Bangla.png" group-title="SR Entertainment" ,Colors Bangla SD
 https://fifabangladesh.live/VHOD/go.php?id=Colors_Bangla_voot_MOB
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_cdJnlaVdpjusKBgy8cqC94DTnngbQPbBhk__KvdvO8crfhX1KWt_OBuu&s=10" group-title="SR BDIX Bangladesh" ,Casino (2023)
