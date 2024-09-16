@@ -15,9 +15,6 @@ https://ythls.armelin.one/channel/UCxHoBXkY88Tb8z1Ssj6CWsQ.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Hzh8T61/20240815-181437.png" group-title="SR News" ,Somoy Tv (BDIX)
 http://172.16.29.34/ontest1/ontest1/317
 
-#EXTINF:-1 tvg-logo="https://bashundharagroup.com/assets/upload/wallpaper/wallpaper_1525683191.png" group-title="SR News" ,News 24 
-https://ythls.armelin.one/channel/UCb2O5Uo4a26CdTE7_2QA-jA.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hBgYZhC/20240815-181411.png" group-title="SR News" ,Jamuna TV Bd Cast
 https://entezeetv.fun/bdcast/hls/index.m3u8?id=89b4zb3d&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
 
@@ -2996,3 +2993,4 @@ https://pixeldra.in/api/file/pcXzpbj5?download
 
 #EXTINF:-1 tvg-logo="https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xxlarge/ogo-bideshini-et00344529-1668168870.jpg" group-title="SR BDIX Kolkata" ,Ogo Bideshini (2022)
 http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282022%29/Ogo%20Bideshini%20%282022%29%20Bengali%201080p%20WEB-DL/Ogo.Bideshini.2022.1080p.JC.WEB-DL.Bengali.AAC2.0.H.264.mkv
+
