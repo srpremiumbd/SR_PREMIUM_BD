@@ -3132,3 +3132,6 @@ http://172.16.29.34/ontest1/ontest1/366
 
 #EXTINF:-1 tvg-logo="https://sc.dish.com/shared/images/station-logos/WLLOW.png" group-title="SR Sports" , Willow HD (BDIX)
 http://172.16.29.34/ontest1/ontest1/413
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxSMX7-XiFpEN0_FXPdJs_8B_upblwh9U3ePM83PLEk5kk2f1P6EC3m6A&s=10" group-title="SR BDIX Kolkata" , Khiladi (2013)
+https://rty67.b-cdn.net/upload/videos/2023/06/[Fibwatch.com]Khiladi.2013.720p.mp4
