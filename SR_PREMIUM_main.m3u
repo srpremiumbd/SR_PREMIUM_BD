@@ -1,7 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVujGBrgVsUPnlxgHKSGrAUPZK9GWX7tYD-XCqtUJoApHvw-uwDX520-Ex&s=10" group-title="SR Sports", Jio
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVujGBrgVsUPnlxgHKSGrAUPZK9GWX7tYD-XCqtUJoApHvw-uwDX520-Ex&s=10" group-title="SR Sports", Jio English
 https://wtf.pstvlive.xyz/ps_proxy?live=https://prod-sports-eng-cf.jiocinema.com/hls/live/2100299/hd_akamai_androidmob_avc_eng_indvsban_190924/master_1080p.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVujGBrgVsUPnlxgHKSGrAUPZK9GWX7tYD-XCqtUJoApHvw-uwDX520-Ex&s=10" group-title="SR Sports", Jio Bangla
+https://prod-fastly-ap-south-1.video.pscp.tv/Transcoding/v1/hls/kSq75li9PSh49arZJ6HrWRdBUT9dE_UVeRNVQgOAkaO8gNpBgF-8qtTDCuLkZnuJkSPsr36QYDknQW4YZI6y7w/non_transcode/ap-southeast-1/periscope-replay-direct-prod-ap-southeast-1-public/master_dynamic_playlist.m3u8?type=live
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F8qb3L9/20240817-143011.png" group-title="𝗦𝗥 𝗣𝗥𝗘𝗠𝗜𝗨𝗠", t.me/sr_premium
 https://pixeldrain.com/api/file/JdMKTzC9
