@@ -460,9 +460,6 @@ http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2024/Teri%20Baaton%20Mein%20Aisa%2
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5e/Hacked_film_poster.jpg/220px-Hacked_film_poster.jpg" group-title="SR BDIX Bollywood" , Hacked 2020
 http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2020/Hacked%20%282020%29%20Hindi%201080p%20WEB-DL/Hacked.2020.Hindi.1080p.mp4
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tCgY1vF/20240820-171000.png" group-title="SR Sports" ,T Sports HD
-http://opplextv.cyou:8080/live/773199/626227/167590.ts
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUc7tx4d7PIWwdllkgugDaTtxdu-8j8AhGr5iMYKuFUg5nsTtVGhTN5_s-&s=10" group-title="SR BDIX Bollywood" ,Hera Pheri 2000
 http://server3.ftpbd.net/FTP-3/Hindi%20Movies/1991%20-%202000/2000/Hera%20Pheri%20%282000%29%20HINDI%201080p%20WEBRip/Hera.Pheri.2000.HINDI.1080p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4
 
@@ -3126,5 +3123,3 @@ https://pixeldra.in/api/file/LFKUXJ6Z?download
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZTNmMWE4MzctN2E1Ny00YzY4LTkzNDEtY2FiZGYyYzQ1ZjM4XkEyXkFqcGc@._V1_.jpg" group-title="SR BDIX Bangladesh" ,Toofan (2024) 1080p Raw Hoichoi
 https://edr56.b-cdn.net/upload/videos/2024/09/[Fibwatch.Com]Toofan.2024.Bengali.Raw.1080p.mkv
-
-
