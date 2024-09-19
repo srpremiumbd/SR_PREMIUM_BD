@@ -1,10 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://v3img.voot.com/resizeMedium,w_300,h_400/v3Storage/assets/1_test_ind_vs_bag_test_vertical_3x4_day_1-1726671470410.jpg" group-title="SR Sports", Jio Cinema
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVujGBrgVsUPnlxgHKSGrAUPZK9GWX7tYD-XCqtUJoApHvw-uwDX520-Ex&s=10" group-title="SR Sports", Jio
 https://wtf.pstvlive.xyz/ps_proxy?live=https://prod-sports-eng-cf.jiocinema.com/hls/live/2100299/hd_akamai_androidmob_avc_eng_indvsban_190924/master_1080p.m3u8
-
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/6f-KNzrLd72Upq7sqhMcMtZS-vCyb-21-J1Pr1kLHXbxr_dePs2O7vP7hAgMk8dxRw" group-title="SR Sports", Toffee
-https://mprod-cdn.toffeelive.com/live/match-2/index.m3u8?|Cookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20v:Expires=1726759957:KeyName=prod_live_events:Signature=0GZ11afcb1kY39PAs6nyRyQDJV9hyFaG5H2CbQqbXMOxDC2qtuxP-oq3zelD7gAk6DJBUxnQFdlxFOv3mMfACA
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F8qb3L9/20240817-143011.png" group-title="𝗦𝗥 𝗣𝗥𝗘𝗠𝗜𝗨𝗠", t.me/sr_premium
 https://pixeldrain.com/api/file/JdMKTzC9
