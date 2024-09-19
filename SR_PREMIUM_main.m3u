@@ -117,6 +117,9 @@ http://172.16.29.34/ontest1/ontest1/387
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FbkRHbt/20240816-150712.png" group-title="SR Movies" ,Colors Cineplex HD (JIO)
 https://fifabangladesh.live/VHOD/go.php?id=Colors_Cineplex_voot_MOB
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FbkRHbt/20240816-150712.png" group-title="SR Movies" ,Colors Cineplex HD 
+https://livetv.rogplay.site/jiotv/app/ts_live_1477.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qkhk4g3/20240816-150730.png" group-title="SR Movies" ,Colors Cineplex SD FHD
 http://tv.cloudcdn.me/live.ts?channelId=156&uid=5284&deviceMac=00:1A:79:17:C0:71
 
