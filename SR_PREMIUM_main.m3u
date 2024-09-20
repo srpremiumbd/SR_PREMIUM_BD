@@ -169,15 +169,6 @@ https://allinonereborn.com/livetv-web/live.php?id=2055&vtoken=&e=.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vvNk9vL/20240817-153116.png" group-title="SR Movies" ,RDC Movies
 https://janya-rdcmovies.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/230a723f-867d-4fa3-b2d2-a622ba994cd2/main.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mJQMFBW/20240817-154546.png" group-title="SR Sports" ,Sony Ten 1 HD
-https://mhdtvweb.com/sliv/stream.php?id=sony-ten-1-hd&e=.m3u8|Referer=https://mhdtvweb.com//&key=thenayeemparvez
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/QrQTtfP/20240817-154601.png" group-title="SR Sports" ,Sony Ten 2 HD
-https://mhdtvweb.com/sliv/stream.php?id=sony-ten-2-hd&e=.m3u8|Referer=https://mhdtvweb.com//&key=thenayeemparvez
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/cT41hfy/20240817-154611.png" group-title="SR Sports" ,Sony Ten 3 HD
-https://mhdtvweb.com/sliv/stream.php?id=sony-ten-3-hd&e=.m3u8|Referer=https://mhdtvweb.com//&key=thenayeemparvez
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/t8m47h0/20240816-143232.png" group-title="SR Movies" ,Sony Max FHD 
 https://allinonereborn.com/livetv-web/live.php?id=644&vtoken=&e=.m3u8
 
@@ -207,6 +198,12 @@ https://fifabangladesh.live/VHOD/go.php?id=Colors_Bangla_HD_voot_MOB
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vccXQhL/20240815-181223.png" group-title="SR Entertainment" ,Colors HD (JIO)
 https://fifabangladesh.live/VHOD/go.php?id=Colors_HD_voot_MOB
+
+#EXTINF:-1 tvg-logo="https://image.tsports.com/images/mobile_logo/1719672720-LIVE.jpg" group-title="SR Sports" ,T Sports Live 2
+https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/tsports/op.m3u8?id=live-02
+
+#EXTINF:-1 tvg-logo="https://image.tsports.com/images/mobile_logo/1719672720-LIVE.jpg" group-title="SR Sports" ,T Sports Live 1
+https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/tsports/op.m3u8?id=live-01
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMmRkMGMzYTUtM2E2My00YjZlLWFmZjItMDA5M2EwNjNiZTNjXkEyXkFqcGdeQXVyNDY5MTUyNjU@._V1_.jpg" group-title="SR BDIX South" ,Ala Vaikunthapurramuloo 2020
 http://server3.ftpbd.net/FTP-3/South%20Indian%20Movies/HINDI%20DUBBED/%282020%29/Ala%20Vaikuntapuramlo%20%282020%29%20Dual%20Audio%20%5BHindi%20%26%20Telugu%5D%20WEB-DL/AVPL%202020%20Dual%20Audio%20%5BHindi%20ORG%20%26%20Telugu%5D%20720p.mp4
@@ -1509,13 +1506,6 @@ http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2024/Bade%20Miyan%20Chote%20Miyan%
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtdPuJUAGb5qZCYJNHTckQe5T4qpNczPyODv4J4T_yD5D47mIL196H6yk&s=10" group-title="SR BDIX South" , Bhagavanth Kesari (2023)
 http://server3.ftpbd.net/FTP-3/South%20Indian%20Movies/HINDI%20DUBBED/%282023%29/Bhagavanth%20Kesari%20%282023%29%201080p%20WEBRip%20%5BHindi%20Dubbed%5D/Bhagavanth%20Kesari%202023%20WebRip%201080p%20Hindi%20DD%205.1%20x264%20ESub.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tsports.com/images/mobile_logo/1719672720-LIVE.jpg" group-title="SR Sports" ,T Sports Live 2
-https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/tsports/op.m3u8?id=live-02
-
-#EXTINF:-1 tvg-logo="https://image.tsports.com/images/mobile_logo/1719672720-LIVE.jpg" group-title="SR Sports" ,T Sports Live 1
-https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/tsports/op.m3u8?id=live-01
-
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTM4lK0IeKZWPWRGFFl9cXHsxo3ksvM5u_efXG3KmTCZeMr0lE5uOmZlPA7&s=10" group-title="SR BDIX South" , Srinivasa Kalyanam (2018)
 http://server3.ftpbd.net/FTP-3/South%20Indian%20Movies/HINDI%20DUBBED/%282018%29/Srinivasa%20Kalyanam%20%282018%29%201080p%20WEBRip%20%5BHindi%20Dubbed%5D/Srinivasa%20Kalyanam%202018%20WebRip%201080p%20Hindi%20DD%202.0%20x264%20ESub.mp4
