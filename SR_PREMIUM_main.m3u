@@ -112,8 +112,6 @@ http://172.16.29.34/ontest1/ontest1/387
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FbkRHbt/20240816-150712.png" group-title="SR Movies" ,Colors Cineplex HD (JIO)
 https://fifabangladesh.live/VHOD/go.php?id=Colors_Cineplex_voot_MOB
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/FbkRHbt/20240816-150712.png" group-title="SR Movies" ,Colors Cineplex HD 
-https://livetv.rogplay.site/jiotv/app/ts_live_1477.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qkhk4g3/20240816-150730.png" group-title="SR Movies" ,Colors Cineplex SD FHD
 http://tv.cloudcdn.me/live.ts?channelId=156&uid=5284&deviceMac=00:1A:79:17:C0:71
@@ -3035,12 +3033,6 @@ https://pixeldra.in/api/file/qX29PRQf?download
 #EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/9dce2e55-456c-4307-a83b-4fdfd5efba78/22b26cb1-766c-4b9e-9669-6563286c8973.jpg?width=300" group-title="SR BDIX Bangla Web" , Female 4 Unplugged BongoBD
 https://pixeldrain.com/api/file/NDut5ZTP?download
 
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sports18_1_HD.png" group-title="SR Sports" , Sports 18 HD 1
-https://livetv.rogplay.site/jiotv/app/ts_live_1984.m3u8
-
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sports18_2.png" group-title="SR Sports" , Sports 18 2
-https://livetv.rogplay.site/jiotv/app/ts_live_2852.m3u8
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoL9Lu3LiqG_S_8Rfu9PM0TXlm3jVwvLki-B6XVyLmpQiAF5BGpXcFacgB&s=10" group-title="SR BDIX South" ,Har Din Diwali (Prati Roju Pandage) (2019) 720p
 https://pixeldrain.com/api/file/J4mA6sTC?download
 
@@ -3229,4 +3221,3 @@ https://pixeldra.in/api/file/ueJSCbwd?download
 
 #EXTINF:-1 tvg-logo="https://static.digit.in/OTT/v2/images/aakrosh-128688.jpg?tr=w-600" group-title="SR BDIX Kolkata" , Aakrosh (1989)
 https://pixeldra.in/api/file/ASZz9XyS?download
-
