@@ -4153,4 +4153,23 @@ https://pixeldra.in/api/file/yh3JFpnp?download
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/VCYb9C5/images.jpg" group-title="SR BDIX Bigg Boss S16 (2022)", S16EP135 Grand Finale
 http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2016%20720p/Season%2001%20720p/Bigg.Boss.S16.Grand.Finale.1080p.VOOT.WEB-DL.AAC.2.0.H264-OlaM.mp4
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThkygJiW7UmSzVB63h8f4nosh66egVsmnMVlA3Js7DCwLXHuurrXx853gf&s=10" group-title="SR  Music", 9x jalwa
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9x-jalwa/47bdb49d-f6f3-4927-a9ea-12c4c5afc732/0.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYObFkB-69LQgND4IXb4c0kn0c6XAITvCdcvMS2fYPos-yViRvQKqtCko&s=10" group-title="SR  Music", Mastiii
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/mastiii/d9970bfb-9d9f-4cf6-a4e8-9b1eb579ce00/1.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9scc-YMzlkpBG0inmRt6fcFAICZxC0vlSz80JuKI_xni4VY_P5cuQLf8j&s=10" group-title="SR  Music", 9XM
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/MTV_Beats_Logo.png" group-title="SR  Music", MTV Beats
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Mtvbeats/default/mtvbeats-audio_208482_und=208000-video=2137600.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdK9tsWJcPj6sRdU4YBY8WyokKTfZJa6S3pk-RYnIhzApJs9nEm_-4Wgtj&s=10" group-title="SR  Music", Music India
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTat9kpBLOlEBpw0BAhgGaW4hwDKcvhB7VPCClMdZvb9Oa5Xiq5T-qIa_c6&s=10" group-title="SR  Music", YRF Music
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/yrf-music/5e60e1a9-c796-4bf2-ab37-a1d9c98ca0b3/4.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlFExbkK9TextLw5wOH6HTkZvHDhPehx2feoyVc2TZ1HdeO25BfRFcAIRP&s=10" group-title="SR  Music", Zoom
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zoom/default/zoom.m3u8
