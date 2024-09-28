@@ -13,7 +13,7 @@ https://prod-sports-north-gm.jiocinema.com/hls/live/2109773/hd_akamai_iosmob_avc
 https://prod-sports-hin-gm.jiocinema.com/hls/live/2100322/hd_akamai_iosmob_avc_hin_indvsban_280924/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVujGBrgVsUPnlxgHKSGrAUPZK9GWX7tYD-XCqtUJoApHvw-uwDX520-Ex&s=10" group-title="SR  BD V/S IN", IN Hindi 4K
-https://prod-sports-eng-cf.jiocinema.com/hls/live/2100305/uhd_akamai_ctv_avc_eng_indvsban_280924/index.m3u8
+https://prod-sports-hin-cf.jiocinema.com/hls/live/2100320/uhd_akamai_ctv_avc_hin_indvsban_280924/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVujGBrgVsUPnlxgHKSGrAUPZK9GWX7tYD-XCqtUJoApHvw-uwDX520-Ex&s=10" group-title="SR  BD V/S IN", IN Tamil
 https://prod-sports-south-gm.jiocinema.com/hls/live/2109711/hd_akamai_iosmob_avc_tam_indvsban_280924/master.m3u8
