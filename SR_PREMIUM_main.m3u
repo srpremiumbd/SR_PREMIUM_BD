@@ -110,7 +110,7 @@ http://172.16.29.34/ontest1/ontest1/323
 http://45.127.56.3:6699/live/Corpus-POL1/SRV4/1/SONY-AATH/live.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hX8xKVW/20240816-152834.png" group-title="SR Movies" ,Jalsha Movies HD
-http://tv.cloudcdn.me/live.ts?channelId=117&uid=5284&deviceMac=00:1A:79:17:C0:71
+http://103.190.85.38/hls/zeemovie.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hX8xKVW/20240816-152834.png" group-title="SR Movies" ,Jalsha Movies HD (BDIX)
 http://172.16.29.34/ontest1/ontest1/387
@@ -4331,4 +4331,3 @@ https://pixeldra.in/api/file/tFNju8dj?download
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XJ76V1t5/ilu-1719410298327.jpg" group-title="SR BDIX Kolkata" , I Love You (2007) 1080p
 https://pixeldra.in/api/file/pJCGhNKm?download
-
