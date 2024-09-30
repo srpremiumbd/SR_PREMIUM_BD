@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/SyywQ0b/Screenshot-20240930-173444-org-telegram-messenger-edit-139367480389150.jpg" group-title="Movies Request", t.me/sr_premium
+https://pixeldra.in/api/file/sWNDE?download
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/tCyBNPD/Bigg-Boss-Kannada-Season-11-1-1727334080.webp" group-title="BIGG BOSS LIVE", IN Bigg Boss Kannada Live
 https://prod-ent-live-gm.jiocinema.com/hls/live/2106328/hd_akamai_iosmob_avc_eptv_bbkannada_day01/master.m3u8
 
