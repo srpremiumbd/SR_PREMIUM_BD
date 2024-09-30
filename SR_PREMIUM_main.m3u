@@ -381,8 +381,8 @@ http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Mov
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHMX7TbeBQeX6haVxqlZsoapJyCd4CzYiwTtUiPa6w5yG_XrDZNQa3OO0&s=10" group-title="SR BDIX Kolkata" ,Herogiri 2015
 http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282015%29/Herogiri%20%282015%29%20720p/Herogiri%20%282015%29%20720p.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQARgMZxzbLsdMStdnS-Wg5nK6PR4Eb1ixGLQ5i8A12sbivJrM00V6M13ZB&s=10" group-title="SR BDIX Kolkata" ,Jamai 420 2015
-http://10.20.30.40/Data/movies1/indianbangla/2000-2020/Jamai%20420%20(2015)/Jamai%20420%20(2015).mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQARgMZxzbLsdMStdnS-Wg5nK6PR4Eb1ixGLQ5i8A12sbivJrM00V6M13ZB&s=10" group-title="SR BDIX Kolkata" ,Jamai 420 (2015)
+http://10.20.30.40/Data/movies1/indianbangla/2000-2020/Jamai%20420%20(2015)/Jamai%20420%20(2015).mkv
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3c/First_Look_of_Boss_2%2C_Back_to_Rule.jpeg" group-title="SR BDIX Kolkata" ,Boss 2 2017
 http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282017%29/Boss%202%20%282017%29%20Bengali%201080p%20WEB-DL/BOSS%202%202017%20Bengali%201080p%20AMZN%20WEB-DL%20H264%20ESubs.mp4
@@ -4334,4 +4334,3 @@ https://pixeldra.in/api/file/tFNju8dj?download
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XJ76V1t5/ilu-1719410298327.jpg" group-title="SR BDIX Kolkata" , I Love You (2007) 1080p
 https://pixeldra.in/api/file/pJCGhNKm?download
-
