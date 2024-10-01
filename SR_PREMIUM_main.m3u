@@ -9,6 +9,9 @@ https://prod-ent-live-gm.jiocinema.com/hls/live/2106328/hd_akamai_iosmob_avc_ept
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/6f-KNzrLd72Upq7sqhMcMtZS-vCyb-21-J1Pr1kLHXbxr_dePs2O7vP7hAgMk8dxRw" group-title="SR Sports", Toffee Live
 https://fdev.short.gy/IndVbanxRanapk.m3u8
 
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/6f-KNzrLd72Upq7sqhMcMtZS-vCyb-21-J1Pr1kLHXbxr_dePs2O7vP7hAgMk8dxRw" group-title="SR Sports", Toffee Live
+https://fifabd.xyz/TOFE/play.m3u8?id=match-2
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/T432dfs/20240815-181328.png" group-title="SR Bangladeshi", Rtv 
 https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=rtv
 
