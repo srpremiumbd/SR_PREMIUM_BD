@@ -37,7 +37,7 @@ https://global.ncare.live/live-orgin/jamuna-test-sample-ok.stream/playlist.m3u8
 https://global.ncare.live/live-orgin/channel24-sg-e8e.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4Z9gSdp/20240815-181521.png" group-title="SR News" ,Ekhon Tv
-https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/globaltv.stream/playlist.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1727805709/ei/reT7ZuSTE5emi9oP2IeWaQ/ip/92.205.15.128/id/_BXYvp0fZ2A.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51280000/txs/51279999%2C51280000%2C51280001%2C51280002/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/54MbxVQpzaysd3DvCWawpiIkD8qDmmntSxjQxUhnIGHYjDcrpEFoix5meB2WsfI/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51299152%2C51300761/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhANhc-8qd1Wq__ruwAqiSN8i4j58mYTkZsyOge6uRGvQMAiEA0Pnl9wICLTLj1faKdse00bKQP4cyE0z2GUNBVTPBe2g%3D/file/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0hbCzCH/20240818-174544.png" group-title="SR News" ,Independent Television
 https://global.ncare.live/live-orgin/independent-8-org.stream/playlist.m3u8
