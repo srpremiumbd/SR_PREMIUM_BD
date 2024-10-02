@@ -1753,9 +1753,6 @@ https://pixeldra.in/api/file/dzXdpvuP?download
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/02/Bangladesh_Television_Logo.svg" group-title="SR Bangladeshi", BTV HD (BDIX)
 http://172.16.29.34/ontest1/ontest1/446
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/02/Bangladesh_Television_Logo.svg" group-title="SR Bangladeshi", BTV HD
-https://livess.ncare.live/live-orgin/Btv-g.stream/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/Call_Me_Bae.jpg" group-title="SR BDIX Hindi Web", Call Me Bae (2024)
 https://pixeldra.in/api/file/yz5ZC4MP?download
 
@@ -4433,3 +4430,4 @@ http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282006%29/Phir%20Hera%20Pheri%
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/Gvm4VCN/a-AL.jpg" group-title="SR BDIX South" , Journey of Love 18+ (2023)
 http://server3.ftpbd.net/FTP-3/South%20Indian%20Movies/HINDI%20DUBBED/%282023%29/18%2B%20%282023%29%201080p%20WEB-DL%20%5BHindi%20Dubbed%5D/Journey.Of.Love.18.2023.1080p.WEB-DL.Hindi.AAC2.0.H.264.mp4
+
