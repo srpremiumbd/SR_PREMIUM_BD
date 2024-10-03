@@ -196,7 +196,10 @@ https://allinonereborn.com/livetv-web/live.php?id=624&vtoken=&e=.m3u8
 http://45.127.56.3:6699/live/Corpus-POL1/SRV4/1/STAR-GOLD-HD/live.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/n7bjFdc/20240817-171812.png" group-title="SR Kids" ,Duronto TV
-http://tv.cloudcdn.me/live.ts?channelId=74553&uid=5284&deviceMac=00:1A:79:17:C0:71
+http://172.16.29.34/ontest1/ontest1/441
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/n7bjFdc/20240817-171812.png" group-title="SR Kids" ,POGO
+http://172.16.29.34/ontest1/ontest1/400
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/hd5rMzc/star-gold-logo-D1-A2937-F35-seeklogo-com.png" group-title="SR Movies" , Star Gold HD (BDIX)
 http://172.16.29.34/ontest1/ontest1/340
@@ -4553,3 +4556,4 @@ http://server3.ftpbd.net/FTP-3/Hindi%20Movies/4K%20Movies/Animal%20%282023%29%20
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RVhZqKZK/263919-front.jpg" group-title="SR BDIX Hollywood" , Joker (2019)
 https://pixeldra.in/api/file/FpYKt6Dp?download
+
