@@ -204,6 +204,12 @@ http://172.16.29.34/ontest1/ontest1/340
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/NW64rB6/images.png" group-title="SR Movies" , Star Gold Select HD (BDIX)
 http://172.16.29.34/ontest1/ontest1/385
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/NW64rB6/images.png" group-title="SR Movies" , ZEE Cinema HD (BDIX)
+http://172.16.29.34/ontest1/ontest1/360
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/NW64rB6/images.png" group-title="SR Movies" , And Picture HD (BDIX)
+http://172.16.29.34/ontest1/ontest1/404
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1nqZMJy/20240818-162535.png" group-title="SR Sports" ,Astro Cricket FHD
 http://176.119.29.52/live.ts?channelId=33317&uid=5284&deviceMac=00:1A:79:17:C0:71
 
