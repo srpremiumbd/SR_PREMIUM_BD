@@ -105,6 +105,9 @@ https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4pQkwcX/20240815-205052.png" group-title="SR documentary" ,Discovery Hindi
 https://varun-iptv.netlify.app/m3u/discoveryhindi.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4pQkwcX/20240815-205052.png" group-title="SR documentary" ,Animal Planet HD
+https://denver1769.pages.dev/Discovery/animal_planet_hd_hindi.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pdQfbjg/20240816-143214.png" group-title="SR Entertainment" ,Colors Bangla HD
 http://217.20.112.199/colorsbangla/index.m3u8
 
