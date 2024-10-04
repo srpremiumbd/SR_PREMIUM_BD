@@ -243,6 +243,15 @@ https://fifabd.xyz/STAR7c/RANAPK/star.php?id=51011
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/MkvHBbW/Sports18-1-HD.png" group-title="SR Sports" ,Sports 18 HD 1 (BDIX)
 http://172.16.29.34/ontest1/ontest1/336
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/fkr7pz6/FB-IMG-1727943593703.jpg" group-title="SR Sports", Star Sports HD 1 (BDIX)
+http://172.16.29.34/ontest1/ontest1/347
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/fkr7pz6/FB-IMG-1727943593703.jpg" group-title="SR Sports", Star Sports HD 2 (BDIX)
+http://172.16.29.34/ontest1/ontest1/349
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/fkr7pz6/FB-IMG-1727943593703.jpg" group-title="SR Sports", Willow HD (BDIX)
+http://172.16.29.34/ontest1/ontest1/413
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tCgY1vF/20240820-171000.png" group-title="SR Sports" ,T Sports HD (BDIX)
 http://172.16.29.34/ontest1/ontest1/181
 
