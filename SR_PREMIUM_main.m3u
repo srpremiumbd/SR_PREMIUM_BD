@@ -3,11 +3,14 @@
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/DYPYg8t/Screenshot-20240930-201231.jpg" group-title="Movies Request", t.me/sr_premium
 https://pixeldrain.com/api/file/Zfxt4VfG
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hDFWWkk/IMG-20241006-215320-396.jpg" group-title="Bigg Boss Live", Bigg Boss 18 Live
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/0sXXGcx/20241006-215707.jpg" group-title="Bigg Boss Live", Bigg Boss 18 Live
 https://prod-ent-live-gm.jiocinema.com/hls/live/2105436/hd_akamai_iosmob_avc_24x7_bbhindi_s18_day01/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hDFWWkk/IMG-20241006-215320-396.jpg" group-title="Bigg Boss Live", Bigg Boss 18 Live 4K
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/0sXXGcx/20241006-215707.jpg" group-title="Bigg Boss Live", Bigg Boss 18 Live 4K
 https://prod-ent-live-cf.jiocinema.com/hls/live/2101885/uhd_akamai_atv_avc_24x7_bbhindi_s18_day01/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/b3Nv0MB/20241006-220010.jpg" group-title="Bigg Boss Live", Bigg Boss Kannada
+https://prod-ent-live-gm.jiocinema.com/hls/live/2106328/hd_akamai_iosmob_avc_eptv_bbkannada_day08/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/BZw6yhT/mobile-logo-148933001727851627.png" group-title="SR ICC T20 WWC 2024 ", Toffee Live
 https://fdev.short.gy/BanWOMxRanapk.m3u8
