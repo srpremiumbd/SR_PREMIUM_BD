@@ -342,9 +342,6 @@ http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Mov
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb33WQinGEBrZC6U_odj8yQh0PQgnFu9cKFdFKIBWy38QCMOB-56wca_I&s=10" group-title="SR BDIX Kolkata" ,Chalbaaz 2018
 http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282018%29/Chalbaaz%20%282018%29%20Bangla/Chalbaaz%20%282018%29-1080p.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd0bxctvdfvTeXRBJufzm7YN22YweCBytIba7wo0ld3EQPQ64bx7EntTkI&s=10" group-title="SR BDIX Kolkata" ,Fidaa 2018
-http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282018%29/Fidaa%20%282018%29%20Bengali%20Movie%201080p/Fidaa%202018%20Bengali%20Movie%201080p%20Amzn%20WEB-HD%20x%20265%20HEVC.mp4.
-
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOTk0MjE1ZDYtZTdkMy00MDdhLTg1ZTgtZDg4ODBiMTYxYzU0XkEyXkFqcGdeQXVyMzQ5MzkwMDY@._V1_.jpg" group-title="SR BDIX Kolkata" ,Haami 2018
 http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282018%29/Haami%20%282018%29%20Bengali%201080p/Haami%20%282018%29%20Bengali%201080p%20WEB-DL%20x264%20AAC%20EvAn.mp4
 
@@ -4627,3 +4624,5 @@ https://pixeldra.in/api/file/x6zwNfZr?download
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/bdKkSzj/20241007-102442.jpg" group-title="SR BDIX Bigg Boss S18 (2024)", S18EP02
 https://pixeldra.in/api/file/B1ZM2EkK?download
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HTkxz2w/20241008-141042.jpg" group-title="SR BDIX Kolkata" , Fidaa (2018)
+https://pixeldra.in/api/file/m4H7oLNM?download
