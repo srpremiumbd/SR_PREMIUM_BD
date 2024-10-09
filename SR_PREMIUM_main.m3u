@@ -2553,14 +2553,8 @@ http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Mov
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvqvvgjyKLn6fO4gSjno1hEuh0kbYjjUdhXgNrTL2al2zhrjLKId0r_MA&s=10" group-title="SR BDIX Bangla Web " , Salon (2024)
 https://pixeldrain.com/api/file/18Eyzhai?download
 
-#EXTINF:-1 tvg-logo=”https://i.ibb.co.com/WFsS5B9/20241004-123009.jpg" group-title="SR BDIX Bangladesh " , Priyotoma (2023)
-https://pixeldra.in/api/file/8VGingRh?download
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRlDjxRctAHhjrTMQDt7UIuNv4M_oBNou7JaXI5Th0zit07adUplDqvo9o&s=10" group-title="SR BDIX Bangladesh " , The Beauty Circus (2023)
 https://fg67.b-cdn.net/upload/videos/2023/03/[Fibwatch.Com]Beauty.Circus.(2022).720p.mkv
-
-#EXTINF:-1 tvg-logo=”https://i.ibb.co.com/Kb8ht1s/20241009-221906.jpg" group-title="SR BDIX Bangladesh " , Rajkumar (2024)
-https://pixeldra.in/api/file/AhWcpTvN?download
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/CKqZWKT/20241004-123620.jpg" group-title="SR BDIX Bangla Web " , Floor No. 7 (2022)
 https://pixeldra.in/api/file/ortWG9Cm?download
@@ -4647,3 +4641,10 @@ https://pixeldra.in/api/file/VcYxvvj6?download
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/gj0ZBYN/20241009-181616.jpg" group-title="SR BDIX Bollywood", Secret Superstar (2017) FTP
 http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2017/Secret%20SuperStar%20%282017%29%201080p%20BluRay/Secret%20SuperStar%202017.1080p.BluRay.x264.AAC.5.1.ESubs.-.Hon3yHD.mp4
+
+#EXTINF:-1 tvg-logo=”https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC6msggGhfISYnQpHbrwiU27ot3zhVNLcIq7FVSIATnoBCACtxUO7mtVM&s=10" group-title="SR BDIX Bangladesh " , Priyotoma (2023)
+https://pixeldra.in/api/file/8VGingRh?download
+
+#EXTINF:-1 tvg-logo=”https://m.media-amazon.com/images/M/MV5BZmM2YTNkNzEtNzIwNi00ZDU0LThhNDUtZmQyMDUxOTVlMWJkXkEyXkFqcGdeQXVyMjQwODkxNzg@._V1_FMjpg_UX1000_.jpg" group-title="SR BDIX Bangladesh " , Rajkumar (2024)
+https://pixeldra.in/api/file/AhWcpTvN?download
+
