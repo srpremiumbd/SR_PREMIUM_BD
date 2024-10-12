@@ -12,9 +12,6 @@ https://prod-ent-live-cf.jiocinema.com/hls/live/2101885/uhd_akamai_atv_avc_24x7_
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/b3Nv0MB/20241006-220010.jpg" group-title="Bigg Boss Live", Bigg Boss Kannada
 https://prod-ent-live-gm.jiocinema.com/hls/live/2106328/hd_akamai_iosmob_avc_eptv_bbkannada_day08/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BZw6yhT/mobile-logo-148933001727851627.png" group-title="SR ICC T20 WWC 2024 ", Toffee Live
-https://fdev.short.gy/BanWOMxRanapk.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/fkr7pz6/FB-IMG-1727943593703.jpg" group-title="SR ICC T20 WWC 2024 ", Nagorik Tv (BDIX)
 http://172.16.29.34/ontest1/ontest1/252
 
