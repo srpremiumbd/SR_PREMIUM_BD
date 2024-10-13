@@ -15,13 +15,13 @@ https://prod-ent-live-gm.jiocinema.com/hls/live/2106328/hd_akamai_iosmob_avc_ept
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/fkr7pz6/FB-IMG-1727943593703.jpg" group-title="SR ICC T20 WWC 2024 ", Nagorik Tv (BDIX)
 http://172.16.29.34/ontest1/ontest1/252
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/fkr7pz6/FB-IMG-1727943593703.jpg" group-title="SR ICC T20 WWC 2024 ", Star Sports HD 1 (BDIX)
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/fkr7pz6/FB-IMG-1727943593703.jpg" group-title="SR ICC T20 WWC 2024 ", Star Sports HD 1 WWC
 http://172.16.29.34/ontest1/ontest1/347
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/fkr7pz6/FB-IMG-1727943593703.jpg" group-title="SR ICC T20 WWC 2024 ", Star Sports HD 2 (BDIX)
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/fkr7pz6/FB-IMG-1727943593703.jpg" group-title="SR ICC T20 WWC 2024 ", Star Sports HD 2 WWC
 http://172.16.29.34/ontest1/ontest1/349
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/fkr7pz6/FB-IMG-1727943593703.jpg" group-title="SR ICC T20 WWC 2024 ", Willow HD (BDIX)
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/fkr7pz6/FB-IMG-1727943593703.jpg" group-title="SR ICC T20 WWC 2024 ", Willow HD WWC
 http://172.16.29.34/ontest1/ontest1/413
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/T432dfs/20240815-181328.png" group-title="SR Bangladeshi", Rtv 
@@ -234,13 +234,13 @@ https://fifabd.xyz/STAR7c/RANAPK/star.php?id=48102
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfqDdTe9G1pv5gxCSYPLEAMfa4z8IhK81gGQ&s" group-title="SR Bangladeshi" , Nagorik TV (BDIX)
 http://172.16.29.34/ontest1/ontest1/252
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/fkr7pz6/FB-IMG-1727943593703.jpg" group-title="SR Sports", Star Sports HD 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/fkr7pz6/FB-IMG-1727943593703.jpg" group-title="SR Sports", Star Sports HD 1 (BDIX)
 http://172.16.29.34/ontest1/ontest1/347
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/fkr7pz6/FB-IMG-1727943593703.jpg" group-title="SR Sports", Star Sports HD 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/fkr7pz6/FB-IMG-1727943593703.jpg" group-title="SR Sports", Star Sports HD 2 (BDIX)
 http://172.16.29.34/ontest1/ontest1/349
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/fkr7pz6/FB-IMG-1727943593703.jpg" group-title="SR Sports", Willow HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/fkr7pz6/FB-IMG-1727943593703.jpg" group-title="SR Sports", Willow HD (BDIX)
 http://172.16.29.34/ontest1/ontest1/413
 
 #EXTINF:-1 tvg-logo="https://image.tsports.com/images/mobile_logo/1719672720-LIVE.jpg" group-title="SR Sports" ,T Sports Live 1
@@ -252,13 +252,13 @@ https://fifabd.xyz/TTT/play.m3u8?id=2&q=720
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/MkvHBbW/Sports18-1-HD.png" group-title="SR Sports" ,Sports 18 HD 1 (BDIX)
 http://172.16.29.34/ontest1/ontest1/336
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/fkr7pz6/FB-IMG-1727943593703.jpg" group-title="SR Sports", Star Sports HD 1 (BDIX)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/2560px-Star_Sports_1_HD.png" group-title="SR Sports", Star Sports HD 1 (BDIX)
 http://172.16.29.34/ontest1/ontest1/347
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/fkr7pz6/FB-IMG-1727943593703.jpg" group-title="SR Sports", Star Sports HD 2 (BDIX)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQr9HMb6hcR25CGmQrlcxQiSzHP8rCnT7j6CcOvymBGq1biOYvr9dp8cMo&s=10" group-title="SR Sports", Star Sports HD 2 (BDIX)
 http://172.16.29.34/ontest1/ontest1/349
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/fkr7pz6/FB-IMG-1727943593703.jpg" group-title="SR Sports", Willow HD (BDIX)
+#EXTINF:-1 tvg-logo="https://s10019.cdn.ncms.io/wp-content/uploads/2024/01/Willow-is-on-DIRECTV.png" group-title="SR Sports", Willow HD (BDIX)
 http://172.16.29.34/ontest1/ontest1/413
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tCgY1vF/20240820-171000.png" group-title="SR Sports" ,T Sports HD (BDIX)
