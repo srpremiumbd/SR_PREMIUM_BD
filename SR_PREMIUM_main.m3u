@@ -235,7 +235,7 @@ https://fifabd.xyz/STAR7c/RANAPK/star.php?id=48102
 http://172.16.29.34/ontest1/ontest1/252
 
 #EXTINF:-1 tvg-logo="https://image.tsports.com/images/mobile_logo/1719672720-LIVE.jpg" group-title="SR Sports" ,T Sports Live 1
-https://allinoneott.com/live/tsfile.php?url=https://live-cdn.tsports.com/live-02/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://image.tsports.com/images/mobile_logo/1719672720-LIVE.jpg" group-title="SR Sports" ,T Sports Live 2
 https://fifabd.xyz/TTT/play.m3u8?id=2&q=720
@@ -4773,4 +4773,9 @@ http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20S
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/WvSbcjW/20241013-092342.jpg" group-title="SR BDIX South", Level Cross (2024)
 https://pixeldrain.com/api/file/yxJMvrYD?download
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7KxYfvN/20241013-090901.jpg" group-title="SR BDIX Bigg Boss S18 (2024)", S18EP08
+https://pixeldra.in/api/file/GDwvdRnJ?download
+
+
 
