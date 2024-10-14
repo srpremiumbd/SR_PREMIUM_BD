@@ -252,6 +252,15 @@ http://172.16.29.34/ontest1/ontest1/181
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rxfvjBN/20240817-215846.png" group-title="SR Sports" ,Gazi TV (BDIX)
 http://172.16.29.34/ontest1/ontest1/233
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/JQ5dfxJ/20241014-082122.png" group-title="SR Sports" , Star Sports HD 1 (BDIX)
+http://172.16.29.34/ontest1/ontest1/347
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xHtzmD3/20241014-082132.png" group-title="SR Sports" , Star Sports HD 2 (BDIX)
+http://172.16.29.34/ontest1/ontest1/349
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/qngmqnm/20241014-082111.png" group-title="SR Sports" , Willow HD (BDIX)
+http://172.16.29.34/ontest1/ontest1/413
+
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMmRkMGMzYTUtM2E2My00YjZlLWFmZjItMDA5M2EwNjNiZTNjXkEyXkFqcGdeQXVyNDY5MTUyNjU@._V1_.jpg" group-title="SR BDIX South" ,Ala Vaikunthapurramuloo 2020
 http://server3.ftpbd.net/FTP-3/South%20Indian%20Movies/HINDI%20DUBBED/%282020%29/Ala%20Vaikuntapuramlo%20%282020%29%20Dual%20Audio%20%5BHindi%20%26%20Telugu%5D%20WEB-DL/AVPL%202020%20Dual%20Audio%20%5BHindi%20ORG%20%26%20Telugu%5D%20720p.mp4
 
