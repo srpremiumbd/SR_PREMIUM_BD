@@ -252,15 +252,6 @@ https://fifabd.xyz/TTT/play.m3u8?id=2&q=720
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/MkvHBbW/Sports18-1-HD.png" group-title="SR Sports" ,Sports 18 HD 1 (BDIX)
 http://172.16.29.34/ontest1/ontest1/336
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/2560px-Star_Sports_1_HD.png" group-title="SR Sports", Star Sports HD 1 (BDIX)
-http://172.16.29.34/ontest1/ontest1/347
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQr9HMb6hcR25CGmQrlcxQiSzHP8rCnT7j6CcOvymBGq1biOYvr9dp8cMo&s=10" group-title="SR Sports", Star Sports HD 2 (BDIX)
-http://172.16.29.34/ontest1/ontest1/349
-
-#EXTINF:-1 tvg-logo="https://s10019.cdn.ncms.io/wp-content/uploads/2024/01/Willow-is-on-DIRECTV.png" group-title="SR Sports", Willow HD (BDIX)
-http://172.16.29.34/ontest1/ontest1/413
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tCgY1vF/20240820-171000.png" group-title="SR Sports" ,T Sports HD (BDIX)
 http://172.16.29.34/ontest1/ontest1/181
 
