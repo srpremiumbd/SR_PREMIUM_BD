@@ -544,8 +544,11 @@ http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Mov
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BY2NlZDE1MzYtMGMxMy00MGQzLWE5MWItMTcwNTY1MzJhMjg1XkEyXkFqcGdeQXVyNjkwOTg4MTA@._V1_.jpg" group-title="SR BDIX 4K Zone" ,Balupu (4K) 2013
 http://server3.ftpbd.net/FTP-3/Hindi%20Movies/4K%20Movies/Balupu%20%282013%29%20%284K%29%20Hindi%20Dubbed/Balupu%20%282013%29%20-%204K%20UHD%20Hindi%20Dubbed.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2LhQZtX5cz7TOZp5ADl8EdcRTPANFId7wpDwy5PMeqBqA0dm7NNVrU_k&s=10" group-title="SR BDIX South" ,4K Zone (4K) 2022
-http://server3.ftpbd.net/FTP-3/Hindi%20Movies/4K%20Movies/RRR%204K/RRR.2022.2160p.WEB-DL.DDP5.1.Atmos.HEVC.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2LhQZtX5cz7TOZp5ADl8EdcRTPANFId7wpDwy5PMeqBqA0dm7NNVrU_k&s=10" group-title="SR BDIX 4K Zone" ,RRR (4K) 2022
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/4K%20Movies/RRR%204K/RRR.2022.2160p.WEB-DL.DDP5.1.Atmos.HEVC_h264.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2LhQZtX5cz7TOZp5ADl8EdcRTPANFId7wpDwy5PMeqBqA0dm7NNVrU_k&s=10" group-title="SR BDIX South" ,RRR (2022)
+http://server3.ftpbd.net/FTP-3/South%20Indian%20Movies/HINDI%20DUBBED/%282022%29/RRR%20%282022%29%20WEB-DL%20%5BHindi%20Dubbed%5D/RRR%20%282022%29%20WEB-DL%201080p.mp4
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd49spRAU8W6B01XrsjrEW_gTDhXq2uvMlLoJwftmzrp8j4izl6yNw9Ig&s=10" group-title="SR BDIX South" ,PK 2014
 http://server3.ftpbd.net/FTP-3/Hindi%20Movies/4K%20Movies/PK%20%282014%29%20-%204K/PK%20%282014%29%20-%204K%20UHD.mp4
@@ -4803,6 +4806,4 @@ http://server3.ftpbd.net/FTP-3/South%20Indian%20Movies/HINDI%20DUBBED/%282019%29
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7KxYfvN/20241013-090901.jpg" group-title="SR BDIX Bigg Boss S18 (2024)", S18EP11
 http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2018%201080p/Bigg.Boss.S18E11.1080p.WEB-DL.AAC2.0.x264.mkv
-
-
 
