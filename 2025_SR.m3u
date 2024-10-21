@@ -93,6 +93,9 @@ https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4pQkwcX/20240815-205052.png" group-title="SR documentary" ,Discovery Hindi
 https://varun-iptv.netlify.app/m3u/discoveryhindi.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/XWYWzgG/images.png" group-title="SR documentary" , National Geographic HD (BDIX)
+http://172.16.29.34/ontest1/ontest1/312
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4pQkwcX/20240815-205052.png" group-title="SR documentary" ,Animal Planet HD
 https://denver1769.pages.dev/Discovery/animal_planet_hd_hindi.m3u8
 
