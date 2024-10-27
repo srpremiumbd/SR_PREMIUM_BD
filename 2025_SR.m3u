@@ -255,8 +255,8 @@ http://172.16.29.34/ontest1/ontest1/413
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMmRkMGMzYTUtM2E2My00YjZlLWFmZjItMDA5M2EwNjNiZTNjXkEyXkFqcGdeQXVyNDY5MTUyNjU@._V1_.jpg" group-title="SR BDIX South" ,Ala Vaikunthapurramuloo 2020
 http://server3.ftpbd.net/FTP-3/South%20Indian%20Movies/HINDI-DUBBED/%282020%29/Ala-Vaikuntapuramlo-%282020%29-Dual-Audio-%5BHindi-%26-Telugu%5D-WEB-DL/AVPL%202020%20Dual%20Audio%20%5BHindi%20ORG%20%26%20Telugu%5D%201080p.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjfYl0iodbLSHZ87pM9o1_5pY0M66q8L3lJY0eKFT67oTAN1C2mH5iByKg&s=10" group-title="SR BDIX Kolkata" ,Honeymoon 2018
-http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282018%29/Honeymoon%20%282018%29%20Bengali%201080p/Honeymoon%20%282018%29%20Bengali%20WEB-DL%201080p.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjfYl0iodbLSHZ87pM9o1_5pY0M66q8L3lJY0eKFT67oTAN1C2mH5iByKg&s=10" group-title="SR BDIX Kolkata" ,Honeymoon (2018)
+http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata-Bangla-Movies/%282018%29/Honeymoon-%282018%29-Bengali-1080p/Honeymoon%20%282018%29%20Bengali%20WEB-DL%201080p.mp4
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5R5y-SRakV9jN9Jmb-EljRt7wWb56nMWqtOrjDekz_0uwJkRmk287sFQ&s=10" group-title="SR BDIX Bollywood" , Student of the Year (2012l
 http://45.250.20.254/collection/Movies/Exclusive%20Full%20HD/Hindi/Student%20Of%20The%20Year%20%282012%29%201080p%20DTSHD%20BluRay.mp4
@@ -312,41 +312,44 @@ http://server3.ftpbd.net/FTP-3/South%20Indian%20Movies/HINDI%20DUBBED/%282017%29
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSPwFKaLRIff5fxi5pKYn5-fLktWgghbhoFhV6DtqN73qgN6V57rX6I8g6&s=10" group-title="SR BDIX South" ,Oxygen (2017)
 http://server3.ftpbd.net/FTP-3/South%20Indian%20Movies/HINDI-DUBBED/%282017%29/Oxygen-%282017%29-1080p-WEBRip-%5BDual-Audio%5D/Oxygen%202017%20WebRip%20%201080p%20Hindi%20AAC%202.0%20Telugu%20DD%205.1%20x264%20ESub.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZGasp6czaKZN35O6oON3mdqL66s4or4Pfjhw07IxBTUSVNXgjAGdqL3k&s=10" group-title="SR BDIX Kolkata" ,Bagh Bandhi Khela 2018
-http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282018%29/Bagh%20Bandi%20Khela%20%282018%29%20Bengali%20Movies%201080p/Bagh%20Bandi%20Khela%20%5B2018%5D%20Bengali%20Movies%201080p%20Untouched%20Webdl%20x%20264%20AVC%20AAC%20DD%20-%202.0%20%5BCinemaghar%5D%20.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZGasp6czaKZN35O6oON3mdqL66s4or4Pfjhw07IxBTUSVNXgjAGdqL3k&s=10" group-title="SR BDIX Kolkata" ,Bagh Bandhi Khela (2018)
+http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata-Bangla-Movies/%282018%29/Bagh-Bandi-Khela-%282018%29-Bengali-Movies-1080p/Bagh%20Bandi%20Khela%20%5B2018%5D%20Bengali%20Movies%201080p%20Untouched%20Webdl%20x%20264%20AVC%20AAC%20DD%20-%202.0%20%5BCinemaghar%5D%20.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb33WQinGEBrZC6U_odj8yQh0PQgnFu9cKFdFKIBWy38QCMOB-56wca_I&s=10" group-title="SR BDIX Kolkata" ,Chalbaaz 2018
-http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282018%29/Chalbaaz%20%282018%29%20Bangla/Chalbaaz%20%282018%29-1080p.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb33WQinGEBrZC6U_odj8yQh0PQgnFu9cKFdFKIBWy38QCMOB-56wca_I&s=10" group-title="SR BDIX Kolkata" ,Chalbaaz (2018)
+http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata-Bangla-Movies/%282018%29/Chalbaaz-%282018%29-Bangla/Chalbaaz%20%282018%29-1080p.mp4
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOTk0MjE1ZDYtZTdkMy00MDdhLTg1ZTgtZDg4ODBiMTYxYzU0XkEyXkFqcGdeQXVyMzQ5MzkwMDY@._V1_.jpg" group-title="SR BDIX Kolkata" ,Haami 2018
 http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata-Bangla-Movies/%282018%29/Haami-%282018%29-Bengali-1080p/Haami%20%282018%29%20Bengali%201080p%20WEB-DL%20x264%20AAC%20EvAn.mp4
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT1jX_zwSyMCjEfO7Wt6kvMqItH8KeMzFYA2ouootoiLHLl-zDz56GQl_J&s=10" group-title="SR BDIX Kolkata" ,Hoichoi Unlimited (2018)
-http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282018%29/Hoichoi%20Unlimited%20%282018%29%20Bengali%201080p/Hoichoi%20Unlimited%20%5B2018%5D%20Bengali%20Movie%20%201080p%20Webdl%20x%20264%20AVC%20AAC%20DD-2.0%20%5BCinemaghar%5D%20-%201ST%20ON%20NET.mp4
+http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata-Bangla-Movies/%282018%29/Hoichoi-Unlimited-%282018%29-Bengali-1080p/Hoichoi%20Unlimited%20%5B2018%5D%20Bengali%20Movie%20%201080p%20Webdl%20x%20264%20AVC%20AAC%20DD-2.0%20%5BCinemaghar%5D%20-%201ST%20ON%20NET.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNv2ZOVYd30hGmSpxM8hdEyQXpsoB3gmGwlcca8dgnlilgqr36dxt9gc8&s=10" group-title="SR BDIX Kolkata" ,Villain 2018
-http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282018%29/Villain%20%282018%29%20Bengali%201080p/Villain.2018.x264.1080p.AmazonDL.Rip.AVC.DD.5.1.ESUBS.Telly.Exclusive.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNv2ZOVYd30hGmSpxM8hdEyQXpsoB3gmGwlcca8dgnlilgqr36dxt9gc8&s=10" group-title="SR BDIX Kolkata" ,Villain (2018)
+http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata-Bangla-Movies/%282018%29/Villain-%282018%29-Bengali-1080p/Villain.2018.x264.1080p.AmazonDL.Rip.AVC.DD.5.1.ESUBS.Telly.Exclusive.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2mSGCcZ-IhPBl8A2cUxFjpg3yz3FKs-AWoOfc6mMKWJNrBfDXeG3Shcg&s=10" group-title="SR BDIX Kolkata" ,Inspector Notty K 2018
-http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282018%29/Inspector%20Notty%20K%20%282018%29%20Bengali%201080p/Inspector%20Notty%20K%20%282018%29%20Bengali%201080p%20Zee5%20WEB-DL%20x264%20AAC%202.0-NoT.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2mSGCcZ-IhPBl8A2cUxFjpg3yz3FKs-AWoOfc6mMKWJNrBfDXeG3Shcg&s=10" group-title="SR BDIX Kolkata" ,Inspector Notty K (2018)
+http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata-Bangla-Movies/%282018%29/Inspector-Notty-K-%282018%29-Bengali-1080p/Inspector%20Notty%20K%20%282018%29%20Bengali%201080p%20Zee5%20WEB-DL%20x264%20AAC%202.0-NoT.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8lNbaXCVBBsuDHdDtqEf3eT22WIymzpjVGXy98hAmDqAz8rqnlNRDRYf9&s=10" group-title="SR BDIX Kolkata" ,Raja Rani Raju 2018
-http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282018%29/Raja%20Rani%20Raji%20%282018%29%20Bengali%20720p/Raja%20Rani%20Raji%20%282018%29%20Bengali%20720p%20Untouched%20WEBHD%20AAC%20-%201.8GB.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8lNbaXCVBBsuDHdDtqEf3eT22WIymzpjVGXy98hAmDqAz8rqnlNRDRYf9&s=10" group-title="SR BDIX Kolkata" ,Raja Rani Raju (2018) FTP
+http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata-Bangla-Movies/%282018%29/Raja-Rani-Raji-%282018%29-Bengali-720p/Raja%20Rani%20Raji%20%282018%29%20Bengali%20720p%20Untouched%20WEBHD%20AAC%20-%201.8GB.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ_3GXg0OQhP0JflKeSbvbhTwY7L9cFcBNuCZsp7cEKcf3s2kTbCtewNjQ&s=10" group-title="SR BDIX Kolkata" ,Total Dadagiri 2018
-http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282018%29/Total%20Dadagiri%20%282018%29%201080p/Total%20Dadagiri%20%282018%29%201080p.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ_3GXg0OQhP0JflKeSbvbhTwY7L9cFcBNuCZsp7cEKcf3s2kTbCtewNjQ&s=10" group-title="SR BDIX Kolkata" ,Total Dadagiri (2018)
+http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata-Bangla-Movies/%282018%29/Total-Dadagiri-%282018%29-1080p/Total%20Dadagiri%20%282018%29%201080p.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqFTNSJuP9jQMefjIHwBbQPJHAAjqFj5OUalv7JicZ0d3pdRx0l9n8yFA&s=10" group-title="SR BDIX Kolkata" ,Sultan: The Saviour 2018
-http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282018%29/Sultan%20The%20Saviour%20%282018%29%201080p%20WEB-DL/Sultan.The.Saviour.2018.1080p.DS.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqFTNSJuP9jQMefjIHwBbQPJHAAjqFj5OUalv7JicZ0d3pdRx0l9n8yFA&s=10" group-title="SR BDIX Kolkata" ,Sultan: The Saviour (2018)
+http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata-Bangla-Movies/%282018%29/Sultan-The-Saviour-%282018%29-1080p-WEB-DL/Sultan.The.Saviour.2018.1080p.DS.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaLEJcj8MVif4Ggo0Doo-fJZeCI1eVFWcN4WxrvqXigaz6WGfKRYyZ26DU&s=10" group-title="SR BDIX Kolkata" ,Badsha – The Don 2016
-http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282016%29/Badsha%20the%20Don%20%282016%29%20Bengali%201080p/Badsha%20the%20Don%20%282016%29%20Bengali%20TRUE%20UNTOUCHED%20%E2%80%93%20WEB-DL%20%E2%80%93%201080P%20%E2%80%93%20x264.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaLEJcj8MVif4Ggo0Doo-fJZeCI1eVFWcN4WxrvqXigaz6WGfKRYyZ26DU&s=10" group-title="SR BDIX Kolkata" ,Badsha – The Don (2016)
+http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata-Bangla-Movies/%282016%29/Badsha-the-Don-%282016%29-Bengali-1080p/Badsha%20the%20Don%20%282016%29%20Bengali%20TRUE%20UNTOUCHED%20%E2%80%93%20WEB-DL%20%E2%80%93%201080P%20%E2%80%93%20x264.mp4
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf0n-ZDiJgcXxRifolFxWEZlGrh1uaZYuwHUJYgZ82ED8Nd-LH2ozg96y_&s=10" group-title="SR BDIX Kolkata" ,Khoka 420 (2013)
 http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata-Bangla-Movies/%282013%29/Khoka-420-%282013%29-1080p-WEB-DL/Khoka%20420%20%282013%29.WEB.DL.1080p.H264.Bengali.DDP.5.1.Hindi.AAC.2.0.ESUB.mp4u
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVFyaQjXZveLFlpHuV4FP1b75X9cI-3ICKhm_UNDzgMn67SY9FCAY_2Yo&s=10" group-title="SR BDIX Kolkata" ,Khoka Babu (2012)
 http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata-Bangla-Movies/%282012%29/Khokababu-%282012%29-1080p-WEB-DL/Khokababu.2012.1080p.AMZN.WEB-DL.AAC2.0.x264.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Db0VW53/20241027-103328.jpg" group-title="SR BDIX Kolkata" , Jio Pagla (2017)
+http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata-Bangla-Movies/%282017%29/Jio-Pagla-%282017%29-1080p/Jio.Pagla.2017.Bengali.1080p_WEB-DL.x264-worldmkv.mp4
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScPMWgrBWVZJzVCriEcZPbkvyZdjEw6ngAdcCuNJsQ_L-gXHaPewFfHS8&s=10" group-title="SR BDIX Kolkata" ,100% Love (2012)
 http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata-Bangla-Movies/%282012%29/100%25-Love-%282012%29-720p/100%25love.mp4
@@ -396,8 +399,8 @@ http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Mov
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Josh_%282010%29_poster.jpg" group-title="SR BDIX Kolkata" ,Josh 2010
 http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282010%29/Josh%20%282010%29%20Bengali%20720p/Josh%20%282010%29%20Bengali%20Movie%20720p%20HDRip.mp4
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/6/64/%E0%A6%AC%E0%A6%B8-_%E0%A6%AC%E0%A6%B0%E0%A7%8D%E0%A6%A8_%E0%A6%9F%E0%A7%81_%E0%A6%B0%E0%A7%81%E0%A6%B2_%E0%A6%9A%E0%A6%B2%E0%A6%9A%E0%A7%8D%E0%A6%9A%E0%A6%BF%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%B0_%E0%A6%AA%E0%A7%8B%E0%A6%B8%E0%A7%8D%E0%A6%9F%E0%A6%BE%E0%A6%B0.jpg" group-title="SR BDIX Kolkata" ,Boss 2013
-http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282013%29/Boss%20%282013%29%201080p%20WEBRip/Boss.2013.1080p.WebRip.DD.2.0.H.264.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/6/64/%E0%A6%AC%E0%A6%B8-_%E0%A6%AC%E0%A6%B0%E0%A7%8D%E0%A6%A8_%E0%A6%9F%E0%A7%81_%E0%A6%B0%E0%A7%81%E0%A6%B2_%E0%A6%9A%E0%A6%B2%E0%A6%9A%E0%A7%8D%E0%A6%9A%E0%A6%BF%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%B0_%E0%A6%AA%E0%A7%8B%E0%A6%B8%E0%A7%8D%E0%A6%9F%E0%A6%BE%E0%A6%B0.jpg" group-title="SR BDIX Kolkata" ,Boss (2013)
+http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata-Bangla-Movies/%282013%29/Boss-%282013%29-1080p-WEBRip/Boss.2013.1080p.WebRip.DD.2.0.H.264.mp4
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYuILW0VyL-ul_G-LCrLw7mFByh9Yypk4ACBbv1NVUc9HHt9lNIr-SIfI&s=10" group-title="SR BDIX Kolkata" ,Deewana 2013
 http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282013%29/Deewana%20%282013%29%20Bengali%201080p%20WEB-DL/Deewana%20%282013%29%20Bengali%201080p%20WEB-DL.mp4
@@ -420,8 +423,8 @@ http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Mov
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQARgMZxzbLsdMStdnS-Wg5nK6PR4Eb1ixGLQ5i8A12sbivJrM00V6M13ZB&s=10" group-title="SR BDIX Kolkata" ,Jamai 420 (2015)
 http://10.20.30.40/Data/movies1/indianbangla/2000-2020/Jamai%20420%20(2015)/Jamai%20420%20(2015).mkv
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3c/First_Look_of_Boss_2%2C_Back_to_Rule.jpeg" group-title="SR BDIX Kolkata" ,Boss 2 2017
-http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282017%29/Boss%202%20%282017%29%20Bengali%201080p%20WEB-DL/BOSS%202%202017%20Bengali%201080p%20AMZN%20WEB-DL%20H264%20ESubs.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3c/First_Look_of_Boss_2%2C_Back_to_Rule.jpeg" group-title="SR BDIX Kolkata" ,Boss 2 (2017)
+http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata-Bangla-Movies/%282017%29/Boss-2-%282017%29-Bengali-1080p-WEB-DL/BOSS%202%202017%20Bengali%201080p%20AMZN%20WEB-DL%20H264%20ESubs.mp4
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNXw6dDR0GEzHBtgr3Dczc-gn5uhm_hHEHAu2A1Qf5RCEzCoXvKQk42iB2&s=10" group-title="SR BDIX Kolkata" ,Bibaho Obhijaan (2019)
 http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata-Bangla-Movies/%282019%29/Bibaho-Obhijaan-%282019%29-Bengali-1080p/Bibaho%20Obhijaan%202019%20Bengali%201080p%20WEB-DL%20x264%20AAC%20%7B%20TaRa%20%7D.mp4
@@ -1310,7 +1313,10 @@ https://pixeldra.in/api/file/vKSRBA6L?download
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQr6QpRrss879yi_bTEjhHc1Gb_cIrNguCRwpsRTFUfz8my7Xrzk8p_K3E&s=10" group-title="SR BDIX Kolkata" , Borbaad (2014)
 http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata-Bangla-Movies/%282014%29/Borbaad-%282014%29-720p/Borbaad%202014%20Bengali%20720p%20HDRip%20ExtraMovies.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJdcXE5152WA5qQQwHSa04-6Cer5_T9SrgnghoDZANeziGYMn31VdnXm-q&s=10" group-title="SR BDIX Kolkata" , Bolo Dugga Maiki 2017
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/VDLYvy5/20241027-103939.jpg" group-title="SR BDIX Kolkata" , Abhimaan (2016)
+http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata-Bangla-Movies/%282016%29/Abhimaan-%282016%29-Bengali-1080p/Abhimaan%20%282016%29%20Bengali%201080p%20WEB-DL%20x264%20AAC%202.0-NoT.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJdcXE5152WA5qQQwHSa04-6Cer5_T9SrgnghoDZANeziGYMn31VdnXm-q&s=10" group-title="SR BDIX Kolkata" , Bolo Dugga Maiki (2017)
 http://172.27.27.250/2TB1/Indian-Bangla-2017/Bolo%20Dugga%20Maiki%20%282017%29/Bolo%20Dugga%20Mai%20Ki%202017%20%5BBengali%5D%201080p%20WEB-DL%20x264%20AAC%20ESub%20-%20Hon3yHD.mp4
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTItt4AK8cTkDDXO8Pt-xyC5WP0HOn0bdOcdVbvfGSScguzwd0QdcHzLlo&s=10" group-title="SR BDIX Kolkata" , Cockpit (2017)
@@ -1344,10 +1350,10 @@ http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Mov
 http://172.27.27.250/2TB1/Indian-Bangla-2015/Parbona%20Ami%20Chartey%20Tokey%20%282015%29/Parbona%20Ami%20Chartey%20Tokey%20%282015%29%201080p%20Untouched%20WEBHD%20AVC%20AAC%20%5BDDR%5D.mkv
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSon2JhcKyFB7GA1b5reyLMtPRIiWSiTT_7sMXygO2-AaaNPiEWRwvkPIkH&s=10" group-title="SR BDIX Kolkata" , Baccha shoshur (2019)
-http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282019%29/Baccha%20shoshur%20%282019%29%201080p/Baccha%20shoshur%20%5B2019%5D%20Beng.%20Movie%201080p%20Webdl%20x%20264%20AVC%20AAC%20%5BCinemaghar%5D%20-%20xclusive%20.mp4
+http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata-Bangla-Movies/%282019%29/Baccha-shoshur-%282019%29-1080p/Baccha%20shoshur%20%5B2019%5D%20Beng.%20Movie%201080p%20Webdl%20x%20264%20AVC%20AAC%20%5BCinemaghar%5D%20-%20xclusive%20.mp4
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf29INTIpZPJdQ94fl56RPZH0C1Plitq6h2kgzJojxifFNaFOT7n5cgcPk&s=10" group-title="SR BDIX Kolkata" , Tomake Chai (2017)
-http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282017%29/Tomake%20Chai%202017%20%5BBengali%5D%20%201080p/Tomake%20Chai%202017%20%5BBengali%5D%20%201080p.mp4
+http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata-Bangla-Movies/%282017%29/Tomake-Chai-2017-%5BBengali%5D-1080p/Tomake%20Chai%202017%20%5BBengali%5D%20%201080p.mp4
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQulesbZP1oogojdL37pbgvHCEfc6HqwucxvuskhpqGUUEYZTsEJ_0LHQ&s=10" group-title="SR BDIX Kolkata" , Tumi Ashbe Bole 2021
 http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata-Bangla-Movies/%282021%29/Tumi-Ashbe-Bole-%282021%29-1080p-WEB-DL/Tumi.Ashbe.Bole.2021.1080p.DSNP.WEB-DL.AAC2.0.x264-Telly.mp4
@@ -2571,7 +2577,7 @@ https://pixeldra.in/api/file/ArdFVpMV?download
 https://pixeldra.in/api/file/ujSjLaPB?download
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c4/Crisscross_2018_film_poster.jpg/220px-Crisscross_2018_film_poster.jpg" group-title="SR BDIX Kolkata " , Crisscross (2018)
-http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282018%29/Crisscross%20%282018%29%20Bengali%20720p/Crisscross%20%282018%29%20Bengali%20Full%20Movie%20HDRip%20720p%20-SkyMoviesHD.mp4
+http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata-Bangla-Movies/%282018%29/Crisscross-%282018%29-Bengali-720p/Crisscross%20%282018%29%20Bengali%20Full%20Movie%20HDRip%20720p%20-SkyMoviesHD.mp4
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wTf9Z6QN/a351ae59-9e3c-4098-9c57-c128d6a873d1.jpg" group-title="SR BDIX Bangla Web " , Booking (2024)
 https://pixeldra.in/api/file/SV5G2XtQ?download
@@ -2995,7 +3001,7 @@ https://pixeldra.in/api/file/fEBbxbZD?download
 http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282013%29/Chander%20Pahar%20%282013%29%20Bengali/Chander%20Pahar%20%282013%29%20Bengali%201080p%20WEBRip.mp4
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyvqmsVLOyda-DnsRZrVLScl0yxSPMTytHbkG4vp6hkXVC3bKSUEblCIvX&s=10" group-title="SR BDIX Kolkata" , Amazon Obhijaan (2017)
-http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282017%29/Amazon%20Obhijaan%20%282017%29%201080p/Amazon.Obhijaan.2017.1080p.AMZN.WEB-DL.DDP2.0.H.264-KnightKing.mp4
+http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata-Bangla-Movies/%282018%29/Amazon-Obhijaan-%282018%29-720p/Amazon%20Obhijaan%20%282018%29%20720p%20Bengali%20HDRip%20x264%20AAC%201.2%20GB.mp4
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhNv2DKruzMSwCM5OOkdOVK665FOMu2kBSPfWbOZK2EmeYWdirRlBdfqw&s=10" group-title="SR BDIX Bangladesh" , Password (2019)
 https://nm89.b-cdn.net/upload/videos/2023/05/[Fibwatch.Com]Password.(2019).Bengali.1080p.mkv
