@@ -36,20 +36,20 @@ https://bdcast-free.b-cdn.net/jago/0/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0hbCzCH/20240818-174544.png" group-title="SR News" , Independent Television Jagobd
 https://static.jagobd.com.bd/live-orgin/independent-8-org.stream/playlist.m3u8|referer=https://www.jagobd.com
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/c3RNmkY/20240816-083023.png" group-title="SR News" ,DBC News
-https://bdcast-free.b-cdn.net/jago/0/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/dbcnews.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/c3RNmkY/20240816-083023.png" group-title="SR News" ,DBC News Jagobd
+https://static.jagobd.com.bd/live-orgin/dbcnews.stream/playlist.m3u8|referer=https://www.jagobd.com
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dtkcb19/20240815-181402.png" group-title="SR Bangladeshi" ,Atn Bangla
 https://bdcast-free.b-cdn.net/jago/0/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbd-8-org.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N6YsQx2/20240815-181504.png" group-title="SR Bangladeshi", Banglavision HD
-https://bdcast-free.b-cdn.net/jago/0/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/banglav000.stream/playlist.m3u8
+https://static.jagobd.com.bd/live-orgin/banglav000.stream/playlist.m3u8|referer=https://www.jagobd.com
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pL1B7kt/20240815-181452.png" group-title="SR Bangladeshi" ,Boishakhi TV 
-https://bdcast-free.b-cdn.net/jago/0/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/boishakhitv-org.stream/playlist.m3u8
+https://static.jagobd.com.bd/live-orgin/boishakhitv-org.stream/playlist.m3u8|referer=https://www.jagobd.com
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Nt7hhK1/20240815-181346.png" group-title="SR Bangladeshi" ,SATV
-https://bdcast-free.b-cdn.net/jago/0/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/satvoff5666.stream/playlist.m3u8
+https://static.jagobd.com.bd/live-orgin/satvoff5666.stream/playlist.m3u8|referer=https://www.jagobd.com
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/T432dfs/20240815-181328.png" group-title="SR Bangladeshi", Rtv 
 https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=rtv
