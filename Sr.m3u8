@@ -1,18 +1,1 @@
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-TARGETDURATION:3
-#EXT-X-MEDIA-SEQUENCE:1
-#EXTINF:3.0000,
-http://31.42.187.37:25461/live/watchpad13158/1234/4096.ts
-#EXTINF:3.0000,
-http://31.42.187.37:25461/live/watchpad13158/1234/4096.ts
-#EXTINF:3.0000,
-http://31.42.187.37:25461/live/watchpad13158/1234/4096.ts
-#EXTINF:3.0000,
-http://31.42.187.37:25461/live/watchpad13158/1234/4096.ts
-#EXTINF:3.0000,
-http://31.42.187.37:25461/live/watchpad13158/1234/4096.ts
-#EXTINF:3.0000,
-http://31.42.187.37:25461/live/watchpad13158/1234/4096.ts
-#EXTINF:3.0000,
-http://31.42.187.37:25461/live/watchpad13158/1234/4096.ts
+#EXTM3U #EXT-X-TARGETDURATION:5 #EXT-X-MEDIA-SEQUENCE:432835105 #EXT-X-VERSION:3 #EXT-X-KEY:METHOD=AES-128,URI="https://mprod-cdn-key.toffeelive.com/BANvsAFG-key/9cc6652e-1571-451d-a89a-4311adde0670_0_1731340022.key",IV=0x542EFE13EB6D5F2C62740BDFB9E28275 #EXTINF:4.000, ts.php?ts=match-2/master_1000/1731340422.ts #EXTINF:4.000, ts.php?ts=match-2/master_1000/1731340426.ts #EXTINF:4.000, ts.php?ts=match-2/master_1000/1731340430.ts #EXTINF:4.000, ts.php?ts=match-2/master_1000/1731340434.ts #EXTINF:4.000, ts.php?ts=match-2/master_1000/1731340438.ts #EXTINF:4.000, ts.php?ts=match-2/master_1000/1731340442.ts #EXTINF:4.000, ts.php?ts=match-2/master_1000/1731340446.ts #EXTINF:4.000, ts.php?ts=match-2/master_1000/1731340450.ts #EXTINF:4.000, ts.php?ts=match-2/master_1000/1731340454.ts #EXTINF:4.000, ts.php?ts=match-2/master_1000/1731340458.ts
