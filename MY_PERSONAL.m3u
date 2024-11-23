@@ -18,7 +18,9 @@ https://prod-ent-live-gm.jiocinema.com/hls/live/2105436/hd_akamai_iosmob_avc_24x
     "drmScheme": "",
     "drmLicense": ""
   },
+]
 
+[
   {
     "name": "T Sports Live 02",
     "link": "https://live-cdn.tsports.com/live-02/index.m3u8",
