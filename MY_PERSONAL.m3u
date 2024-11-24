@@ -9,6 +9,9 @@ https://prod-ent-live-gm.jiocinema.com/hls/live/2105436/hd_akamai_iosmob_avc_24x
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/b3Nv0MB/20241006-220010.jpg" group-title="Bigg Boss Live", Bigg Boss Kannada
 https://prod-ent-live-gm.jiocinema.com/hls/live/2106328/hd_akamai_iosmob_avc_eptv_bbkannada_day08/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/b3Nv0MB/20241006-220010.jpg" group-title="Bigg Boss Live", Sony AATH
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:77:87:1A&stream=908674&extension=ts
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/T432dfs/20240815-181328.png" group-title="SR Bangladeshi", Rtv 
 https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=rtv
 
