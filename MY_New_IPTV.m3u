@@ -36,6 +36,12 @@ https://static.jagobd.com.bd/live-orgin/independent-8-org.stream/playlist.m3u8|r
 #EXTINF:-1 tvg-logo="https://i.ibb.co/c3RNmkY/20240816-083023.png" group-title="SR News" ,DBC News Jagobd
 https://static.jagobd.com.bd/live-orgin/dbcnews.stream/playlist.m3u8|referer=https://www.jagobd.com
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/02/Bangladesh_Television_Logo.svg" group-title="SR Bangladeshi", BTV HD (BDIX)
+http://172.16.29.34/ontest1/ontest1/446
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/02/Bangladesh_Television_Logo.svg" group-title="SR Bangladeshi", BTV HD
+http://stvlive.net:8080/btv/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dtkcb19/20240815-181402.png" group-title="SR Bangladeshi" ,Atn Bangla
 https://bdcast-free.b-cdn.net/jago/0/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbd-8-org.stream/playlist.m3u8
 
@@ -1699,9 +1705,6 @@ https://pixeldra.in/api/file/eHgfopFq?download
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hPXTrS7k/Picsart-24-04-19-18-01-10-572.jpg" group-title="SR BDIX Bangla Dubbed", Savyasachi (2024)
 https://pixeldra.in/api/file/dzXdpvuP?download
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/02/Bangladesh_Television_Logo.svg" group-title="SR Bangladeshi", BTV HD (BDIX)
-http://172.16.29.34/ontest1/ontest1/446
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/Call_Me_Bae.jpg" group-title="SR BDIX Hindi Web", Call Me Bae (2024)
 https://pixeldra.in/api/file/yz5ZC4MP?download
@@ -5295,5 +5298,4 @@ https://pixeldra.in/api/file/6jzTcdCv?download
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/B3hg5ny/20241128-102657.jpg" group-title="SR BDIX South", Macherla Niyojakavargam (2022)
 https://pixeldra.in/api/file/PjYDH6Bn?download
-
 
