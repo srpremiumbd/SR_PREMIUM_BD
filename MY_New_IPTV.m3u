@@ -159,9 +159,6 @@ https://varun-iptv.netlify.app/m3u/discoverykidshindi.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2jbcj3m/20240817-141832.png" group-title="SR Kids" ,Disney Channel
 http://103.84.57.155:8000/play/a03u/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2g5DV3g/20240817-141806.png" group-title="SR Kids" ,Disney Jr.
-https://allinonereborn.com/livetv-web/live.php?id=2055&vtoken=&e=.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vvNk9vL/20240817-153116.png" group-title="SR Movies" ,RDC Movies
 https://janya-rdcmovies.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/230a723f-867d-4fa3-b2d2-a622ba994cd2/main.m3u8
 
@@ -205,10 +202,10 @@ https://fifabd9-fun-tho5.spidy.online/VT/go.php?id=Colors_HD_voot_MOB
 http://172.16.29.34/ontest1/ontest1/252
 
 #EXTINF:-1 tvg-logo="https://image.tsports.com/images/mobile_logo/1719672720-LIVE.jpg" group-title="SR Sports" ,T Sports Live 1
-
+http://stvlive.net:8080/tsports1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.tsports.com/images/mobile_logo/1719672720-LIVE.jpg" group-title="SR Sports" ,T Sports Live 2
-https://fifabd.xyz/TTT/play.m3u8?id=2&q=720
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/MkvHBbW/Sports18-1-HD.png" group-title="SR Sports" ,Sports 18 HD 1 (BDIX)
 http://172.16.29.34/ontest1/ontest1/336
