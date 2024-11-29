@@ -3,12 +3,6 @@
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/gPFJV7F/Screenshot-20241020-214936.jpg" group-title="Movies Request", t.me/sr_premium
 https://pixeldrain.com/api/file/Zfxt4VfG
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/41/Asia_Cup_Logo.png" group-title="SR Sports", Asia Cup U19 Feed 1
-https://dai.google.com/linear/hls/event/tG04-ukTSleEi0819p-EqA/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/41/Asia_Cup_Logo.png" group-title="SR Sports", Asia Cup U19 Feed 2
-https://dai.google.com/linear/hls/event/biQJgf06SJCitj-nd502ow/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/0sXXGcx/20241006-215707.jpg" group-title="Bigg Boss Live", Bigg Boss 18 Live Feed
 https://prod-ent-live-gm.jiocinema.com/hls/live/2105436/hd_akamai_iosmob_avc_24x7_bbhindi_s18_day03/master.m3u8
 
