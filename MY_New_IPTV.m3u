@@ -109,6 +109,9 @@ https://fifabd.xyz/STAR7c/RANAPK/star.php?id=51165
 http://172.16.29.34/ontest1/ontest1/395
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/t8m47h0/20240816-143232.png" group-title="SR Movies" ,Sony Max HD
+http://172.16.29.2:8090/hls/sonymaxhd.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/t8m47h0/20240816-143232.png" group-title="SR Movies" ,Sony Max HD FHD
 http://103.205.133.71/SonyMaxFHD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/t8m47h0/20240816-143232.png" group-title="SR Movies" ,Sony Max HD (BDIX)
