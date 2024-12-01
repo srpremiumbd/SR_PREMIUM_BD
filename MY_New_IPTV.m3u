@@ -93,10 +93,6 @@ http://217.20.112.199/starjalshahd/index.m3u8
 http://172.16.29.34/ontest1/ontest1/294
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vv7rV1v/image-Content-11915-j9l5clzs-m1.webp" group-title="SR Movies" ,Zee Cinema HD
-#EXTINF
-
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/gPFJV7F/Screenshot-20241020-214936.jpg" group-title="Movies Request", t.me/sr_premium
 https://pixeldrain.com/api/file/Zfxt4VfG
 
