@@ -63,8 +63,8 @@ https://static.jagobd.com.bd/live-orgin/banglatvhd.stream/playlist.m3u8|referer=
 #EXTINF:-1 tvg-logo="https://tds-images.thedailystar.net/sites/default/files/styles/big_202/public/images/2021/08/12/channel_i.png" group-title="SR Bangladeshi" , Channel i
 https://static.jagobd.com.bd/live-orgin/channeli-8-org.stream/playlist.m3u8|referer=https://www.jagobd.com
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VBKhBmy/20240815-181253.png" group-title="SR Entertainment" ,Star Jalsha HD
-http://217.20.112.199/starjalshahd/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VBKhBmy/20240815-181253.png" group-title="SR Entertainment" ,Star Jalsha HD FTP
+http://172.16.29.2:8090/hls/starjalshahd.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vccXQhL/20240815-181223.png" group-title="SR Entertainment" ,Colors HD (BDIX)
 http://172.16.29.34/ontest1/ontest1/294
