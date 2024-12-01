@@ -150,6 +150,9 @@ http://172.105.123.238:18002/play/a00z
 #EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/4f1364dc-dbb0-47df-9a43-3f316b371053_180x180_GoldminesMovies.jpg" group-title="SR Movies", Goldmines Movies FD
 http://172.105.123.238:18002/play/a01j
 
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/4f1364dc-dbb0-47df-9a43-3f316b371053_180x180_GoldminesMovies.jpg" group-title="SR Movies", Goldmines Movies Ayna OTT
+http://103.175.242.10:8080/goldminesmovies/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/wTCus2HY.png" group-title="SR Movies", All Time Movies FD
 http://172.105.123.238:18002/play/a00i
 
