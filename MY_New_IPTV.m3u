@@ -256,6 +256,9 @@ http://172.16.29.34/ontest1/ontest1/252
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfqDdTe9G1pv5gxCSYPLEAMfa4z8IhK81gGQ&s" group-title="SR Bangladeshi" , Nagorik TV (BDIX) 2
 http://103.175.242.10:8080/nagorik/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfqDdTe9G1pv5gxCSYPLEAMfa4z8IhK81gGQ&s" group-title="SR Bangladeshi" , Nagorik TV (Jadoo)
+https://bdixtv247.xyz/m3u8.php?id=nagorik_tv&e=.m3u8
+
 #EXTINF:-1 tvg-logo="https://image.tsports.com/images/mobile_logo/1719672720-LIVE.jpg" group-title="SR Sports" ,T Sports Live 1
 http://stvlive.net:8080/tsports1/tracks-v1a1/mono.m3u8
 
