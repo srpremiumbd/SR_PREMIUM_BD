@@ -295,6 +295,9 @@ http://172.16.29.34/ontest1/ontest1/349
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/qngmqnm/20241014-082111.png" group-title="SR Sports" , Willow HD (BDIX)
 http://172.16.29.34/ontest1/ontest1/413
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT95vYtCnyh6haFPO25ufKvYuzP-kRMS23jaQ&usqp=CAU" group-title="SR Sports" , TNT Sports 1 HD (BDIX)
+http://172.16.29.34/ontest1/ontest1/366
+
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMmRkMGMzYTUtM2E2My00YjZlLWFmZjItMDA5M2EwNjNiZTNjXkEyXkFqcGdeQXVyNDY5MTUyNjU@._V1_.jpg" group-title="SR BDIX South" , Ala Vaikunthapurramuloo (2020)
 https://pixeldra.in/api/file/iKk8dMra?download
 
