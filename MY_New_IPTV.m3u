@@ -20,6 +20,9 @@ https://fifabd.xyz/OPLLX/play.m3u8?id=311373
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wC03Z8j/20240803-162312.png" group-title="SR Movies", SONY MAX HD Sony Liv
 https://keralamaxtv.com/sliv/stream.php?id=878545&e=.m3u8|Referer=https://keralamaxtv.com/sliv/&key=thenayeemparvez
 
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images//Sony_MAX2.png" group-title="SR Movies", SONY MAX 2 Sony Liv
+https://keralamaxtv.com/sliv/stream.php?id=123&e=.m3u8|Referer=https://keralamaxtv.com/sliv/&key=thenayeemparvez
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8rjsFNd/20240804-145610.png" group-title="SR Entertainment", SONY ENTERTAINMENT HD Sony Liv
 https://keralamaxtv.com/sliv/stream.php?id=1100&e=.m3u8|Referer=https://keralamaxtv.com/sliv/&key=thenayeemparvez
 
