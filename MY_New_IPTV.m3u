@@ -18,6 +18,17 @@ https://247stream.one/ayna/stream.m3u8?id=151&e=.m3u8
 https://247stream.one/ayna/stream.m3u8?id=148&e=.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/MG09fFt/mobile-logo-LIVE-6506adba5876a.jpg" group-title="SR T Sports App" ,T Sports Live 1
+https://tsports.buddyxiptv.com/master_720.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/6XvrmT1/ts-live-02.jpg" group-title="SR T Sports App" ,T Sports Live 2
+https://tsports.buddyxiptv.com/master_720.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/MG09fFt/mobile-logo-LIVE-6506adba5876a.jpg" group-title="SR T Sports App" ,T Sports Live 3
+https://tsports.buddyxiptv.com/720/live-03_index.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images//Ten_HD.png" group-title="SR Sports", SONY Ten 1 HD Sony Liv
 https://mhdstream.com/sliv/stream.php?id=7541236|Referer=https://mhdstream.com/sliv/&key=thenayeemparvez
 
