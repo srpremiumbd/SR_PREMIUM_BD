@@ -196,6 +196,12 @@ http://172.105.123.238:18002/play/a00z
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d2RxB8P/20240817-133048.png" group-title="SR Movies", Goldmines Ayna OTT
 https://247stream.one/ayna/stream.m3u8?id=149&e=.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1qFTv7R/4f1364dc-dbb0-47df-9a43-3f316b371053-180x180-Goldmines-Movies.jpg" group-title="SR Movies", Goldmines Movies Ayna OTT
+https://247stream.one/ayna/stream.m3u8?id=151&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/zJgjkLs/wTCus2HY.png" group-title="SR Movies", All Time Movies Ayna OTT
+https://247stream.one/ayna/stream.m3u8?id=148&e=.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/1qFTv7R/4f1364dc-dbb0-47df-9a43-3f316b371053-180x180-Goldmines-Movies.jpg" group-title="SR Movies", Goldmines Movies FD
 http://172.105.123.238:18002/play/a01j
 
