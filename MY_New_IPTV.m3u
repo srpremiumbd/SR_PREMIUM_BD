@@ -3,25 +3,19 @@
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/gPFJV7F/Screenshot-20241020-214936.jpg" group-title="Movies Request", t.me/sr_premium
 https://pixeldrain.com/api/file/Zfxt4VfG
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/gPFJV7F/Screenshot-20241020-214936.jpg" group-title="Movies Request", t.me/sr_p
-https://tsports.buddyxiptv.com/master_720.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/hi/0/0c/C.I.D._%28TV_series%29.png" group-title="LIVE Entertainment",CID LIVE
-https://fifabd.xyz/OPLLX/play.m3u8?id=378909
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROtZZt2DmHBk-4OypCqCVtkqCoVpkKKm5pgg&s" group-title="LIVE Entertainment",THE KAPIL SHARMA SHOW LIVE
-https://fifabd.xyz/OPLLX/play.m3u8?id=342075
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSS2-JqlxaSs4sEjZRArV_1a4ljlPcjozPNGQ&s" group-title="LIVE Entertainment",Chhota Bheem LIVE
-https://fifabd.xyz/OPLLX/play.m3u8?id=315401
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm5HX7hWq4HsGJ9cZLIfnVUczZnhuFsb8brPiP-D0O8YMwcc3mwGFAy3M&s=10" group-title="LIVE Entertainment",Motu Patlu LIVE
-https://fifabd.xyz/OPLLX/play.m3u8?id=311373
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tCgY1vF/20240820-171000.png" group-title="SR Sports" ,T Sports HD Ayna OTT
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tCgY1vF/20240820-171000.png" group-title="SR Ayna OTT" ,T Sports HD Ayna OTT
 https://247stream.one/ayna/stream.m3u8?id=27&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/d2RxB8P/20240817-133048.png" group-title="SR Ayna OTT", Goldmines Ayna OTT
+https://247stream.one/ayna/stream.m3u8?id=149&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1qFTv7R/4f1364dc-dbb0-47df-9a43-3f316b371053-180x180-Goldmines-Movies.jpg" group-title="SR Ayna OTT", Goldmines Movies Ayna OTT
+https://247stream.one/ayna/stream.m3u8?id=151&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/zJgjkLs/wTCus2HY.png" group-title="SR Ayna OTT", All Time Movies Ayna OTT
+https://247stream.one/ayna/stream.m3u8?id=148&e=.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images//Ten_HD.png" group-title="SR Sports", SONY Ten 1 HD Sony Liv
@@ -200,15 +194,6 @@ https://cdn2.pishow.tv/live/156/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d2RxB8P/20240817-133048.png" group-title="SR Movies", Goldmines FD
 http://172.105.123.238:18002/play/a00z
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/d2RxB8P/20240817-133048.png" group-title="SR Movies", Goldmines Ayna OTT
-https://247stream.one/ayna/stream.m3u8?id=149&e=.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1qFTv7R/4f1364dc-dbb0-47df-9a43-3f316b371053-180x180-Goldmines-Movies.jpg" group-title="SR Movies", Goldmines Movies Ayna OTT
-https://247stream.one/ayna/stream.m3u8?id=151&e=.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/zJgjkLs/wTCus2HY.png" group-title="SR Movies", All Time Movies Ayna OTT
-https://247stream.one/ayna/stream.m3u8?id=148&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/1qFTv7R/4f1364dc-dbb0-47df-9a43-3f316b371053-180x180-Goldmines-Movies.jpg" group-title="SR Movies", Goldmines Movies FD
 http://172.105.123.238:18002/play/a01j
