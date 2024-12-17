@@ -17,6 +17,7 @@ https://nowlivetv.com/ayna/stream.php?id=148&e=.m3u8|Referer=https://nowlivetv.c
 
 
 
+
 #EXTINF:-1 group-title="Ayna OTT" tvg-chno="6577c38b31b2fee545230f82" tvg-id="6577c38b31b2fee545230f82" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/c637b921-8577-4487-a3c8-9469cbd5dd4e.png", Goldmines #EXTVLCOPT:http-referrer=https://cloudtv.akamaized.net/ #EXTHTTP:{"referer": "https://cloudtv.akamaized.net/"} https://tvs1.aynaott.com/Goldmines/index.m3u8?hdnts=st=1734426223~exp=1734469423~acl=/byte-capsule/*~data=103.152.107.5-WEB~hmac=4b82e2c66b94e7abfc8f6fe1514f3da967bd0686b2cb4643775f2f706ae36134
 
 
