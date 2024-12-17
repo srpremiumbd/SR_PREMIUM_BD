@@ -26,6 +26,9 @@ https://tvs1.aynaott.com/jamunatv/index.m3u8?hdnts=st=1734399388~exp=1734442588~
 #EXTINF:-1 group-title="SR Ayna OTT" General" tvg-logo="https://i.ibb.co.com/n1S6DXS/svg.png", Nagorik TV
 https://tvs1.aynaott.com/nagoriktv/index.m3u8?hdnts=st=1734400818~exp=1734444018~acl=/byte-capsule/*~data=103.174.51.252-WEB~hmac=d72047f415559010ee0d66a23b970ea62826960efb4e81f9c686458a12d6e449|referer=https://cloudtv.akamaized.net/
 
+#EXTINF:-1 group-title="SR Ayna OTT" General" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/ec439f3c-6b95-4194-a0fa-2a98f63028da.png", Willow HD TV
+https://tvs3.aynaott.com/rEBp38Ax/index.m3u8?hdnts=st=1734399388~exp=1734442588~acl=/byte-capsule/*~data=103.174.51.252-WEB~hmac=9c319622eabb46f098af21d93c279a98fb7daf1ebd281e623e937f6aa25d7a8c|referer=https://cloudtv.akamaized.net/
+
 
 
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images//Ten_HD.png" group-title="SR Sports", SONY Ten 1 HD Sony Liv
