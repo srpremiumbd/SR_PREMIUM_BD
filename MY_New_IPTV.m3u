@@ -20,6 +20,8 @@ https://nowlivetv.com/ayna/stream.php?id=148&e=.m3u8|Referer=https://nowlivetv.c
 #EXTINF:-1 group-title="SR Ayna OTT" General" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/ec439f3c-6b95-4194-a0fa-2a98f63028da.png", Willow HD TV
 https://nowlivetv.com/ayna/stream.php?id=111&e=.m3u8|Referer=https://nowlivetv.com/ayna/&key=thenayeemparvez
 
+#EXTINF:-1 group-title="SR Ayna OTT" General" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/cc8f548e-089c-47f6-8b6f-ff8699fb2a3d.png", Jamuna TV
+https://nowlivetv.com/ayna/stream.php?id=26&e=.m3u8|Referer=https://nowlivetv.com/ayna/&key=thenayeemparvez
 
 
 
