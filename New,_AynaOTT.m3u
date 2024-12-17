@@ -1,0 +1,454 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="AynaOTT BY Himel OP" General" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/54163718-53c4-4ac6-8d86-ceca29d69554.png", BTV National
+https://tvs1.aynaott.com/btvhd/index.m3u8?hdnts=st=1734399388~exp=1734442588~acl=/byte-capsule/*~data=103.174.51.252-WEB~hmac=9c319622eabb46f098af21d93c279a98fb7daf1ebd281e623e937f6aa25d7a8c|referer=https://cloudtv.akamaized.net/
+
+#EXTINF:-1 group-title="AynaOTT BY Himel OP" General" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/e8eee9d6-abbd-415a-b23d-f968a0c17875.png", BTV World
+https://tvs1.aynaott.com/btv_world/index.m3u8?hdnts=st=1734399388~exp=1734442588~acl=/byte-capsule/*~data=103.174.51.252-WEB~hmac=9c319622eabb46f098af21d93c279a98fb7daf1ebd281e623e937f6aa25d7a8c|referer=https://cloudtv.akamaized.net/
+
+#EXTINF:-1 group-title="AynaOTT BY Himel OP" General" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/3e176e82-a168-4371-aa1e-ac4064d5133e.png", BTV Chattogram
+https://tvs1.aynaott.com/btvctg/index.m3u8?hdnts=st=1734399388~exp=1734442588~acl=/byte-capsule/*~data=103.174.51.252-WEB~hmac=9c319622eabb46f098af21d93c279a98fb7daf1ebd281e623e937f6aa25d7a8c|referer=https://cloudtv.akamaized.net/
+
+#EXTINF:-1 group-title="AynaOTT BY Himel OP" General" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/e7924c04-4daa-4056-9339-239a6311f597.png", Bangla Vision
+https://tvs2.aynaott.com/banglavision/index.m3u8?hdnts=st=1734399388~exp=1734442588~acl=/byte-capsule/*~data=103.174.51.252-WEB~hmac=9c319622eabb46f098af21d93c279a98fb7daf1ebd281e623e937f6aa25d7a8c|referer=https://cloudtv.akamaized.net/
+
+#EXTINF:-1 group-title="AynaOTT BY Himel OP" General" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/f23ac7b0-7b7f-42e9-8c94-87d09d72f2f3.png", Channel I
+https://tvs2.aynaott.com/channeli/index.m3u8?hdnts=st=1734399388~exp=1734442588~acl=/byte-capsule/*~data=103.174.51.252-WEB~hmac=9c319622eabb46f098af21d93c279a98fb7daf1ebd281e623e937f6aa25d7a8c|referer=https://cloudtv.akamaized.net/
+
+#EXTINF:-1 group-title="AynaOTT BY Himel OP" General" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/1a33c7ab-d12a-4b70-bd10-697aa2886451.png", Ekushey TV
+https://tvs1.aynaott.com/etv/index.m3u8?hdnts=st=1734399388~exp=1734442588~acl=/byte-capsule/*~data=103.174.51.252-WEB~hmac=9c319622eabb46f098af21d93c279a98fb7daf1ebd281e623e937f6aa25d7a8c|referer=https://cloudtv.akamaized.net/
+
+#EXTINF:-1 group-title="AynaOTT BY Himel OP" General" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/fecd2e66-70d2-4dbb-9883-8c3c3ded8f62.png", NTV
+https://tvs2.aynaott.com/ntv/index.m3u8?hdnts=st=1734399388~exp=1734442588~acl=/byte-capsule/*~data=103.174.51.252-WEB~hmac=9c319622eabb46f098af21d93c279a98fb7daf1ebd281e623e937f6aa25d7a8c|referer=https://cloudtv.akamaized.net/
+
+#EXTINF:-1 group-title="AynaOTT BY Himel OP" General" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/b1684d4d-63b5-496b-b4d5-bc88129ac4e6.png", Independent TV
+https://tvs1.aynaott.com/independenttv/index.m3u8?hdnts=st=1734399388~exp=1734442588~acl=/byte-capsule/*~data=103.174.51.252-WEB~hmac=9c319622eabb46f098af21d93c279a98fb7daf1ebd281e623e937f6aa25d7a8c|referer=https://cloudtv.akamaized.net/
+
+#EXTINF:-1 group-title="AynaOTT BY Himel OP" General" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/c168acf2-3968-4141-a3a8-b0842af73399.png", ATN Bangla
+https://tvs2.aynaott.com/atnbangla/index.m3u8?hdnts=st=1734399388~exp=1734442588~acl=/byte-capsule/*~data=103.174.51.252-WEB~hmac=9c319622eabb46f098af21d93c279a98fb7daf1ebd281e623e937f6aa25d7a8c|referer=https://cloudtv.akamaized.net/
+
+#EXTINF:-1 group-title="AynaOTT BY Himel OP" General" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/0eb2b55a-a44d-4d44-abd1-c4de611ff941.png", Boishakhi TV
+https://tvs1.aynaott.com/boishakhitv/index.m3u8?hdnts=st=1734399388~exp=1734442588~acl=/byte-capsule/*~data=103.174.51.252-WEB~hmac=9c319622eabb46f098af21d93c279a98fb7daf1ebd281e623e937f6aa25d7a8c|referer=https://cloudtv.akamaized.net/
+
+#EXTINF:-1 group-title="AynaOTT BY Himel OP" General" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/581fb949-ddaf-4f57-8cad-ca92985407aa.png", Maasranga TV
+https://tvs2.aynaott.com/maasrangatv/index.m3u8?hdnts=st=1734399388~exp=1734442588~acl=/byte-capsule/*~data=103.174.51.252-WEB~hmac=9c319622eabb46f098af21d93c279a98fb7daf1ebd281e623e937f6aa25d7a8c|referer=https://cloudtv.akamaized.net/
+
+#EXTINF:-1 group-title="AynaOTT BY Himel OP" General" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/ac92db20-1e80-40da-aa95-ccaa3072d95d.png", Desh TV
+https://tvs1.aynaott.com/deshtv/index.m3u8?hdnts=st=1734399388~exp=1734442588~acl=/byte-capsule/*~data=103.174.51.252-WEB~hmac=9c319622eabb46f098af21d93c279a98fb7daf1ebd281e623e937f6aa25d7a8c|referer=https://cloudtv.akamaized.net/
+
+#EXTINF:-1 group-title="AynaOTT BY Himel OP" General" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/af0bb392-5459-4ae0-a7f7-861e49ee0573.png", My TV
+https://tvs1.aynaott.com/mytv/index.m3u8?hdnts=st=1734399388~exp=1734442588~acl=/byte-capsule/*~data=103.174.51.252-WEB~hmac=9c319622eabb46f098af21d93c279a98fb7daf1ebd281e623e937f6aa25d7a8c|referer=https://cloudtv.akamaized.net/
+
+#EXTINF:-1 group-title="AynaOTT BY Himel OP" General" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/d067d664-002b-4b58-aae3-3e2b6c643dcf.png", ATN News
+https://tvs1.aynaott.com/atnnews/index.m3u8?hdnts=st=1734399388~exp=1734442588~acl=/byte-capsule/*~data=103.174.51.252-WEB~hmac=9c319622eabb46f098af21d93c279a98fb7daf1ebd281e623e937f6aa25d7a8c|referer=https://cloudtv.akamaized.net/
+
+#EXTINF:-1 group-title="AynaOTT BY Himel OP" General" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/f535895a-3b1d-49f4-a6e2-544a5e90510c.png", Mohona TV
+https://tvs1.aynaott.com/mohonatv/index.m3u8?hdnts=st=1734399388~exp=1734442588~acl=/byte-capsule/*~data=103.174.51.252-WEB~hmac=9c319622eabb46f098af21d93c279a98fb7daf1ebd281e623e937f6aa25d7a8c|referer=https://cloudtv.akamaized.net/
+
+#EXTINF:-1 group-title="AynaOTT BY Himel OP" General" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/44597fbf-862c-42a2-a542-6436abde3ffe.png", Bijoy TV
+https://tvs1.aynaott.com/bijoytv/index.m3u8?hdnts=st=1734399388~exp=1734442588~acl=/byte-capsule/*~data=103.174.51.252-WEB~hmac=9c319622eabb46f098af21d93c279a98fb7daf1ebd281e623e937f6aa25d7a8c|referer=https://cloudtv.akamaized.net/
+
+#EXTINF:-1 group-title="AynaOTT BY Himel OP" General" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/1a695f5d-e1b7-43f7-95bd-a3d17787891e.png", Somoy News TV
+https://tvs1.aynaott.com/somoytv/index.m3u8?hdnts=st=1734399388~exp=1734442588~acl=/byte-capsule/*~data=103.174.51.252-WEB~hmac=9c319622eabb46f098af21d93c279a98fb7daf1ebd281e623e937f6aa25d7a8c|referer=https://cloudtv.akamaized.net/
+
+#EXTINF:-1 group-title="AynaOTT BY Himel OP" General" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/226d28bf-a5aa-4889-9de1-4d5654021fea.png", Gazi TV HD
+https://tvs1.aynaott.com/gtvhdforgame/index.m3u8?hdnts=st=1734399388~exp=1734442588~acl=/byte-capsule/*~data=103.174.51.252-WEB~hmac=9c319622eabb46f098af21d93c279a98fb7daf1ebd281e623e937f6aa25d7a8c|referer=https://cloudtv.akamaized.net/
+
+#EXTINF:-1 group-title="AynaOTT BY Himel OP" General" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/346b6f47-c3d7-456e-bd98-d563d383c18a.png", Channel 9
+https://tvs1.aynaott.com/channel9/index.m3u8?hdnts=st=1734399388~exp=1734442588~acl=/byte-capsule/*~data=103.174.51.252-WEB~hmac=9c319622eabb46f098af21d93c279a98fb7daf1ebd281e623e937f6aa25d7a8c|referer=https://cloudtv.akamaized.net/
+
+#EXTINF:-1 group-title="AynaOTT BY Himel OP" General" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/b6aa0497-735a-471c-9812-c42256e9b8de.png", Channel 24
+https://tvs1.aynaott.com/channel24/index.m3u8?hdnts=st=1734399388~exp=1734442588~acl=/byte-capsule/*~data=103.174.51.252-WEB~hmac=9c319622eabb46f098af21d93c279a98fb7daf1ebd281e623e937f6aa25d7a8c|referer=https://cloudtv.akamaized.net/
+
+#EXTINF:-1 group-title="AynaOTT BY Himel OP" General" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/b78fd4d1-758b-450f-8ce2-b67ef8f67aa3.png", Gaan Bangla
+https://tvs1.aynaott.com/gaanbangla/index.m3u8?hdnts=st=1734399388~exp=1734442588~acl=/byte-capsule/*~data=103.174.51.252-WEB~hmac=9c319622eabb46f098af21d93c279a98fb7daf1ebd281e623e937f6aa25d7a8c|referer=https://cloudtv.akamaized.net/
+
+#EXTINF:-1 group-title="AynaOTT BY Himel OP" General" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/dbbecb69-4663-4ff9-b844-8c9f153096d9.png", Ekattor TV
+https://tvs1.aynaott.com/ekattorbdtv/index.m3u8?hdnts=st=1734399388~exp=1734442588~acl=/byte-capsule/*~data=103.174.51.252-WEB~hmac=9c319622eabb46f098af21d93c279a98fb7daf1ebd281e623e937f6aa25d7a8c|referer=https://cloudtv.akamaized.net/
+
+#EXTINF:-1 group-title="AynaOTT BY Himel OP" General" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/87a41c83-bdb4-4693-8a22-59924d90d080.png", Asian TV
+https://tvs1.aynaott.com/asiantv/index.m3u8?hdnts=st=1734399388~exp=1734442588~acl=/byte-capsule/*~data=103.174.51.252-WEB~hmac=9c319622eabb46f098af21d93c279a98fb7daf1ebd281e623e937f6aa25d7a8c|referer=https://cloudtv.akamaized.net/
+
+#EXTINF:-1 group-title="AynaOTT BY Himel OP" General" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/bf0b6e80-ff46-4929-8f51-3b4c762a4909.png", SA TV
+https://tvs1.aynaott.com/satv/index.m3u8?hdnts=st=1734399388~exp=1734442588~acl=/byte-capsule/*~data=103.174.51.252-WEB~hmac=9c319622eabb46f098af21d93c279a98fb7daf1ebd281e623e937f6aa25d7a8c|referer=https://cloudtv.akamaized.net/
+
+#EXTINF:-1 group-title="AynaOTT BY Himel OP" General" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/24127cba-7489-4075-900e-8818cb67fabe.png", Deepto TV
+https://tvs2.aynaott.com/deeptotv/index.m3u8?hdnts=st=1734399388~exp=1734442588~acl=/byte-capsule/*~data=103.174.51.252-WEB~hmac=9c319622eabb46f098af21d93c279a98fb7daf1ebd281e623e937f6aa25d7a8c|referer=https://cloudtv.akamaized.net/
+
+#EXTINF:-1 group-title="AynaOTT BY Himel OP" General" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/cc8f548e-089c-47f6-8b6f-ff8699fb2a3d.png", Jamuna TV
+https://tvs1.aynaott.com/jamunatv/index.m3u8?hdnts=st=1734399388~exp=1734442588~acl=/byte-capsule/*~data=103.174.51.252-WEB~hmac=9c319622eabb46f098af21d93c279a98fb7daf1ebd281e623e937f6aa25d7a8c|referer=https://cloudtv.akamaized.net/
+
+#EXTINF:-1 group-title="AynaOTT BY Himel OP" General" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/8f951219-25ee-4c91-80ff-25cf62577599.png", T Sports HD
+https://tvs1.aynaott.com/tsportsfhd/index.m3u8?hdnts=st=1734399388~exp=1734442588~acl=/byte-capsule/*~data=103.174.51.252-WEB~hmac=9c319622eabb46f098af21d93c279a98fb7daf1ebd281e623e937f6aa25d7a8c|referer=https://cloudtv.akamaized.net/
+
+#EXTINF:-1 group-title="AynaOTT BY Himel OP" General" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/8a826f10-626d-435d-aa6d-1d94ee2eba01.png", DBC News
+https://tvs1.aynaott.com/dbcnews/index.m3u8?hdnts=st=1734399388~exp=1734442588~acl=/byte-capsule/*~data=103.174.51.252-WEB~hmac=9c319622eabb46f098af21d93c279a98fb7daf1ebd281e623e937f6aa25d7a8c|referer=https://cloudtv.akamaized.net/
+
+#EXTINF:-1 group-title="AynaOTT BY Himel OP" General" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/456be57e-2988-428c-af5d-9499ce726fb8.png", News 24
+https://tvs1.aynaott.com/news24/index.m3u8?hdnts=st=1734399388~exp=1734442588~acl=/byte-capsule/*~data=103.174.51.252-WEB~hmac=9c319622eabb46f098af21d93c279a98fb7daf1ebd281e623e937f6aa25d7a8c|referer=https://cloudtv.akamaized.net/
+
+#EXTINF:-1 group-title="AynaOTT BY Himel OP" General" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/f906a035-4902-476e-97e9-1d26600cac09.png", Movie Bangla
+https://tvs1.aynaott.com/moviebangla/index.m3u8?hdnts=st=1734399388~exp=1734442588~acl=/byte-capsule/*~data=103.174.51.252-WEB~hmac=9c319622eabb46f098af21d93c279a98fb7daf1ebd281e623e937f6aa25d7a8c|referer=https://cloudtv.akamaized.net/
+
+#EXTINF:-1 group-title="AynaOTT BY Himel OP" General" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/b36ee02a-f3a1-4fe0-8c6c-b6fd237c20a7.png", Bangla TV
+https://tvs1.aynaott.com/banglatv/index.m3u8?hdnts=st=1734399388~exp=1734442588~acl=/byte-capsule/*~data=103.174.51.252-WEB~hmac=9c319622eabb46f098af21d93c279a98fb7daf1ebd281e623e937f6aa25d7a8c|referer=https://cloudtv.akamaized.net/
+
+#EXTINF:-1 group-title="AynaOTT BY Himel OP" General" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/3a30f184-7989-4ea2-8d53-109402cae2a2.png", Nexus TV
+https://tvs1.aynaott.com/nexustv/index.m3u8?hdnts=st=1734399388~exp=1734442588~acl=/byte-capsule/*~data=103.174.51.252-WEB~hmac=9c319622eabb46f098af21d93c279a98fb7daf1ebd281e623e937f6aa25d7a8c|referer=https://cloudtv.akamaized.net/
+
+#EXTINF:-1 group-title="AynaOTT BY Himel OP" General" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/c9e1a9bb-bd4a-4782-908a-b3d1e94e9ccd.png", Ananda TV
+https://tvs1.aynaott.com/anandatv/index.m3u8?hdnts=st=1734399388~exp=1734442588~acl=/byte-capsule/*~data=103.174.51.252-WEB~hmac=9c319622eabb46f098af21d93c279a98fb7daf1ebd281e623e937f6aa25d7a8c|referer=https://cloudtv.akamaized.net/
+
+#EXTINF:-1 group-title="AynaOTT BY Himel OP" General" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/da1858d4-8190-4bb9-a6b5-586957a2ecdb.png", Global TV
+https://tvs1.aynaott.com/globaltvhd/index.m3u8?hdnts=st=1734399388~exp=1734442588~acl=/byte-capsule/*~data=103.174.51.252-WEB~hmac=9c319622eabb46f098af21d93c279a98fb7daf1ebd281e623e937f6aa25d7a8c|referer=https://cloudtv.akamaized.net/
+
+#EXTINF:-1 group-title="AynaOTT BY Himel OP" General" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/b6b293e3-a9bc-4957-8110-435cf7464649.png", Duronto TV
+https://tvs1.aynaott.com/durontotv/index.m3u8?hdnts=st=1734399388~exp=1734442588~acl=/byte-capsule/*~data=103.174.51.252-WEB~hmac=9c319622eabb46f098af21d93c279a98fb7daf1ebd281e623e937f6aa25d7a8c|referer=https://cloudtv.akamaized.net/
+
+#EXTINF:-1 group-title="AynaOTT BY Himel OP" General" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/f80a7303-4675-4217-abf8-6a3a85f1f825.png", IQRA Bangla TV
+https://tvs2.aynaott.com/iqrabangla/index.m3u8?hdnts=st=1734399388~exp=1734442588~acl=/byte-capsule/*~data=103.174.51.252-WEB~hmac=9c319622eabb46f098af21d93c279a98fb7daf1ebd281e623e937f6aa25d7a8c|referer=https://cloudtv.akamaized.net/
+
+#EXTINF:-1 group-title="AynaOTT BY Himel OP" General" tvg-logo="https://cloudtv.akamaized.net//AynaOTT/BDcontent/channels/images/92e51894-b004-488f-a153-552e913c6c24.jpg", Sangeet Bangla
+https://tvs1.aynaott.com/SangeetBangla/index.m3u8?hdnts=st=1734399388~exp=1734442588~acl=/byte-capsule/*~data=103.174.51.252-WEB~hmac=9c319622eabb46f098af21d93c279a98fb7daf1ebd281e623e937f6aa25d7a8c|referer=https://cloudtv.akamaized.net/
+
+#EXTINF:-1 group-title="AynaOTT BY Himel OP" General" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/2a176bdb-7574-40c9-b5a3-e847c4aecb8c.png", B4U Music
+https://tvs1.aynaott.com/b4umusic/index.m3u8?hdnts=st=1734399388~exp=1734442588~acl=/byte-capsule/*~data=103.174.51.252-WEB~hmac=9c319622eabb46f098af21d93c279a98fb7daf1ebd281e623e937f6aa25d7a8c|referer=https://cloudtv.akamaized.net/
+
+#EXTINF:-1 group-title="AynaOTT BY Himel OP" General" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/41f41d61-4fa8-4b5f-9fe8-42632d7b599b.png", Ekhon TV
+https://tvs1.aynaott.com/ekhontv/index.m3u8?hdnts=st=1734399388~exp=1734442588~acl=/byte-capsule/*~data=103.174.51.252-WEB~hmac=9c319622eabb46f098af21d93c279a98fb7daf1ebd281e623e937f6aa25d7a8c|referer=https://cloudtv.akamaized.net/
+
+#EXTINF:-1 group-title="AynaOTT BY Himel OP" General" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/1f2b6e82-3e9f-4f94-933d-a28e74cd0f81.png", Medibiz TV
+https://tvs1.aynaott.com/medibiztv/index.m3u8?hdnts=st=1734399388~exp=1734442588~acl=/byte-capsule/*~data=103.174.51.252-WEB~hmac=9c319622eabb46f098af21d93c279a98fb7daf1ebd281e623e937f6aa25d7a8c|referer=https://cloudtv.akamaized.net/
+
+#EXTINF:-1 group-title="AynaOTT BY Himel OP" General" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/f48fbc0c-1e4b-46a9-9a83-62cf86d5acbd.png", Star Sports 2 HD
+https://tvs2.aynaott.com/ssport2hd/index.m3u8?hdnts=st=1734399388~exp=1734442588~acl=/byte-capsule/*~data=103.174.51.252-WEB~hmac=9c319622eabb46f098af21d93c279a98fb7daf1ebd281e623e937f6aa25d7a8c|referer=https://cloudtv.akamaized.net/
+
+#EXTINF:-1 group-title="AynaOTT BY Himel OP" General" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/03908c27-b888-455f-a84a-f2e42298b23e.png", Sky News
+https://tvs2.aynaott.com/skynews/index.m3u8?hdnts=st=1734399388~exp=1734442588~acl=/byte-capsule/*~data=103.174.51.252-WEB~hmac=9c319622eabb46f098af21d93c279a98fb7daf1ebd281e623e937f6aa25d7a8c|referer=https://cloudtv.akamaized.net/
+
+#EXTINF:-1 group-title="AynaOTT BY Himel OP" General" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/324864c0-9894-40e5-99a8-294671b065e0.png", History Channel
+https://tvs2.aynaott.com/historyen/index.m3u8?hdnts=st=1734399388~exp=1734442588~acl=/byte-capsule/*~data=103.174.51.252-WEB~hmac=9c319622eabb46f098af21d93c279a98fb7daf1ebd281e623e937f6aa25d7a8c|referer=https://cloudtv.akamaized.net/
+
+#EXTINF:-1 group-title="AynaOTT BY Himel OP" General" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/3fa8b1d2-4fb5-436a-98f9-3e2f8171c96b.png", Star Sport Select 1
+https://tvs3.aynaott.com/ssps1hd/index.m3u8?hdnts=st=1734399388~exp=1734442588~acl=/byte-capsule/*~data=103.174.51.252-WEB~hmac=9c319622eabb46f098af21d93c279a98fb7daf1ebd281e623e937f6aa25d7a8c|referer=https://cloudtv.akamaized.net/
+
+#EXTINF:-1 group-title="AynaOTT BY Himel OP" General" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/4fd51271-e301-49bb-9604-e09cd9dad6c2.png", Star Sport Select 2
+https://tvs3.aynaott.com/ssps2hd/index.m3u8?hdnts=st=1734399388~exp=1734442588~acl=/byte-capsule/*~data=103.174.51.252-WEB~hmac=9c319622eabb46f098af21d93c279a98fb7daf1ebd281e623e937f6aa25d7a8c|referer=https://cloudtv.akamaized.net/
+
+#EXTINF:-1 group-title="AynaOTT BY Himel OP" General" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/b3ff5abb-6689-4217-915c-bbde5bc3c937.png", MTV
+https://tvs1.aynaott.com/mtv/index.m3u8?hdnts=st=1734399388~exp=1734442588~acl=/byte-capsule/*~data=103.174.51.252-WEB~hmac=9c319622eabb46f098af21d93c279a98fb7daf1ebd281e623e937f6aa25d7a8c|referer=https://cloudtv.akamaized.net/
+
+#EXTINF:-1 group-title="AynaOTT BY Himel OP" General" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/77ab2333-777b-4ed5-8117-1dde8175a3a8.png", Peace TV English HD
+https://tvs3.aynaott.com/peacetv/index.m3u8?hdnts=st=1734399388~exp=1734442588~acl=/byte-capsule/*~data=103.174.51.252-WEB~hmac=9c319622eabb46f098af21d93c279a98fb7daf1ebd281e623e937f6aa25d7a8c|referer=https://cloudtv.akamaized.net/
+
+#EXTINF:-1 group-title="AynaOTT BY Himel OP" General" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/2b4b60ce-b10f-4d82-b58a-735572fa2716.png", Discovery Kids
+https://tvs1.aynaott.com/discovery_kids/index.m3u8?hdnts=st=1734399388~exp=1734442588~acl=/byte-capsule/*~data=103.174.51.252-WEB~hmac=9c319622eabb46f098af21d93c279a98fb7daf1ebd281e623e937f6aa25d7a8c|referer=https://cloudtv.akamaized.net/
+
+#EXTINF:-1 group-title="AynaOTT BY Himel OP" General" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/232718ad-8ef4-4816-a670-088e5c09ebaa.png", Discovery Turbo
+https://tvs1.aynaott.com/discovery_turbo/index.m3u8?hdnts=st=1734399388~exp=1734442588~acl=/byte-capsule/*~data=103.174.51.252-WEB~hmac=9c319622eabb46f098af21d93c279a98fb7daf1ebd281e623e937f6aa25d7a8c|referer=https://cloudtv.akamaized.net/
+
+#EXTINF:-1 group-title="AynaOTT BY Himel OP" General" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/b424f816-c157-4001-9c9f-bc39c81b922c.png", Discovery Science
+https://tvs1.aynaott.com/discovery_science/index.m3u8?hdnts=st=1734399388~exp=1734442588~acl=/byte-capsule/*~data=103.174.51.252-WEB~hmac=9c319622eabb46f098af21d93c279a98fb7daf1ebd281e623e937f6aa25d7a8c|referer=https://cloudtv.akamaized.net/
+
+#EXTINF:-1 group-title="AynaOTT BY Himel OP" General" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/ed43c690-42f4-4fb6-9962-9081a413af26.png", Animal Planet HD
+https://tvs1.aynaott.com/animal_planet_hd/index.m3u8?hdnts=st=1734399388~exp=1734442588~acl=/byte-capsule/*~data=103.174.51.252-WEB~hmac=9c319622eabb46f098af21d93c279a98fb7daf1ebd281e623e937f6aa25d7a8c|referer=https://cloudtv.akamaized.net/
+
+#EXTINF:-1 group-title="AynaOTT BY Himel OP" General" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/da6f475f-2454-46a3-9b7c-ffbcb7e2c4ca.png", Investigation Discovery HD
+https://tvs1.aynaott.com/id_hd_source/index.m3u8?hdnts=st=1734399388~exp=1734442588~acl=/byte-capsule/*~data=103.174.51.252-WEB~hmac=9c319622eabb46f098af21d93c279a98fb7daf1ebd281e623e937f6aa25d7a8c|referer=https://cloudtv.akamaized.net/
+
+#EXTINF:-1 group-title="AynaOTT BY Himel OP" General" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/47bcdd2c-2257-48f3-9d4b-b09be28cf250.png", TLC HD
+https://tvs1.aynaott.com/tlc_hd/index.m3u8?hdnts=st=1734399388~exp=1734442588~acl=/byte-capsule/*~data=103.174.51.252-WEB~hmac=9c319622eabb46f098af21d93c279a98fb7daf1ebd281e623e937f6aa25d7a8c|referer=https://cloudtv.akamaized.net/
+
+#EXTINF:-1 group-title="AynaOTT BY Himel OP" General" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/714411eb-a72c-4be3-ba22-2eb5fe7a8491.png", Discovery HD
+https://tvs1.aynaott.com/discovery_hd/index.m3u8?hdnts=st=1734399388~exp=1734442588~acl=/byte-capsule/*~data=103.174.51.252-WEB~hmac=9c319622eabb46f098af21d93c279a98fb7daf1ebd281e623e937f6aa25d7a8c|referer=https://cloudtv.akamaized.net/
+
+#EXTINF:-1 group-title="AynaOTT BY Himel OP" General" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/dc6c42bf-c257-43db-af67-fa6a94fcfbef.png", Aljazeera News
+https://tvs1.aynaott.com/aljazeera/index.m3u8?hdnts=st=1734399388~exp=1734442588~acl=/byte-capsule/*~data=103.174.51.252-WEB~hmac=9c319622eabb46f098af21d93c279a98fb7daf1ebd281e623e937f6aa25d7a8c|referer=https://cloudtv.akamaized.net/
+
+#EXTINF:-1 group-title="AynaOTT BY Himel OP" General" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/85bbed0f-b7cd-41a1-9f14-466951111e09.png", DW
+https://tvs1.aynaott.com/dwnews/index.m3u8?hdnts=st=1734399388~exp=1734442588~acl=/byte-capsule/*~data=103.174.51.252-WEB~hmac=9c319622eabb46f098af21d93c279a98fb7daf1ebd281e623e937f6aa25d7a8c|referer=https://cloudtv.akamaized.net/
+
+#EXTINF:-1 group-title="AynaOTT BY Himel OP" General" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/ec65dc23-f1c5-488f-8316-8d59aa2413a7.png", NHK World Japan
+https://tvs1.aynaott.com/nhkworld/index.m3u8?hdnts=st=1734399388~exp=1734442588~acl=/byte-capsule/*~data=103.174.51.252-WEB~hmac=9c319622eabb46f098af21d93c279a98fb7daf1ebd281e623e937f6aa25d7a8c|referer=https://cloudtv.akamaized.net/
+
+#EXTINF:-1 group-title="AynaOTT BY Himel OP" General" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/b0e9d0f3-647d-43c6-b8be-002c2439b711.png", TRT World
+https://tvs2.aynaott.com/TRTWorldHD/index.m3u8?hdnts=st=1734399388~exp=1734442588~acl=/byte-capsule/*~data=103.174.51.252-WEB~hmac=9c319622eabb46f098af21d93c279a98fb7daf1ebd281e623e937f6aa25d7a8c|referer=https://cloudtv.akamaized.net/
+
+#EXTINF:-1 group-title="AynaOTT BY Himel OP" General" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/b2068414-4217-401f-b149-86e52bb28ca0.png", CNN
+https://tvs1.aynaott.com/cnn/index.m3u8?hdnts=st=1734399388~exp=1734442588~acl=/byte-capsule/*~data=103.174.51.252-WEB~hmac=9c319622eabb46f098af21d93c279a98fb7daf1ebd281e623e937f6aa25d7a8c|referer=https://cloudtv.akamaized.net/
+
+#EXTINF:-1 group-title="AynaOTT BY Himel OP" General" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/fd726ea0-4120-4c0f-8643-b73859f41be0.png", BBC News
+https://tvs1.aynaott.com/bbcnews/index.m3u8?hdnts=st=1734399388~exp=1734442588~acl=/byte-capsule/*~data=103.174.51.252-WEB~hmac=9c319622eabb46f098af21d93c279a98fb7daf1ebd281e623e937f6aa25d7a8c|referer=https://cloudtv.akamaized.net/
+
+#EXTINF:-1 group-title="AynaOTT BY Himel OP" General" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/aca2a8d6-a8f4-4eeb-9772-dc97893d53c4.png", Cartoon Network
+https://tvs2.aynaott.com/cartoonnetwork/index.m3u8?hdnts=st=1734399388~exp=1734442588~acl=/byte-capsule/*~data=103.174.51.252-WEB~hmac=9c319622eabb46f098af21d93c279a98fb7daf1ebd281e623e937f6aa25d7a8c|referer=https://cloudtv.akamaized.net/
+
+#EXTINF:-1 group-title="AynaOTT BY Himel OP" General" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/edd18f4b-3728-43df-b4ae-21c4064939ac.png", PBS Kids
+https://tvs2.aynaott.com/pbskids/index.m3u8?hdnts=st=1734399388~exp=1734442588~acl=/byte-capsule/*~data=103.174.51.252-WEB~hmac=9c319622eabb46f098af21d93c279a98fb7daf1ebd281e623e937f6aa25d7a8c|referer=https://cloudtv.akamaized.net/
+
+#EXTINF:-1 group-title="AynaOTT BY Himel OP" General" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/0d1e7308-831c-4b08-8577-d2ae9c783e39.png", WION
+https://tvs3.aynaott.com/wion/index.m3u8?hdnts=st=1734399388~exp=1734442588~acl=/byte-capsule/*~data=103.174.51.252-WEB~hmac=9c319622eabb46f098af21d93c279a98fb7daf1ebd281e623e937f6aa25d7a8c|referer=https://cloudtv.akamaized.net/
+
+#EXTINF:-1 group-title="AynaOTT BY Himel OP" General" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/4b07380a-0a08-4648-a526-ba235f366735.png", HBO
+https://tvs2.aynaott.com/hbo/index.m3u8?hdnts=st=1734399388~exp=1734442588~acl=/byte-capsule/*~data=103.174.51.252-WEB~hmac=9c319622eabb46f098af21d93c279a98fb7daf1ebd281e623e937f6aa25d7a8c|referer=https://cloudtv.akamaized.net/
+
+#EXTINF:-1 group-title="AynaOTT BY Himel OP" General" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/7a45cdc1-1529-4f74-ad09-7c40bbacbd89.png", Disney Channel
+https://tvs2.aynaott.com/disney/index.m3u8?hdnts=st=1734399388~exp=1734442588~acl=/byte-capsule/*~data=103.174.51.252-WEB~hmac=9c319622eabb46f098af21d93c279a98fb7daf1ebd281e623e937f6aa25d7a8c|referer=https://cloudtv.akamaized.net/
+
+#EXTINF:-1 group-title="AynaOTT BY Himel OP" General" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/0a368f94-0aef-4383-9697-3f5353ea8b16.png", ZEE 24 Ghanta
+https://tvs1.aynaott.com/zee24/index.m3u8?hdnts=st=1734399388~exp=1734442588~acl=/byte-capsule/*~data=103.174.51.252-WEB~hmac=9c319622eabb46f098af21d93c279a98fb7daf1ebd281e623e937f6aa25d7a8c|referer=https://cloudtv.akamaized.net/
+
+#EXTINF:-1 group-title="AynaOTT BY Himel OP" General" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/8fac80d3-bd8e-4cac-b047-f0b7e320f11e.png", ZEE News
+https://tvs1.aynaott.com/zeenews/index.m3u8?hdnts=st=1734399388~exp=1734442588~acl=/byte-capsule/*~data=103.174.51.252-WEB~hmac=9c319622eabb46f098af21d93c279a98fb7daf1ebd281e623e937f6aa25d7a8c|referer=https://cloudtv.akamaized.net/
+
+#EXTINF:-1 group-title="AynaOTT BY Himel OP" General" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/3a0902c7-364d-4506-88a6-5c54840237d9.png", Zee Cinema HD
+https://tvs1.aynaott.com/ZeeCinemaHD/index.m3u8?hdnts=st=1734399388~exp=1734442588~acl=/byte-capsule/*~data=103.174.51.252-WEB~hmac=9c319622eabb46f098af21d93c279a98fb7daf1ebd281e623e937f6aa25d7a8c|referer=https://cloudtv.akamaized.net/
+
+#EXTINF:-1 group-title="AynaOTT BY Himel OP" General" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/4dd960d0-da32-4c23-b9aa-2d6b7e567ae1.png", Nat Geo TV
+https://tvs1.aynaott.com/natgeo/index.m3u8?hdnts=st=1734399388~exp=1734442588~acl=/byte-capsule/*~data=103.174.51.252-WEB~hmac=9c319622eabb46f098af21d93c279a98fb7daf1ebd281e623e937f6aa25d7a8c|referer=https://cloudtv.akamaized.net/
+
+#EXTINF:-1 group-title="AynaOTT BY Himel OP" General" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/95e7eae1-e949-45a5-8e3f-c426fbc89440.png", beIN SPORTS
+https://tvs1.aynaott.com/beinsports/index.m3u8?hdnts=st=1734399388~exp=1734442588~acl=/byte-capsule/*~data=103.174.51.252-WEB~hmac=9c319622eabb46f098af21d93c279a98fb7daf1ebd281e623e937f6aa25d7a8c|referer=https://cloudtv.akamaized.net/
+
+#EXTINF:-1 group-title="AynaOTT BY Himel OP" General" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/a1aa578d-189d-42dd-9e94-dfd42b58e586.png", Nicktoons
+https://tvs2.aynaott.com/nicktoons/index.m3u8?hdnts=st=1734399388~exp=1734442588~acl=/byte-capsule/*~data=103.174.51.252-WEB~hmac=9c319622eabb46f098af21d93c279a98fb7daf1ebd281e623e937f6aa25d7a8c|referer=https://cloudtv.akamaized.net/
+
+#EXTINF:-1 group-title="AynaOTT BY Himel OP" General" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/7b6925d4-22af-47b5-bc03-a4ffc2c3ce9a.png", Nick Jr.
+https://tvs2.aynaott.com/nickjr/index.m3u8?hdnts=st=1734399388~exp=1734442588~acl=/byte-capsule/*~data=103.174.51.252-WEB~hmac=9c319622eabb46f098af21d93c279a98fb7daf1ebd281e623e937f6aa25d7a8c|referer=https://cloudtv.akamaized.net/
+
+#EXTINF:-1 group-title="AynaOTT BY Himel OP" General" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/3f66f8f4-eb1f-4f45-8707-a02327cfed59.png", BabyTV
+https://tvs1.aynaott.com/babytv/index.m3u8?hdnts=st=1734399388~exp=1734442588~acl=/byte-capsule/*~data=103.174.51.252-WEB~hmac=9c319622eabb46f098af21d93c279a98fb7daf1ebd281e623e937f6aa25d7a8c|referer=https://cloudtv.akamaized.net/
+
+#EXTINF:-1 group-title="AynaOTT BY Himel OP" General" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/83ac4373-a814-4eee-a0b7-b750a1e8a919.png", BBC America
+https://tvs1.aynaott.com/bbcamerica/index.m3u8?hdnts=st=1734399388~exp=1734442588~acl=/byte-capsule/*~data=103.174.51.252-WEB~hmac=9c319622eabb46f098af21d93c279a98fb7daf1ebd281e623e937f6aa25d7a8c|referer=https://cloudtv.akamaized.net/
+
+#EXTINF:-1 group-title="AynaOTT BY Himel OP" General" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/62331ea0-02eb-482b-94a1-9ef302fce293.png", Bloomberg TV
+https://tvs1.aynaott.com/bloombergtv/index.m3u8?hdnts=st=1734399388~exp=1734442588~acl=/byte-capsule/*~data=103.174.51.252-WEB~hmac=9c319622eabb46f098af21d93c279a98fb7daf1ebd281e623e937f6aa25d7a8c|referer=https://cloudtv.akamaized.net/
+
+#EXTINF:-1 group-title="AynaOTT BY Himel OP" General" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/ec439f3c-6b95-4194-a0fa-2a98f63028da.png", Willow HD TV
+https://tvs3.aynaott.com/rEBp38Ax/index.m3u8?hdnts=st=1734399388~exp=1734442588~acl=/byte-capsule/*~data=103.174.51.252-WEB~hmac=9c319622eabb46f098af21d93c279a98fb7daf1ebd281e623e937f6aa25d7a8c|referer=https://cloudtv.akamaized.net/
+
+#EXTINF:-1 group-title="AynaOTT BY Himel OP" General" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/3dbaeafb-2f47-4a64-8640-b86de3fa8e97.png", ESPN
+https://tvs3.aynaott.com/espn/index.m3u8?hdnts=st=1734399388~exp=1734442588~acl=/byte-capsule/*~data=103.174.51.252-WEB~hmac=9c319622eabb46f098af21d93c279a98fb7daf1ebd281e623e937f6aa25d7a8c|referer=https://cloudtv.akamaized.net/
+
+#EXTINF:-1 group-title="AynaOTT BY Himel OP" General" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/8b0826d5-c743-4a92-b704-2ae4ed4c2951.png", TSN 1
+https://tvs2.aynaott.com/tsn1/index.m3u8?hdnts=st=1734399388~exp=1734442588~acl=/byte-capsule/*~data=103.174.51.252-WEB~hmac=9c319622eabb46f098af21d93c279a98fb7daf1ebd281e623e937f6aa25d7a8c|referer=https://cloudtv.akamaized.net/
+
+#EXTINF:-1 group-title="AynaOTT BY Himel OP" General" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/c2629088-2d62-45f5-b2b8-6c9cf9f763af.png", TSN 2
+https://tvs2.aynaott.com/tsn2/index.m3u8?hdnts=st=1734399388~exp=1734442588~acl=/byte-capsule/*~data=103.174.51.252-WEB~hmac=9c319622eabb46f098af21d93c279a98fb7daf1ebd281e623e937f6aa25d7a8c|referer=https://cloudtv.akamaized.net/
+
+#EXTINF:-1 group-title="AynaOTT BY Himel OP" General" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/8d7f057a-8bdd-4adf-8cac-3841f07aee91.png", TSN 3
+https://tvs2.aynaott.com/tsn3/index.m3u8?hdnts=st=1734399388~exp=1734442588~acl=/byte-capsule/*~data=103.174.51.252-WEB~hmac=9c319622eabb46f098af21d93c279a98fb7daf1ebd281e623e937f6aa25d7a8c|referer=https://cloudtv.akamaized.net/
+
+#EXTINF:-1 group-title="AynaOTT BY Himel OP" General" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/5b98aad5-d07f-44f8-b690-8d8b09df36a4.png", BT Sport 1
+https://tvs1.aynaott.com/btSport1/index.m3u8?hdnts=st=1734399388~exp=1734442588~acl=/byte-capsule/*~data=103.174.51.252-WEB~hmac=9c319622eabb46f098af21d93c279a98fb7daf1ebd281e623e937f6aa25d7a8c|referer=https://cloudtv.akamaized.net/
+
+#EXTINF:-1 group-title="AynaOTT BY Himel OP" General" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/659dc8f2-549a-4d97-a831-bf9b41381609.png", BT Sport 2
+https://tvs1.aynaott.com/btSport2/index.m3u8?hdnts=st=1734399388~exp=1734442588~acl=/byte-capsule/*~data=103.174.51.252-WEB~hmac=9c319622eabb46f098af21d93c279a98fb7daf1ebd281e623e937f6aa25d7a8c|referer=https://cloudtv.akamaized.net/
+
+#EXTINF:-1 group-title="AynaOTT BY Himel OP" General" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/be666a68-6f1c-4766-aaef-6136f1a52567.png", Fox Sports 1
+https://tvs3.aynaott.com/foxsports1/index.m3u8?hdnts=st=1734399388~exp=1734442588~acl=/byte-capsule/*~data=103.174.51.252-WEB~hmac=9c319622eabb46f098af21d93c279a98fb7daf1ebd281e623e937f6aa25d7a8c|referer=https://cloudtv.akamaized.net/
+
+#EXTINF:-1 group-title="AynaOTT BY Himel OP" General" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/efc739e3-198e-4fb1-95db-6f7578ad61bb.png", Fox Sports 2
+https://tvs3.aynaott.com/foxsports2/index.m3u8?hdnts=st=1734399388~exp=1734442588~acl=/byte-capsule/*~data=103.174.51.252-WEB~hmac=9c319622eabb46f098af21d93c279a98fb7daf1ebd281e623e937f6aa25d7a8c|referer=https://cloudtv.akamaized.net/
+
+#EXTINF:-1 group-title="AynaOTT BY Himel OP" General" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/0da7f761-c3d2-4b0f-a073-ec1f08bd93ca.png", Movie live
+https://tvs2.aynaott.com/Movielive/index.m3u8?hdnts=st=1734399388~exp=1734442588~acl=/byte-capsule/*~data=103.174.51.252-WEB~hmac=9c319622eabb46f098af21d93c279a98fb7daf1ebd281e623e937f6aa25d7a8c|referer=https://cloudtv.akamaized.net/
+
+#EXTINF:-1 group-title="AynaOTT BY Himel OP" General" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/701e12e6-5c72-4c6c-b23a-d44549c3942d.png", Mastiii Music
+https://tvs1.aynaott.com/mastimusic/index.m3u8?hdnts=st=1734399388~exp=1734442588~acl=/byte-capsule/*~data=103.174.51.252-WEB~hmac=9c319622eabb46f098af21d93c279a98fb7daf1ebd281e623e937f6aa25d7a8c|referer=https://cloudtv.akamaized.net/
+
+#EXTINF:-1 group-title="AynaOTT BY Himel OP" General" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/48660640-d9e2-4565-8047-55a2c2e2c21b.png", 9XM
+https://tvs1.aynaott.com/9xm/index.m3u8?hdnts=st=1734399388~exp=1734442588~acl=/byte-capsule/*~data=103.174.51.252-WEB~hmac=9c319622eabb46f098af21d93c279a98fb7daf1ebd281e623e937f6aa25d7a8c|referer=https://cloudtv.akamaized.net/
+
+#EXTINF:-1 group-title="AynaOTT BY Himel OP" General" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/ce9eaa36-c258-48ea-98c4-5a73e9fa177f.png", 9x Jalwa
+https://tvs1.aynaott.com/9xjalwa/index.m3u8?hdnts=st=1734399388~exp=1734442588~acl=/byte-capsule/*~data=103.174.51.252-WEB~hmac=9c319622eabb46f098af21d93c279a98fb7daf1ebd281e623e937f6aa25d7a8c|referer=https://cloudtv.akamaized.net/
+
+#EXTINF:-1 group-title="AynaOTT BY Himel OP" General" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/92bcec41-82bf-4418-b6be-a62ed7d5bb15.png", Disney XD
+https://tvs3.aynaott.com/disneyXD/index.m3u8?hdnts=st=1734399388~exp=1734442588~acl=/byte-capsule/*~data=103.174.51.252-WEB~hmac=9c319622eabb46f098af21d93c279a98fb7daf1ebd281e623e937f6aa25d7a8c|referer=https://cloudtv.akamaized.net/
+
+#EXTINF:-1 group-title="AynaOTT BY Himel OP" General" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/47b0cf1a-67a9-4e17-9e57-42414f188b49.png", Fox News
+https://tvs1.aynaott.com/foxnews/index.m3u8?hdnts=st=1734399388~exp=1734442588~acl=/byte-capsule/*~data=103.174.51.252-WEB~hmac=9c319622eabb46f098af21d93c279a98fb7daf1ebd281e623e937f6aa25d7a8c|referer=https://cloudtv.akamaized.net/
+
+#EXTINF:-1 group-title="AynaOTT BY Himel OP" General" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/6ab508f5-8a7c-40f7-a606-575bb0136e8f.png", Travel XP
+https://tvs1.aynaott.com/travelxp/index.m3u8?hdnts=st=1734399388~exp=1734442588~acl=/byte-capsule/*~data=103.174.51.252-WEB~hmac=9c319622eabb46f098af21d93c279a98fb7daf1ebd281e623e937f6aa25d7a8c|referer=https://cloudtv.akamaized.net/
+
+#EXTINF:-1 group-title="AynaOTT BY Himel OP" General" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/b1703a81-115c-40c0-804d-70b8f63c6e0a.png", MSNBC News
+https://tvs1.aynaott.com/msnbc/index.m3u8?hdnts=st=1734399388~exp=1734442588~acl=/byte-capsule/*~data=103.174.51.252-WEB~hmac=9c319622eabb46f098af21d93c279a98fb7daf1ebd281e623e937f6aa25d7a8c|referer=https://cloudtv.akamaized.net/
+
+#EXTINF:-1 group-title="AynaOTT BY Himel OP" General" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/d893322a-3686-4483-9d5c-ca91c0eb15b6.png", Food Network
+https://tvs1.aynaott.com/foodnetwork/index.m3u8?hdnts=st=1734399388~exp=1734442588~acl=/byte-capsule/*~data=103.174.51.252-WEB~hmac=9c319622eabb46f098af21d93c279a98fb7daf1ebd281e623e937f6aa25d7a8c|referer=https://cloudtv.akamaized.net/
+
+#EXTINF:-1 group-title="AynaOTT BY Himel OP" General" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/06590fc5-4223-4ab2-a834-6f5d297469e0.png", Makkah Live
+https://tvs1.aynaott.com/qurantv/index.m3u8?hdnts=st=1734399388~exp=1734442588~acl=/byte-capsule/*~data=103.174.51.252-WEB~hmac=9c319622eabb46f098af21d93c279a98fb7daf1ebd281e623e937f6aa25d7a8c|referer=https://cloudtv.akamaized.net/
+
+#EXTINF:-1 group-title="AynaOTT BY Himel OP" General" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/a83f4299-ef9c-4bcf-b531-3691860ef962.png", Madina Live
+https://tvs1.aynaott.com/sunnahtv/index.m3u8?hdnts=st=1734399388~exp=1734442588~acl=/byte-capsule/*~data=103.174.51.252-WEB~hmac=9c319622eabb46f098af21d93c279a98fb7daf1ebd281e623e937f6aa25d7a8c|referer=https://cloudtv.akamaized.net/
+
+#EXTINF:-1 group-title="AynaOTT BY Himel OP" General" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/9ddba1fe-52d9-497c-a262-c0a4f9131ce3.png", 9x Jhakaas
+https://tvs1.aynaott.com/9X_Jhakaas/index.m3u8?hdnts=st=1734399388~exp=1734442588~acl=/byte-capsule/*~data=103.174.51.252-WEB~hmac=9c319622eabb46f098af21d93c279a98fb7daf1ebd281e623e937f6aa25d7a8c|referer=https://cloudtv.akamaized.net/
+
+#EXTINF:-1 group-title="AynaOTT BY Himel OP" General" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/583734a3-8fdb-4d9a-a1e4-64dd31d58624.png", Aakaash 8
+https://tvs1.aynaott.com/aakaashBangla/index.m3u8?hdnts=st=1734399388~exp=1734442588~acl=/byte-capsule/*~data=103.174.51.252-WEB~hmac=9c319622eabb46f098af21d93c279a98fb7daf1ebd281e623e937f6aa25d7a8c|referer=https://cloudtv.akamaized.net/
+
+#EXTINF:-1 group-title="AynaOTT BY Himel OP" General" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/4474a940-c135-44bc-83d6-6856214c2378.png", Dhoom Music Bangla
+https://tvs1.aynaott.com/dhoom/index.m3u8?hdnts=st=1734399388~exp=1734442588~acl=/byte-capsule/*~data=103.174.51.252-WEB~hmac=9c319622eabb46f098af21d93c279a98fb7daf1ebd281e623e937f6aa25d7a8c|referer=https://cloudtv.akamaized.net/
+
+#EXTINF:-1 group-title="AynaOTT BY Himel OP" General" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/ac4ab5ec-6923-4c7b-b6fe-99fb53440fb8.png", HiDost
+https://tvs1.aynaott.com/HiDost/index.m3u8?hdnts=st=1734399388~exp=1734442588~acl=/byte-capsule/*~data=103.174.51.252-WEB~hmac=9c319622eabb46f098af21d93c279a98fb7daf1ebd281e623e937f6aa25d7a8c|referer=https://cloudtv.akamaized.net/
+
+#EXTINF:-1 group-title="AynaOTT BY Himel OP" General" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/1ccb9b93-d1a8-43c8-be0e-7bc989784536.png", Manoranjan Movies
+https://tvs1.aynaott.com/ManoranjanMovies/index.m3u8?hdnts=st=1734399388~exp=1734442588~acl=/byte-capsule/*~data=103.174.51.252-WEB~hmac=9c319622eabb46f098af21d93c279a98fb7daf1ebd281e623e937f6aa25d7a8c|referer=https://cloudtv.akamaized.net/
+
+#EXTINF:-1 group-title="AynaOTT BY Himel OP" General" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/567fd16d-0ffc-4318-b032-7dfdacd59b6d.png", Music India
+https://tvs1.aynaott.com/MusicIndia/index.m3u8?hdnts=st=1734399388~exp=1734442588~acl=/byte-capsule/*~data=103.174.51.252-WEB~hmac=9c319622eabb46f098af21d93c279a98fb7daf1ebd281e623e937f6aa25d7a8c|referer=https://cloudtv.akamaized.net/
+
+#EXTINF:-1 group-title="AynaOTT BY Himel OP" General" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/cbb7ce1d-8559-4dd0-b6a4-0e71c5ba0227.png", News Time
+https://tvs1.aynaott.com/NewsTime/index.m3u8?hdnts=st=1734399388~exp=1734442588~acl=/byte-capsule/*~data=103.174.51.252-WEB~hmac=9c319622eabb46f098af21d93c279a98fb7daf1ebd281e623e937f6aa25d7a8c|referer=https://cloudtv.akamaized.net/
+
+#EXTINF:-1 group-title="AynaOTT BY Himel OP" General" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/332a7d1e-c79d-446d-bffc-8ff3a977e8a8.png", Rplus
+https://tvs1.aynaott.com/Rplus/index.m3u8?hdnts=st=1734399388~exp=1734442588~acl=/byte-capsule/*~data=103.174.51.252-WEB~hmac=9c319622eabb46f098af21d93c279a98fb7daf1ebd281e623e937f6aa25d7a8c|referer=https://cloudtv.akamaized.net/
+
+#EXTINF:-1 group-title="AynaOTT BY Himel OP" General" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/1156612e-1942-46e8-9244-0f1de6d80908.png", Anjan TV
+https://tvs2.aynaott.com/AnjanTV/index.m3u8?hdnts=st=1734399388~exp=1734442588~acl=/byte-capsule/*~data=103.174.51.252-WEB~hmac=9c319622eabb46f098af21d93c279a98fb7daf1ebd281e623e937f6aa25d7a8c|referer=https://cloudtv.akamaized.net/
+
+#EXTINF:-1 group-title="AynaOTT BY Himel OP" General" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/db2f96e4-5633-4c83-b2a9-c8cacc2c876c.png", Rupshi Bangla
+https://tvs1.aynaott.com/RupshiBangla/index.m3u8?hdnts=st=1734399388~exp=1734442588~acl=/byte-capsule/*~data=103.174.51.252-WEB~hmac=9c319622eabb46f098af21d93c279a98fb7daf1ebd281e623e937f6aa25d7a8c|referer=https://cloudtv.akamaized.net/
+
+#EXTINF:-1 group-title="AynaOTT BY Himel OP" General" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/5ab791e2-6737-4d9b-85ea-bc5718f93c04.png", 9X Tashan
+https://tvs1.aynaott.com/9X_Tashan/index.m3u8?hdnts=st=1734399388~exp=1734442588~acl=/byte-capsule/*~data=103.174.51.252-WEB~hmac=9c319622eabb46f098af21d93c279a98fb7daf1ebd281e623e937f6aa25d7a8c|referer=https://cloudtv.akamaized.net/
+
+#EXTINF:-1 group-title="AynaOTT BY Himel OP" General" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/4c246586-d35a-43ab-8d3c-6f0b5fbb466d.png", ANB News
+https://tvs1.aynaott.com/ANB_News/index.m3u8?hdnts=st=1734399388~exp=1734442588~acl=/byte-capsule/*~data=103.174.51.252-WEB~hmac=9c319622eabb46f098af21d93c279a98fb7daf1ebd281e623e937f6aa25d7a8c|referer=https://cloudtv.akamaized.net/
+
+#EXTINF:-1 group-title="AynaOTT BY Himel OP" General" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/bafa3370-8092-4974-8924-8c6bf4627bad.png", B4U Kadak
+https://tvs1.aynaott.com/B4U_Kadak/index.m3u8?hdnts=st=1734399388~exp=1734442588~acl=/byte-capsule/*~data=103.174.51.252-WEB~hmac=9c319622eabb46f098af21d93c279a98fb7daf1ebd281e623e937f6aa25d7a8c|referer=https://cloudtv.akamaized.net/
+
+#EXTINF:-1 group-title="AynaOTT BY Himel OP" General" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/1e7547ef-39a9-4f08-8185-936a6cc51021.png", Dabangg
+https://tvs1.aynaott.com/Dabangg/index.m3u8?hdnts=st=1734399388~exp=1734442588~acl=/byte-capsule/*~data=103.174.51.252-WEB~hmac=9c319622eabb46f098af21d93c279a98fb7daf1ebd281e623e937f6aa25d7a8c|referer=https://cloudtv.akamaized.net/
+
+#EXTINF:-1 group-title="AynaOTT BY Himel OP" General" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/1d8601ff-86ed-4783-99e1-9c3bcdbc047c.png", Dhamaal
+https://tvs1.aynaott.com/Dhamaal/index.m3u8?hdnts=st=1734399388~exp=1734442588~acl=/byte-capsule/*~data=103.174.51.252-WEB~hmac=9c319622eabb46f098af21d93c279a98fb7daf1ebd281e623e937f6aa25d7a8c|referer=https://cloudtv.akamaized.net/
+
+#EXTINF:-1 group-title="AynaOTT BY Himel OP" General" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/33b4e6d7-d66c-4afd-81ca-0ecd90e3e112.png", Dhinchaak
+https://tvs1.aynaott.com/Dhinchaak/index.m3u8?hdnts=st=1734399388~exp=1734442588~acl=/byte-capsule/*~data=103.174.51.252-WEB~hmac=9c319622eabb46f098af21d93c279a98fb7daf1ebd281e623e937f6aa25d7a8c|referer=https://cloudtv.akamaized.net/
+
+#EXTINF:-1 group-title="AynaOTT BY Himel OP" General" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/c637b921-8577-4487-a3c8-9469cbd5dd4e.png", Goldmines
+https://tvs1.aynaott.com/Goldmines/index.m3u8?hdnts=st=1734399388~exp=1734442588~acl=/byte-capsule/*~data=103.174.51.252-WEB~hmac=9c319622eabb46f098af21d93c279a98fb7daf1ebd281e623e937f6aa25d7a8c|referer=https://cloudtv.akamaized.net/
+
+#EXTINF:-1 group-title="AynaOTT BY Himel OP" General" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/4087eb73-46cd-4f54-a2a8-38f73caba875.png", Goldmines Bollywood
+https://tvs1.aynaott.com/GoldminesBollywood/index.m3u8?hdnts=st=1734399388~exp=1734442588~acl=/byte-capsule/*~data=103.174.51.252-WEB~hmac=9c319622eabb46f098af21d93c279a98fb7daf1ebd281e623e937f6aa25d7a8c|referer=https://cloudtv.akamaized.net/
+
+#EXTINF:-1 group-title="AynaOTT BY Himel OP" General" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/80cda149-7530-47bb-83c7-7a1923d9bcc1.png", Goldmines Movies
+https://tvs1.aynaott.com/GoldminesMovies/index.m3u8?hdnts=st=1734399388~exp=1734442588~acl=/byte-capsule/*~data=103.174.51.252-WEB~hmac=9c319622eabb46f098af21d93c279a98fb7daf1ebd281e623e937f6aa25d7a8c|referer=https://cloudtv.akamaized.net/
+
+#EXTINF:-1 group-title="AynaOTT BY Himel OP" General" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/b037c01a-5c49-4364-90f1-fe9f4529becf.png", Khushboo
+https://tvs1.aynaott.com/Khushboo/index.m3u8?hdnts=st=1734399388~exp=1734442588~acl=/byte-capsule/*~data=103.174.51.252-WEB~hmac=9c319622eabb46f098af21d93c279a98fb7daf1ebd281e623e937f6aa25d7a8c|referer=https://cloudtv.akamaized.net/
+
+#EXTINF:-1 group-title="AynaOTT BY Himel OP" General" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/5a7e86d4-4388-4151-b8b9-a0f4e75f7e96.png", TheQ
+https://tvs1.aynaott.com/TheQ/index.m3u8?hdnts=st=1734399388~exp=1734442588~acl=/byte-capsule/*~data=103.174.51.252-WEB~hmac=9c319622eabb46f098af21d93c279a98fb7daf1ebd281e623e937f6aa25d7a8c|referer=https://cloudtv.akamaized.net/
+
+#EXTINF:-1 group-title="AynaOTT BY Himel OP" General" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/f8ff7adf-06ce-4db4-a363-eed3f46def49.png", TV9 Bangla
+https://tvs1.aynaott.com/TV9Bangla/index.m3u8?hdnts=st=1734399388~exp=1734442588~acl=/byte-capsule/*~data=103.174.51.252-WEB~hmac=9c319622eabb46f098af21d93c279a98fb7daf1ebd281e623e937f6aa25d7a8c|referer=https://cloudtv.akamaized.net/
+
+#EXTINF:-1 group-title="AynaOTT BY Himel OP" General" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/a4175baa-8a62-4988-bae7-10f821b57cc5.png", APN
+https://tvs1.aynaott.com/APN/index.m3u8?hdnts=st=1734399388~exp=1734442588~acl=/byte-capsule/*~data=103.174.51.252-WEB~hmac=9c319622eabb46f098af21d93c279a98fb7daf1ebd281e623e937f6aa25d7a8c|referer=https://cloudtv.akamaized.net/
+
+#EXTINF:-1 group-title="AynaOTT BY Himel OP" General" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/7e5a4e48-eac9-43bf-bc7c-3b36e1256860.png", Azzad TV
+https://tvs1.aynaott.com/AzzadTv/index.m3u8?hdnts=st=1734399388~exp=1734442588~acl=/byte-capsule/*~data=103.174.51.252-WEB~hmac=9c319622eabb46f098af21d93c279a98fb7daf1ebd281e623e937f6aa25d7a8c|referer=https://cloudtv.akamaized.net/
+
+#EXTINF:-1 group-title="AynaOTT BY Himel OP" General" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/19ea4fb7-2a73-4844-a175-44ce3b8c40cb.png", Bflix
+https://tvs1.aynaott.com/Bflix/index.m3u8?hdnts=st=1734399388~exp=1734442588~acl=/byte-capsule/*~data=103.174.51.252-WEB~hmac=9c319622eabb46f098af21d93c279a98fb7daf1ebd281e623e937f6aa25d7a8c|referer=https://cloudtv.akamaized.net/
+
+#EXTINF:-1 group-title="AynaOTT BY Himel OP" General" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/90f006da-1115-4c10-ae8b-88764684b222.png", Dangal
+https://tvs1.aynaott.com/Dangal/index.m3u8?hdnts=st=1734399388~exp=1734442588~acl=/byte-capsule/*~data=103.174.51.252-WEB~hmac=9c319622eabb46f098af21d93c279a98fb7daf1ebd281e623e937f6aa25d7a8c|referer=https://cloudtv.akamaized.net/
+
+#EXTINF:-1 group-title="AynaOTT BY Himel OP" General" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/4f7dc5ca-03c8-40a9-ba8d-a3b56b9b96ae.png", Dangal 2
+https://tvs1.aynaott.com/Dangal2/index.m3u8?hdnts=st=1734399388~exp=1734442588~acl=/byte-capsule/*~data=103.174.51.252-WEB~hmac=9c319622eabb46f098af21d93c279a98fb7daf1ebd281e623e937f6aa25d7a8c|referer=https://cloudtv.akamaized.net/
+
+#EXTINF:-1 group-title="AynaOTT BY Himel OP" General" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/fe320889-e803-4df2-880b-8e33e619af48.png", Manoranjan TV
+https://tvs1.aynaott.com/ManoranjanTV/index.m3u8?hdnts=st=1734399388~exp=1734442588~acl=/byte-capsule/*~data=103.174.51.252-WEB~hmac=9c319622eabb46f098af21d93c279a98fb7daf1ebd281e623e937f6aa25d7a8c|referer=https://cloudtv.akamaized.net/
+
+#EXTINF:-1 group-title="AynaOTT BY Himel OP" General" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/2c0e0ad6-450a-426c-a208-901733ff4b48.png", Network 10
+https://tvs1.aynaott.com/Network10/index.m3u8?hdnts=st=1734399388~exp=1734442588~acl=/byte-capsule/*~data=103.174.51.252-WEB~hmac=9c319622eabb46f098af21d93c279a98fb7daf1ebd281e623e937f6aa25d7a8c|referer=https://cloudtv.akamaized.net/
+
+#EXTINF:-1 group-title="AynaOTT BY Himel OP" General" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/d52eb1e9-4012-4fcd-898e-aa45fee5f88d.png", News 1 India
+https://tvs1.aynaott.com/News1India/index.m3u8?hdnts=st=1734399388~exp=1734442588~acl=/byte-capsule/*~data=103.174.51.252-WEB~hmac=9c319622eabb46f098af21d93c279a98fb7daf1ebd281e623e937f6aa25d7a8c|referer=https://cloudtv.akamaized.net/
+
+#EXTINF:-1 group-title="AynaOTT BY Himel OP" General" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/967132d1-2f36-43fd-84ac-263dec92f117.png", Republic TV Bharat
+https://tvs1.aynaott.com/RepublicTVBharat/index.m3u8?hdnts=st=1734399388~exp=1734442588~acl=/byte-capsule/*~data=103.174.51.252-WEB~hmac=9c319622eabb46f098af21d93c279a98fb7daf1ebd281e623e937f6aa25d7a8c|referer=https://cloudtv.akamaized.net/
+
+#EXTINF:-1 group-title="AynaOTT BY Himel OP" General" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/94689025-f543-47da-b9bb-bd4210fa4834.png", Sadhna Prime News
+https://tvs1.aynaott.com/SadhnaPrimeNews/index.m3u8?hdnts=st=1734399388~exp=1734442588~acl=/byte-capsule/*~data=103.174.51.252-WEB~hmac=9c319622eabb46f098af21d93c279a98fb7daf1ebd281e623e937f6aa25d7a8c|referer=https://cloudtv.akamaized.net/
+
+#EXTINF:-1 group-title="AynaOTT BY Himel OP" General" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/45ebcbdf-449d-4f78-956a-6eb0c527fcf3.png", Shemaroo TV
+https://tvs1.aynaott.com/ShemarooTV/index.m3u8?hdnts=st=1734399388~exp=1734442588~acl=/byte-capsule/*~data=103.174.51.252-WEB~hmac=9c319622eabb46f098af21d93c279a98fb7daf1ebd281e623e937f6aa25d7a8c|referer=https://cloudtv.akamaized.net/
+
+#EXTINF:-1 group-title="AynaOTT BY Himel OP" General" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/b363a185-ac06-476d-aa4e-41c7608649ab.png", India Voice
+https://tvs1.aynaott.com/IndiaVoice/index.m3u8?hdnts=st=1734399388~exp=1734442588~acl=/byte-capsule/*~data=103.174.51.252-WEB~hmac=9c319622eabb46f098af21d93c279a98fb7daf1ebd281e623e937f6aa25d7a8c|referer=https://cloudtv.akamaized.net/
+
+#EXTINF:-1 group-title="AynaOTT BY Himel OP" General" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/b4ee5ce5-c24a-4fd7-97f3-0fee17977c8d.png", News 24
+https://tvs2.aynaott.com/News24/index.m3u8?hdnts=st=1734399388~exp=1734442588~acl=/byte-capsule/*~data=103.174.51.252-WEB~hmac=9c319622eabb46f098af21d93c279a98fb7daf1ebd281e623e937f6aa25d7a8c|referer=https://cloudtv.akamaized.net/
+
+#EXTINF:-1 group-title="AynaOTT BY Himel OP" General" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/d9322b28-138c-4e09-ac51-00899f3874af.png", Rongeen TV
+https://tvs2.aynaott.com/RongeenTV/index.m3u8?hdnts=st=1734399388~exp=1734442588~acl=/byte-capsule/*~data=103.174.51.252-WEB~hmac=9c319622eabb46f098af21d93c279a98fb7daf1ebd281e623e937f6aa25d7a8c|referer=https://cloudtv.akamaized.net/
+
+#EXTINF:-1 group-title="AynaOTT BY Himel OP" General" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/e44e6e9d-7d3d-4d30-b364-857d674c00f9.png", Shemaroo Umang
+https://tvs2.aynaott.com/ShemarooUmang/index.m3u8?hdnts=st=1734399388~exp=1734442588~acl=/byte-capsule/*~data=103.174.51.252-WEB~hmac=9c319622eabb46f098af21d93c279a98fb7daf1ebd281e623e937f6aa25d7a8c|referer=https://cloudtv.akamaized.net/
+
+#EXTINF:-1 group-title="AynaOTT BY Himel OP" General" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/ccba98a4-7c7c-43ea-866e-0050c95f1ace.png", Afghan TV
+https://tvs2.aynaott.com/AfghanTV/index.m3u8?hdnts=st=1734399388~exp=1734442588~acl=/byte-capsule/*~data=103.174.51.252-WEB~hmac=9c319622eabb46f098af21d93c279a98fb7daf1ebd281e623e937f6aa25d7a8c|referer=https://cloudtv.akamaized.net/
+
+#EXTINF:-1 group-title="AynaOTT BY Himel OP" General" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/6287f605-e124-486d-8aac-bd1765c51d48.png", B4U Movies India
+https://tvs2.aynaott.com/B4U_Movies_India/index.m3u8?hdnts=st=1734399388~exp=1734442588~acl=/byte-capsule/*~data=103.174.51.252-WEB~hmac=9c319622eabb46f098af21d93c279a98fb7daf1ebd281e623e937f6aa25d7a8c|referer=https://cloudtv.akamaized.net/
+
+#EXTINF:-1 group-title="AynaOTT BY Himel OP" General" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/0a45ee9a-5202-4d40-bcc3-5c2ebb5a42b3.png", NTV Itahari
+https://tvs2.aynaott.com/NTV_Itahari/index.m3u8?hdnts=st=1734399388~exp=1734442588~acl=/byte-capsule/*~data=103.174.51.252-WEB~hmac=9c319622eabb46f098af21d93c279a98fb7daf1ebd281e623e937f6aa25d7a8c|referer=https://cloudtv.akamaized.net/
+
+#EXTINF:-1 group-title="AynaOTT BY Himel OP" General" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/e53cb948-1fe1-4e9b-9fb7-8ab2da6bcef4.png", B4U Hitz
+https://tvs2.aynaott.com/B4UHitz/index.m3u8?hdnts=st=1734399388~exp=1734442588~acl=/byte-capsule/*~data=103.174.51.252-WEB~hmac=9c319622eabb46f098af21d93c279a98fb7daf1ebd281e623e937f6aa25d7a8c|referer=https://cloudtv.akamaized.net/
+
+#EXTINF:-1 group-title="AynaOTT BY Himel OP" General" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/c07137f1-63a6-4de8-b3da-ac0818d27344.png", Dhamaka Movies
+https://tvs2.aynaott.com/DhamakaMovies/index.m3u8?hdnts=st=1734399388~exp=1734442588~acl=/byte-capsule/*~data=103.174.51.252-WEB~hmac=9c319622eabb46f098af21d93c279a98fb7daf1ebd281e623e937f6aa25d7a8c|referer=https://cloudtv.akamaized.net/
+
+#EXTINF:-1 group-title="AynaOTT BY Himel OP" General" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/bc8b2a84-4672-468a-9577-57973e5714d8.png", ABC Spark
+https://tvs1.aynaott.com/aspark/index.m3u8?hdnts=st=1734399388~exp=1734442588~acl=/byte-capsule/*~data=103.174.51.252-WEB~hmac=9c319622eabb46f098af21d93c279a98fb7daf1ebd281e623e937f6aa25d7a8c|referer=https://cloudtv.akamaized.net/
+
+#EXTINF:-1 group-title="AynaOTT BY Himel OP" General" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/38e73678-b1e9-45c0-ae32-f84335d42c4b.png", TBS
+https://tvs1.aynaott.com/tbs/index.m3u8?hdnts=st=1734399388~exp=1734442588~acl=/byte-capsule/*~data=103.174.51.252-WEB~hmac=9c319622eabb46f098af21d93c279a98fb7daf1ebd281e623e937f6aa25d7a8c|referer=https://cloudtv.akamaized.net/
+
+#EXTINF:-1 group-title="AynaOTT BY Himel OP" General" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/b98b9a1d-2814-4356-ac2d-bbb4192e54c1.png", Fox 5
+https://tvs1.aynaott.com/fox5/index.m3u8?hdnts=st=1734399388~exp=1734442588~acl=/byte-capsule/*~data=103.174.51.252-WEB~hmac=9c319622eabb46f098af21d93c279a98fb7daf1ebd281e623e937f6aa25d7a8c|referer=https://cloudtv.akamaized.net/
+
+#EXTINF:-1 group-title="AynaOTT BY Himel OP" General" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/fa37d08c-24c5-4e56-af11-c173a69b2daf.png", Fox Business
+https://tvs1.aynaott.com/foxbusiness/index.m3u8?hdnts=st=1734399388~exp=1734442588~acl=/byte-capsule/*~data=103.174.51.252-WEB~hmac=9c319622eabb46f098af21d93c279a98fb7daf1ebd281e623e937f6aa25d7a8c|referer=https://cloudtv.akamaized.net/
+
+#EXTINF:-1 group-title="AynaOTT BY Himel OP" General" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/bfbde956-53f5-48b8-a0ff-13b671d8e7ef.png", The Weather Channel
+https://tvs1.aynaott.com/TheWeatherChannel/index.m3u8?hdnts=st=1734399388~exp=1734442588~acl=/byte-capsule/*~data=103.174.51.252-WEB~hmac=9c319622eabb46f098af21d93c279a98fb7daf1ebd281e623e937f6aa25d7a8c|referer=https://cloudtv.akamaized.net/
+
+#EXTINF:-1 group-title="AynaOTT BY Himel OP" General" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/cd6661c4-467c-4fc3-aae3-78307347050b.png", Sky Nature
+https://tvs1.aynaott.com/skynature/index.m3u8?hdnts=st=1734399388~exp=1734442588~acl=/byte-capsule/*~data=103.174.51.252-WEB~hmac=9c319622eabb46f098af21d93c279a98fb7daf1ebd281e623e937f6aa25d7a8c|referer=https://cloudtv.akamaized.net/
+
+#EXTINF:-1 group-title="AynaOTT BY Himel OP" General" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/1efa745c-3ebc-4e82-9dd8-07baf5fea68e.png", Pix11
+https://tvs1.aynaott.com/pix11/index.m3u8?hdnts=st=1734399388~exp=1734442588~acl=/byte-capsule/*~data=103.174.51.252-WEB~hmac=9c319622eabb46f098af21d93c279a98fb7daf1ebd281e623e937f6aa25d7a8c|referer=https://cloudtv.akamaized.net/
+
+#EXTINF:-1 group-title="AynaOTT BY Himel OP" General" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/b40871e4-1629-49fe-a82b-b83a93243791.png", Amc
+https://tvs1.aynaott.com/amc/index.m3u8?hdnts=st=1734399388~exp=1734442588~acl=/byte-capsule/*~data=103.174.51.252-WEB~hmac=9c319622eabb46f098af21d93c279a98fb7daf1ebd281e623e937f6aa25d7a8c|referer=https://cloudtv.akamaized.net/
+
+#EXTINF:-1 group-title="AynaOTT BY Himel OP" General" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/11c60f38-75c1-4f74-9c0a-7df10148d0b0.png", Revolt
+https://tvs1.aynaott.com/revolt/index.m3u8?hdnts=st=1734399388~exp=1734442588~acl=/byte-capsule/*~data=103.174.51.252-WEB~hmac=9c319622eabb46f098af21d93c279a98fb7daf1ebd281e623e937f6aa25d7a8c|referer=https://cloudtv.akamaized.net/
+
+#EXTINF:-1 group-title="AynaOTT BY Himel OP" General" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/d4234d5d-453b-4133-8c07-9e53344d020d.png", axs
+https://tvs1.aynaott.com/axs/index.m3u8?hdnts=st=1734399388~exp=1734442588~acl=/byte-capsule/*~data=103.174.51.252-WEB~hmac=9c319622eabb46f098af21d93c279a98fb7daf1ebd281e623e937f6aa25d7a8c|referer=https://cloudtv.akamaized.net/
+
+#EXTINF:-1 group-title="AynaOTT BY Himel OP" General" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/33b39318-2d8b-4920-935d-b8d650e649e6.png", ytv
+https://tvs1.aynaott.com/ytv/index.m3u8?hdnts=st=1734399388~exp=1734442588~acl=/byte-capsule/*~data=103.174.51.252-WEB~hmac=9c319622eabb46f098af21d93c279a98fb7daf1ebd281e623e937f6aa25d7a8c|referer=https://cloudtv.akamaized.net/
+
+#EXTINF:-1 group-title="AynaOTT BY Himel OP" General" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/5692934a-f637-4bc9-a29c-2e8221585798.png", Islam Channel
+https://tvs1.aynaott.com/islam/index.m3u8?hdnts=st=1734399388~exp=1734442588~acl=/byte-capsule/*~data=103.174.51.252-WEB~hmac=9c319622eabb46f098af21d93c279a98fb7daf1ebd281e623e937f6aa25d7a8c|referer=https://cloudtv.akamaized.net/
+
+#EXTINF:-1 group-title="AynaOTT BY Himel OP" General" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/af9e0e3b-c556-49d8-87a9-e4ef5d2ae64e.png", Kolkata TV
+https://tvs1.aynaott.com/kolkatatv/index.m3u8?hdnts=st=1734399388~exp=1734442588~acl=/byte-capsule/*~data=103.174.51.252-WEB~hmac=9c319622eabb46f098af21d93c279a98fb7daf1ebd281e623e937f6aa25d7a8c|referer=https://cloudtv.akamaized.net/
+
+#EXTINF:-1 group-title="AynaOTT BY Himel OP" General" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/876434fa-51bb-49fe-9713-e757e3a18e2a.png", Channel Win
+https://tvs1.aynaott.com/ChannelWin/index.m3u8?hdnts=st=1734399388~exp=1734442588~acl=/byte-capsule/*~data=103.174.51.252-WEB~hmac=9c319622eabb46f098af21d93c279a98fb7daf1ebd281e623e937f6aa25d7a8c|referer=https://cloudtv.akamaized.net/
