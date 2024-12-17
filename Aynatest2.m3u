@@ -1,0 +1,607 @@
+#EXTM3U
+
+#EXTM3U
+#EXTINF:-1 group-title="Ayna By: @FREDFLIXTEM", BTV National
+#EXTVLCOPT:http-referrer=https://cloudtv.akamaized.net/
+#EXTHTTP:{"referer": "https://cloudtv.akamaized.net/"}
+https://tvs1.aynaott.com/btvhd/index.m3u8?hdnts=st=1734364904~exp=1734408104~acl=/byte-capsule/*~data=103.174.51.248-WEB~hmac=500cb020fb124c10c7749e55ee119b4107da4739519aa7dbb220fe42e8337a79|referer=https://cloudtv.akamaized.net/
+#EXTINF:-1 group-title="Ayna By: @FREDFLIXTEM", BTV World
+#EXTVLCOPT:http-referrer=https://cloudtv.akamaized.net/
+#EXTHTTP:{"referer": "https://cloudtv.akamaized.net/"}
+https://tvs1.aynaott.com/btv_world/index.m3u8?hdnts=st=1734364904~exp=1734408104~acl=/byte-capsule/*~data=103.174.51.248-WEB~hmac=500cb020fb124c10c7749e55ee119b4107da4739519aa7dbb220fe42e8337a79|referer=https://cloudtv.akamaized.net/
+#EXTINF:-1 group-title="Ayna By: @FREDFLIXTEM", BTV Chattogram
+#EXTVLCOPT:http-referrer=https://cloudtv.akamaized.net/
+#EXTHTTP:{"referer": "https://cloudtv.akamaized.net/"}
+https://tvs1.aynaott.com/btvctg/index.m3u8?hdnts=st=1734364904~exp=1734408104~acl=/byte-capsule/*~data=103.174.51.248-WEB~hmac=500cb020fb124c10c7749e55ee119b4107da4739519aa7dbb220fe42e8337a79|referer=https://cloudtv.akamaized.net/
+#EXTINF:-1 group-title="Ayna By: @FREDFLIXTEM", Bangla Vision
+#EXTVLCOPT:http-referrer=https://cloudtv.akamaized.net/
+#EXTHTTP:{"referer": "https://cloudtv.akamaized.net/"}
+https://tvs2.aynaott.com/banglavision/index.m3u8?hdnts=st=1734364904~exp=1734408104~acl=/byte-capsule/*~data=103.174.51.248-WEB~hmac=500cb020fb124c10c7749e55ee119b4107da4739519aa7dbb220fe42e8337a79|referer=https://cloudtv.akamaized.net/
+#EXTINF:-1 group-title="Ayna By: @FREDFLIXTEM", Channel I
+#EXTVLCOPT:http-referrer=https://cloudtv.akamaized.net/
+#EXTHTTP:{"referer": "https://cloudtv.akamaized.net/"}
+https://tvs2.aynaott.com/channeli/index.m3u8?hdnts=st=1734364904~exp=1734408104~acl=/byte-capsule/*~data=103.174.51.248-WEB~hmac=500cb020fb124c10c7749e55ee119b4107da4739519aa7dbb220fe42e8337a79|referer=https://cloudtv.akamaized.net/
+#EXTINF:-1 group-title="Ayna By: @FREDFLIXTEM", Ekushey TV
+#EXTVLCOPT:http-referrer=https://cloudtv.akamaized.net/
+#EXTHTTP:{"referer": "https://cloudtv.akamaized.net/"}
+https://tvs1.aynaott.com/etv/index.m3u8?hdnts=st=1734364904~exp=1734408104~acl=/byte-capsule/*~data=103.174.51.248-WEB~hmac=500cb020fb124c10c7749e55ee119b4107da4739519aa7dbb220fe42e8337a79|referer=https://cloudtv.akamaized.net/
+#EXTINF:-1 group-title="Ayna By: @FREDFLIXTEM", NTV
+#EXTVLCOPT:http-referrer=https://cloudtv.akamaized.net/
+#EXTHTTP:{"referer": "https://cloudtv.akamaized.net/"}
+https://tvs2.aynaott.com/ntv/index.m3u8?hdnts=st=1734364904~exp=1734408104~acl=/byte-capsule/*~data=103.174.51.248-WEB~hmac=500cb020fb124c10c7749e55ee119b4107da4739519aa7dbb220fe42e8337a79|referer=https://cloudtv.akamaized.net/
+#EXTINF:-1 group-title="Ayna By: @FREDFLIXTEM", Independent TV
+#EXTVLCOPT:http-referrer=https://cloudtv.akamaized.net/
+#EXTHTTP:{"referer": "https://cloudtv.akamaized.net/"}
+https://tvs1.aynaott.com/independenttv/index.m3u8?hdnts=st=1734364904~exp=1734408104~acl=/byte-capsule/*~data=103.174.51.248-WEB~hmac=500cb020fb124c10c7749e55ee119b4107da4739519aa7dbb220fe42e8337a79|referer=https://cloudtv.akamaized.net/
+#EXTINF:-1 group-title="Ayna By: @FREDFLIXTEM", ATN Bangla
+#EXTVLCOPT:http-referrer=https://cloudtv.akamaized.net/
+#EXTHTTP:{"referer": "https://cloudtv.akamaized.net/"}
+https://tvs2.aynaott.com/atnbangla/index.m3u8?hdnts=st=1734364904~exp=1734408104~acl=/byte-capsule/*~data=103.174.51.248-WEB~hmac=500cb020fb124c10c7749e55ee119b4107da4739519aa7dbb220fe42e8337a79|referer=https://cloudtv.akamaized.net/
+#EXTINF:-1 group-title="Ayna By: @FREDFLIXTEM", Boishakhi TV
+#EXTVLCOPT:http-referrer=https://cloudtv.akamaized.net/
+#EXTHTTP:{"referer": "https://cloudtv.akamaized.net/"}
+https://tvs1.aynaott.com/boishakhitv/index.m3u8?hdnts=st=1734364904~exp=1734408104~acl=/byte-capsule/*~data=103.174.51.248-WEB~hmac=500cb020fb124c10c7749e55ee119b4107da4739519aa7dbb220fe42e8337a79|referer=https://cloudtv.akamaized.net/
+#EXTINF:-1 group-title="Ayna By: @FREDFLIXTEM", Maasranga TV
+#EXTVLCOPT:http-referrer=https://cloudtv.akamaized.net/
+#EXTHTTP:{"referer": "https://cloudtv.akamaized.net/"}
+https://tvs2.aynaott.com/maasrangatv/index.m3u8?hdnts=st=1734364904~exp=1734408104~acl=/byte-capsule/*~data=103.174.51.248-WEB~hmac=500cb020fb124c10c7749e55ee119b4107da4739519aa7dbb220fe42e8337a79|referer=https://cloudtv.akamaized.net/
+#EXTINF:-1 group-title="Ayna By: @FREDFLIXTEM", Desh TV
+#EXTVLCOPT:http-referrer=https://cloudtv.akamaized.net/
+#EXTHTTP:{"referer": "https://cloudtv.akamaized.net/"}
+https://tvs1.aynaott.com/deshtv/index.m3u8?hdnts=st=1734364904~exp=1734408104~acl=/byte-capsule/*~data=103.174.51.248-WEB~hmac=500cb020fb124c10c7749e55ee119b4107da4739519aa7dbb220fe42e8337a79|referer=https://cloudtv.akamaized.net/
+#EXTINF:-1 group-title="Ayna By: @FREDFLIXTEM", My TV
+#EXTVLCOPT:http-referrer=https://cloudtv.akamaized.net/
+#EXTHTTP:{"referer": "https://cloudtv.akamaized.net/"}
+https://tvs1.aynaott.com/mytv/index.m3u8?hdnts=st=1734364904~exp=1734408104~acl=/byte-capsule/*~data=103.174.51.248-WEB~hmac=500cb020fb124c10c7749e55ee119b4107da4739519aa7dbb220fe42e8337a79|referer=https://cloudtv.akamaized.net/
+#EXTINF:-1 group-title="Ayna By: @FREDFLIXTEM", ATN News
+#EXTVLCOPT:http-referrer=https://cloudtv.akamaized.net/
+#EXTHTTP:{"referer": "https://cloudtv.akamaized.net/"}
+https://tvs1.aynaott.com/atnnews/index.m3u8?hdnts=st=1734364904~exp=1734408104~acl=/byte-capsule/*~data=103.174.51.248-WEB~hmac=500cb020fb124c10c7749e55ee119b4107da4739519aa7dbb220fe42e8337a79|referer=https://cloudtv.akamaized.net/
+#EXTINF:-1 group-title="Ayna By: @FREDFLIXTEM", Mohona TV
+#EXTVLCOPT:http-referrer=https://cloudtv.akamaized.net/
+#EXTHTTP:{"referer": "https://cloudtv.akamaized.net/"}
+https://tvs1.aynaott.com/mohonatv/index.m3u8?hdnts=st=1734364904~exp=1734408104~acl=/byte-capsule/*~data=103.174.51.248-WEB~hmac=500cb020fb124c10c7749e55ee119b4107da4739519aa7dbb220fe42e8337a79|referer=https://cloudtv.akamaized.net/
+#EXTINF:-1 group-title="Ayna By: @FREDFLIXTEM", Bijoy TV
+#EXTVLCOPT:http-referrer=https://cloudtv.akamaized.net/
+#EXTHTTP:{"referer": "https://cloudtv.akamaized.net/"}
+https://tvs1.aynaott.com/bijoytv/index.m3u8?hdnts=st=1734364904~exp=1734408104~acl=/byte-capsule/*~data=103.174.51.248-WEB~hmac=500cb020fb124c10c7749e55ee119b4107da4739519aa7dbb220fe42e8337a79|referer=https://cloudtv.akamaized.net/
+#EXTINF:-1 group-title="Ayna By: @FREDFLIXTEM", Somoy News TV
+#EXTVLCOPT:http-referrer=https://cloudtv.akamaized.net/
+#EXTHTTP:{"referer": "https://cloudtv.akamaized.net/"}
+https://tvs1.aynaott.com/somoytv/index.m3u8?hdnts=st=1734364904~exp=1734408104~acl=/byte-capsule/*~data=103.174.51.248-WEB~hmac=500cb020fb124c10c7749e55ee119b4107da4739519aa7dbb220fe42e8337a79|referer=https://cloudtv.akamaized.net/
+#EXTINF:-1 group-title="Ayna By: @FREDFLIXTEM", Gazi TV HD
+#EXTVLCOPT:http-referrer=https://cloudtv.akamaized.net/
+#EXTHTTP:{"referer": "https://cloudtv.akamaized.net/"}
+https://tvs1.aynaott.com/gtvhdforgame/index.m3u8?hdnts=st=1734364904~exp=1734408104~acl=/byte-capsule/*~data=103.174.51.248-WEB~hmac=500cb020fb124c10c7749e55ee119b4107da4739519aa7dbb220fe42e8337a79|referer=https://cloudtv.akamaized.net/
+#EXTINF:-1 group-title="Ayna By: @FREDFLIXTEM", Channel 9
+#EXTVLCOPT:http-referrer=https://cloudtv.akamaized.net/
+#EXTHTTP:{"referer": "https://cloudtv.akamaized.net/"}
+https://tvs1.aynaott.com/channel9/index.m3u8?hdnts=st=1734364904~exp=1734408104~acl=/byte-capsule/*~data=103.174.51.248-WEB~hmac=500cb020fb124c10c7749e55ee119b4107da4739519aa7dbb220fe42e8337a79|referer=https://cloudtv.akamaized.net/
+#EXTINF:-1 group-title="Ayna By: @FREDFLIXTEM", Channel 24
+#EXTVLCOPT:http-referrer=https://cloudtv.akamaized.net/
+#EXTHTTP:{"referer": "https://cloudtv.akamaized.net/"}
+https://tvs1.aynaott.com/channel24/index.m3u8?hdnts=st=1734364904~exp=1734408104~acl=/byte-capsule/*~data=103.174.51.248-WEB~hmac=500cb020fb124c10c7749e55ee119b4107da4739519aa7dbb220fe42e8337a79|referer=https://cloudtv.akamaized.net/
+#EXTINF:-1 group-title="Ayna By: @FREDFLIXTEM", Gaan Bangla
+#EXTVLCOPT:http-referrer=https://cloudtv.akamaized.net/
+#EXTHTTP:{"referer": "https://cloudtv.akamaized.net/"}
+https://tvs1.aynaott.com/gaanbangla/index.m3u8?hdnts=st=1734364904~exp=1734408104~acl=/byte-capsule/*~data=103.174.51.248-WEB~hmac=500cb020fb124c10c7749e55ee119b4107da4739519aa7dbb220fe42e8337a79|referer=https://cloudtv.akamaized.net/
+#EXTINF:-1 group-title="Ayna By: @FREDFLIXTEM", Ekattor TV
+#EXTVLCOPT:http-referrer=https://cloudtv.akamaized.net/
+#EXTHTTP:{"referer": "https://cloudtv.akamaized.net/"}
+https://tvs1.aynaott.com/ekattorbdtv/index.m3u8?hdnts=st=1734364904~exp=1734408104~acl=/byte-capsule/*~data=103.174.51.248-WEB~hmac=500cb020fb124c10c7749e55ee119b4107da4739519aa7dbb220fe42e8337a79|referer=https://cloudtv.akamaized.net/
+#EXTINF:-1 group-title="Ayna By: @FREDFLIXTEM", Asian TV
+#EXTVLCOPT:http-referrer=https://cloudtv.akamaized.net/
+#EXTHTTP:{"referer": "https://cloudtv.akamaized.net/"}
+https://tvs1.aynaott.com/asiantv/index.m3u8?hdnts=st=1734364904~exp=1734408104~acl=/byte-capsule/*~data=103.174.51.248-WEB~hmac=500cb020fb124c10c7749e55ee119b4107da4739519aa7dbb220fe42e8337a79|referer=https://cloudtv.akamaized.net/
+#EXTINF:-1 group-title="Ayna By: @FREDFLIXTEM", SA TV
+#EXTVLCOPT:http-referrer=https://cloudtv.akamaized.net/
+#EXTHTTP:{"referer": "https://cloudtv.akamaized.net/"}
+https://tvs1.aynaott.com/satv/index.m3u8?hdnts=st=1734364904~exp=1734408104~acl=/byte-capsule/*~data=103.174.51.248-WEB~hmac=500cb020fb124c10c7749e55ee119b4107da4739519aa7dbb220fe42e8337a79|referer=https://cloudtv.akamaized.net/
+#EXTINF:-1 group-title="Ayna By: @FREDFLIXTEM", Deepto TV
+#EXTVLCOPT:http-referrer=https://cloudtv.akamaized.net/
+#EXTHTTP:{"referer": "https://cloudtv.akamaized.net/"}
+https://tvs2.aynaott.com/deeptotv/index.m3u8?hdnts=st=1734364904~exp=1734408104~acl=/byte-capsule/*~data=103.174.51.248-WEB~hmac=500cb020fb124c10c7749e55ee119b4107da4739519aa7dbb220fe42e8337a79|referer=https://cloudtv.akamaized.net/
+#EXTINF:-1 group-title="Ayna By: @FREDFLIXTEM", Jamuna TV
+#EXTVLCOPT:http-referrer=https://cloudtv.akamaized.net/
+#EXTHTTP:{"referer": "https://cloudtv.akamaized.net/"}
+https://tvs1.aynaott.com/jamunatv/index.m3u8?hdnts=st=1734364904~exp=1734408104~acl=/byte-capsule/*~data=103.174.51.248-WEB~hmac=500cb020fb124c10c7749e55ee119b4107da4739519aa7dbb220fe42e8337a79|referer=https://cloudtv.akamaized.net/
+#EXTINF:-1 group-title="Ayna By: @FREDFLIXTEM", T Sports HD
+#EXTVLCOPT:http-referrer=https://cloudtv.akamaized.net/
+#EXTHTTP:{"referer": "https://cloudtv.akamaized.net/"}
+https://tvs1.aynaott.com/tsportsfhd/index.m3u8?hdnts=st=1734364904~exp=1734408104~acl=/byte-capsule/*~data=103.174.51.248-WEB~hmac=500cb020fb124c10c7749e55ee119b4107da4739519aa7dbb220fe42e8337a79|referer=https://cloudtv.akamaized.net/
+#EXTINF:-1 group-title="Ayna By: @FREDFLIXTEM", DBC News
+#EXTVLCOPT:http-referrer=https://cloudtv.akamaized.net/
+#EXTHTTP:{"referer": "https://cloudtv.akamaized.net/"}
+https://tvs1.aynaott.com/dbcnews/index.m3u8?hdnts=st=1734364904~exp=1734408104~acl=/byte-capsule/*~data=103.174.51.248-WEB~hmac=500cb020fb124c10c7749e55ee119b4107da4739519aa7dbb220fe42e8337a79|referer=https://cloudtv.akamaized.net/
+#EXTINF:-1 group-title="Ayna By: @FREDFLIXTEM", News 24
+#EXTVLCOPT:http-referrer=https://cloudtv.akamaized.net/
+#EXTHTTP:{"referer": "https://cloudtv.akamaized.net/"}
+https://tvs1.aynaott.com/news24/index.m3u8?hdnts=st=1734364904~exp=1734408104~acl=/byte-capsule/*~data=103.174.51.248-WEB~hmac=500cb020fb124c10c7749e55ee119b4107da4739519aa7dbb220fe42e8337a79|referer=https://cloudtv.akamaized.net/
+#EXTINF:-1 group-title="Ayna By: @FREDFLIXTEM", Movie Bangla
+#EXTVLCOPT:http-referrer=https://cloudtv.akamaized.net/
+#EXTHTTP:{"referer": "https://cloudtv.akamaized.net/"}
+https://tvs1.aynaott.com/moviebangla/index.m3u8?hdnts=st=1734364904~exp=1734408104~acl=/byte-capsule/*~data=103.174.51.248-WEB~hmac=500cb020fb124c10c7749e55ee119b4107da4739519aa7dbb220fe42e8337a79|referer=https://cloudtv.akamaized.net/
+#EXTINF:-1 group-title="Ayna By: @FREDFLIXTEM", Bangla TV
+#EXTVLCOPT:http-referrer=https://cloudtv.akamaized.net/
+#EXTHTTP:{"referer": "https://cloudtv.akamaized.net/"}
+https://tvs1.aynaott.com/banglatv/index.m3u8?hdnts=st=1734364904~exp=1734408104~acl=/byte-capsule/*~data=103.174.51.248-WEB~hmac=500cb020fb124c10c7749e55ee119b4107da4739519aa7dbb220fe42e8337a79|referer=https://cloudtv.akamaized.net/
+#EXTINF:-1 group-title="Ayna By: @FREDFLIXTEM", Nexus TV
+#EXTVLCOPT:http-referrer=https://cloudtv.akamaized.net/
+#EXTHTTP:{"referer": "https://cloudtv.akamaized.net/"}
+https://tvs1.aynaott.com/nexustv/index.m3u8?hdnts=st=1734364904~exp=1734408104~acl=/byte-capsule/*~data=103.174.51.248-WEB~hmac=500cb020fb124c10c7749e55ee119b4107da4739519aa7dbb220fe42e8337a79|referer=https://cloudtv.akamaized.net/
+#EXTINF:-1 group-title="Ayna By: @FREDFLIXTEM", Ananda TV
+#EXTVLCOPT:http-referrer=https://cloudtv.akamaized.net/
+#EXTHTTP:{"referer": "https://cloudtv.akamaized.net/"}
+https://tvs1.aynaott.com/anandatv/index.m3u8?hdnts=st=1734364904~exp=1734408104~acl=/byte-capsule/*~data=103.174.51.248-WEB~hmac=500cb020fb124c10c7749e55ee119b4107da4739519aa7dbb220fe42e8337a79|referer=https://cloudtv.akamaized.net/
+#EXTINF:-1 group-title="Ayna By: @FREDFLIXTEM", Global TV
+#EXTVLCOPT:http-referrer=https://cloudtv.akamaized.net/
+#EXTHTTP:{"referer": "https://cloudtv.akamaized.net/"}
+https://tvs1.aynaott.com/globaltvhd/index.m3u8?hdnts=st=1734364904~exp=1734408104~acl=/byte-capsule/*~data=103.174.51.248-WEB~hmac=500cb020fb124c10c7749e55ee119b4107da4739519aa7dbb220fe42e8337a79|referer=https://cloudtv.akamaized.net/
+#EXTINF:-1 group-title="Ayna By: @FREDFLIXTEM", Duronto TV
+#EXTVLCOPT:http-referrer=https://cloudtv.akamaized.net/
+#EXTHTTP:{"referer": "https://cloudtv.akamaized.net/"}
+https://tvs1.aynaott.com/durontotv/index.m3u8?hdnts=st=1734364904~exp=1734408104~acl=/byte-capsule/*~data=103.174.51.248-WEB~hmac=500cb020fb124c10c7749e55ee119b4107da4739519aa7dbb220fe42e8337a79|referer=https://cloudtv.akamaized.net/
+#EXTINF:-1 group-title="Ayna By: @FREDFLIXTEM", IQRA Bangla TV
+#EXTVLCOPT:http-referrer=https://cloudtv.akamaized.net/
+#EXTHTTP:{"referer": "https://cloudtv.akamaized.net/"}
+https://tvs2.aynaott.com/iqrabangla/index.m3u8?hdnts=st=1734364904~exp=1734408104~acl=/byte-capsule/*~data=103.174.51.248-WEB~hmac=500cb020fb124c10c7749e55ee119b4107da4739519aa7dbb220fe42e8337a79|referer=https://cloudtv.akamaized.net/
+#EXTINF:-1 group-title="Ayna By: @FREDFLIXTEM", Sangeet Bangla
+#EXTVLCOPT:http-referrer=https://cloudtv.akamaized.net/
+#EXTHTTP:{"referer": "https://cloudtv.akamaized.net/"}
+https://tvs1.aynaott.com/SangeetBangla/index.m3u8?hdnts=st=1734364904~exp=1734408104~acl=/byte-capsule/*~data=103.174.51.248-WEB~hmac=500cb020fb124c10c7749e55ee119b4107da4739519aa7dbb220fe42e8337a79|referer=https://cloudtv.akamaized.net/
+#EXTINF:-1 group-title="Ayna By: @FREDFLIXTEM", B4U Music
+#EXTVLCOPT:http-referrer=https://cloudtv.akamaized.net/
+#EXTHTTP:{"referer": "https://cloudtv.akamaized.net/"}
+https://tvs1.aynaott.com/b4umusic/index.m3u8?hdnts=st=1734364904~exp=1734408104~acl=/byte-capsule/*~data=103.174.51.248-WEB~hmac=500cb020fb124c10c7749e55ee119b4107da4739519aa7dbb220fe42e8337a79|referer=https://cloudtv.akamaized.net/
+#EXTINF:-1 group-title="Ayna By: @FREDFLIXTEM", Ekhon TV
+#EXTVLCOPT:http-referrer=https://cloudtv.akamaized.net/
+#EXTHTTP:{"referer": "https://cloudtv.akamaized.net/"}
+https://tvs1.aynaott.com/ekhontv/index.m3u8?hdnts=st=1734364904~exp=1734408104~acl=/byte-capsule/*~data=103.174.51.248-WEB~hmac=500cb020fb124c10c7749e55ee119b4107da4739519aa7dbb220fe42e8337a79|referer=https://cloudtv.akamaized.net/
+#EXTINF:-1 group-title="Ayna By: @FREDFLIXTEM", Medibiz TV
+#EXTVLCOPT:http-referrer=https://cloudtv.akamaized.net/
+#EXTHTTP:{"referer": "https://cloudtv.akamaized.net/"}
+https://tvs1.aynaott.com/medibiztv/index.m3u8?hdnts=st=1734364904~exp=1734408104~acl=/byte-capsule/*~data=103.174.51.248-WEB~hmac=500cb020fb124c10c7749e55ee119b4107da4739519aa7dbb220fe42e8337a79|referer=https://cloudtv.akamaized.net/
+#EXTINF:-1 group-title="Ayna By: @FREDFLIXTEM", Star Sports 2 HD
+#EXTVLCOPT:http-referrer=https://cloudtv.akamaized.net/
+#EXTHTTP:{"referer": "https://cloudtv.akamaized.net/"}
+https://tvs2.aynaott.com/ssport2hd/index.m3u8?hdnts=st=1734364904~exp=1734408104~acl=/byte-capsule/*~data=103.174.51.248-WEB~hmac=500cb020fb124c10c7749e55ee119b4107da4739519aa7dbb220fe42e8337a79|referer=https://cloudtv.akamaized.net/
+#EXTINF:-1 group-title="Ayna By: @FREDFLIXTEM", Sky News
+#EXTVLCOPT:http-referrer=https://cloudtv.akamaized.net/
+#EXTHTTP:{"referer": "https://cloudtv.akamaized.net/"}
+https://tvs2.aynaott.com/skynews/index.m3u8?hdnts=st=1734364904~exp=1734408104~acl=/byte-capsule/*~data=103.174.51.248-WEB~hmac=500cb020fb124c10c7749e55ee119b4107da4739519aa7dbb220fe42e8337a79|referer=https://cloudtv.akamaized.net/
+#EXTINF:-1 group-title="Ayna By: @FREDFLIXTEM", History Channel
+#EXTVLCOPT:http-referrer=https://cloudtv.akamaized.net/
+#EXTHTTP:{"referer": "https://cloudtv.akamaized.net/"}
+https://tvs2.aynaott.com/historyen/index.m3u8?hdnts=st=1734364904~exp=1734408104~acl=/byte-capsule/*~data=103.174.51.248-WEB~hmac=500cb020fb124c10c7749e55ee119b4107da4739519aa7dbb220fe42e8337a79|referer=https://cloudtv.akamaized.net/
+#EXTINF:-1 group-title="Ayna By: @FREDFLIXTEM", Star Sport Select 1
+#EXTVLCOPT:http-referrer=https://cloudtv.akamaized.net/
+#EXTHTTP:{"referer": "https://cloudtv.akamaized.net/"}
+https://tvs3.aynaott.com/ssps1hd/index.m3u8?hdnts=st=1734364904~exp=1734408104~acl=/byte-capsule/*~data=103.174.51.248-WEB~hmac=500cb020fb124c10c7749e55ee119b4107da4739519aa7dbb220fe42e8337a79|referer=https://cloudtv.akamaized.net/
+#EXTINF:-1 group-title="Ayna By: @FREDFLIXTEM", Star Sport Select 2
+#EXTVLCOPT:http-referrer=https://cloudtv.akamaized.net/
+#EXTHTTP:{"referer": "https://cloudtv.akamaized.net/"}
+https://tvs3.aynaott.com/ssps2hd/index.m3u8?hdnts=st=1734364904~exp=1734408104~acl=/byte-capsule/*~data=103.174.51.248-WEB~hmac=500cb020fb124c10c7749e55ee119b4107da4739519aa7dbb220fe42e8337a79|referer=https://cloudtv.akamaized.net/
+#EXTINF:-1 group-title="Ayna By: @FREDFLIXTEM", MTV
+#EXTVLCOPT:http-referrer=https://cloudtv.akamaized.net/
+#EXTHTTP:{"referer": "https://cloudtv.akamaized.net/"}
+https://tvs1.aynaott.com/mtv/index.m3u8?hdnts=st=1734364904~exp=1734408104~acl=/byte-capsule/*~data=103.174.51.248-WEB~hmac=500cb020fb124c10c7749e55ee119b4107da4739519aa7dbb220fe42e8337a79|referer=https://cloudtv.akamaized.net/
+#EXTINF:-1 group-title="Ayna By: @FREDFLIXTEM", Peace TV English HD
+#EXTVLCOPT:http-referrer=https://cloudtv.akamaized.net/
+#EXTHTTP:{"referer": "https://cloudtv.akamaized.net/"}
+https://tvs3.aynaott.com/peacetv/index.m3u8?hdnts=st=1734364904~exp=1734408104~acl=/byte-capsule/*~data=103.174.51.248-WEB~hmac=500cb020fb124c10c7749e55ee119b4107da4739519aa7dbb220fe42e8337a79|referer=https://cloudtv.akamaized.net/
+#EXTINF:-1 group-title="Ayna By: @FREDFLIXTEM", Discovery Kids
+#EXTVLCOPT:http-referrer=https://cloudtv.akamaized.net/
+#EXTHTTP:{"referer": "https://cloudtv.akamaized.net/"}
+https://tvs1.aynaott.com/discovery_kids/index.m3u8?hdnts=st=1734364904~exp=1734408104~acl=/byte-capsule/*~data=103.174.51.248-WEB~hmac=500cb020fb124c10c7749e55ee119b4107da4739519aa7dbb220fe42e8337a79|referer=https://cloudtv.akamaized.net/
+#EXTINF:-1 group-title="Ayna By: @FREDFLIXTEM", Discovery Turbo
+#EXTVLCOPT:http-referrer=https://cloudtv.akamaized.net/
+#EXTHTTP:{"referer": "https://cloudtv.akamaized.net/"}
+https://tvs1.aynaott.com/discovery_turbo/index.m3u8?hdnts=st=1734364904~exp=1734408104~acl=/byte-capsule/*~data=103.174.51.248-WEB~hmac=500cb020fb124c10c7749e55ee119b4107da4739519aa7dbb220fe42e8337a79|referer=https://cloudtv.akamaized.net/
+#EXTINF:-1 group-title="Ayna By: @FREDFLIXTEM", Discovery Science
+#EXTVLCOPT:http-referrer=https://cloudtv.akamaized.net/
+#EXTHTTP:{"referer": "https://cloudtv.akamaized.net/"}
+https://tvs1.aynaott.com/discovery_science/index.m3u8?hdnts=st=1734364904~exp=1734408104~acl=/byte-capsule/*~data=103.174.51.248-WEB~hmac=500cb020fb124c10c7749e55ee119b4107da4739519aa7dbb220fe42e8337a79|referer=https://cloudtv.akamaized.net/
+#EXTINF:-1 group-title="Ayna By: @FREDFLIXTEM", Animal Planet HD
+#EXTVLCOPT:http-referrer=https://cloudtv.akamaized.net/
+#EXTHTTP:{"referer": "https://cloudtv.akamaized.net/"}
+https://tvs1.aynaott.com/animal_planet_hd/index.m3u8?hdnts=st=1734364904~exp=1734408104~acl=/byte-capsule/*~data=103.174.51.248-WEB~hmac=500cb020fb124c10c7749e55ee119b4107da4739519aa7dbb220fe42e8337a79|referer=https://cloudtv.akamaized.net/
+#EXTINF:-1 group-title="Ayna By: @FREDFLIXTEM", Investigation Discovery HD
+#EXTVLCOPT:http-referrer=https://cloudtv.akamaized.net/
+#EXTHTTP:{"referer": "https://cloudtv.akamaized.net/"}
+https://tvs1.aynaott.com/id_hd_source/index.m3u8?hdnts=st=1734364904~exp=1734408104~acl=/byte-capsule/*~data=103.174.51.248-WEB~hmac=500cb020fb124c10c7749e55ee119b4107da4739519aa7dbb220fe42e8337a79|referer=https://cloudtv.akamaized.net/
+#EXTINF:-1 group-title="Ayna By: @FREDFLIXTEM", TLC HD
+#EXTVLCOPT:http-referrer=https://cloudtv.akamaized.net/
+#EXTHTTP:{"referer": "https://cloudtv.akamaized.net/"}
+https://tvs1.aynaott.com/tlc_hd/index.m3u8?hdnts=st=1734364904~exp=1734408104~acl=/byte-capsule/*~data=103.174.51.248-WEB~hmac=500cb020fb124c10c7749e55ee119b4107da4739519aa7dbb220fe42e8337a79|referer=https://cloudtv.akamaized.net/
+#EXTINF:-1 group-title="Ayna By: @FREDFLIXTEM", Discovery HD
+#EXTVLCOPT:http-referrer=https://cloudtv.akamaized.net/
+#EXTHTTP:{"referer": "https://cloudtv.akamaized.net/"}
+https://tvs1.aynaott.com/discovery_hd/index.m3u8?hdnts=st=1734364904~exp=1734408104~acl=/byte-capsule/*~data=103.174.51.248-WEB~hmac=500cb020fb124c10c7749e55ee119b4107da4739519aa7dbb220fe42e8337a79|referer=https://cloudtv.akamaized.net/
+#EXTINF:-1 group-title="Ayna By: @FREDFLIXTEM", Aljazeera News
+#EXTVLCOPT:http-referrer=https://cloudtv.akamaized.net/
+#EXTHTTP:{"referer": "https://cloudtv.akamaized.net/"}
+https://tvs1.aynaott.com/aljazeera/index.m3u8?hdnts=st=1734364904~exp=1734408104~acl=/byte-capsule/*~data=103.174.51.248-WEB~hmac=500cb020fb124c10c7749e55ee119b4107da4739519aa7dbb220fe42e8337a79|referer=https://cloudtv.akamaized.net/
+#EXTINF:-1 group-title="Ayna By: @FREDFLIXTEM", DW
+#EXTVLCOPT:http-referrer=https://cloudtv.akamaized.net/
+#EXTHTTP:{"referer": "https://cloudtv.akamaized.net/"}
+https://tvs1.aynaott.com/dwnews/index.m3u8?hdnts=st=1734364904~exp=1734408104~acl=/byte-capsule/*~data=103.174.51.248-WEB~hmac=500cb020fb124c10c7749e55ee119b4107da4739519aa7dbb220fe42e8337a79|referer=https://cloudtv.akamaized.net/
+#EXTINF:-1 group-title="Ayna By: @FREDFLIXTEM", NHK World Japan
+#EXTVLCOPT:http-referrer=https://cloudtv.akamaized.net/
+#EXTHTTP:{"referer": "https://cloudtv.akamaized.net/"}
+https://tvs1.aynaott.com/nhkworld/index.m3u8?hdnts=st=1734364904~exp=1734408104~acl=/byte-capsule/*~data=103.174.51.248-WEB~hmac=500cb020fb124c10c7749e55ee119b4107da4739519aa7dbb220fe42e8337a79|referer=https://cloudtv.akamaized.net/
+#EXTINF:-1 group-title="Ayna By: @FREDFLIXTEM", TRT World
+#EXTVLCOPT:http-referrer=https://cloudtv.akamaized.net/
+#EXTHTTP:{"referer": "https://cloudtv.akamaized.net/"}
+https://tvs2.aynaott.com/TRTWorldHD/index.m3u8?hdnts=st=1734364904~exp=1734408104~acl=/byte-capsule/*~data=103.174.51.248-WEB~hmac=500cb020fb124c10c7749e55ee119b4107da4739519aa7dbb220fe42e8337a79|referer=https://cloudtv.akamaized.net/
+#EXTINF:-1 group-title="Ayna By: @FREDFLIXTEM", CNN
+#EXTVLCOPT:http-referrer=https://cloudtv.akamaized.net/
+#EXTHTTP:{"referer": "https://cloudtv.akamaized.net/"}
+https://tvs1.aynaott.com/cnn/index.m3u8?hdnts=st=1734364904~exp=1734408104~acl=/byte-capsule/*~data=103.174.51.248-WEB~hmac=500cb020fb124c10c7749e55ee119b4107da4739519aa7dbb220fe42e8337a79|referer=https://cloudtv.akamaized.net/
+#EXTINF:-1 group-title="Ayna By: @FREDFLIXTEM", BBC News
+#EXTVLCOPT:http-referrer=https://cloudtv.akamaized.net/
+#EXTHTTP:{"referer": "https://cloudtv.akamaized.net/"}
+https://tvs1.aynaott.com/bbcnews/index.m3u8?hdnts=st=1734364904~exp=1734408104~acl=/byte-capsule/*~data=103.174.51.248-WEB~hmac=500cb020fb124c10c7749e55ee119b4107da4739519aa7dbb220fe42e8337a79|referer=https://cloudtv.akamaized.net/
+#EXTINF:-1 group-title="Ayna By: @FREDFLIXTEM", Cartoon Network
+#EXTVLCOPT:http-referrer=https://cloudtv.akamaized.net/
+#EXTHTTP:{"referer": "https://cloudtv.akamaized.net/"}
+https://tvs2.aynaott.com/cartoonnetwork/index.m3u8?hdnts=st=1734364904~exp=1734408104~acl=/byte-capsule/*~data=103.174.51.248-WEB~hmac=500cb020fb124c10c7749e55ee119b4107da4739519aa7dbb220fe42e8337a79|referer=https://cloudtv.akamaized.net/
+#EXTINF:-1 group-title="Ayna By: @FREDFLIXTEM", PBS Kids
+#EXTVLCOPT:http-referrer=https://cloudtv.akamaized.net/
+#EXTHTTP:{"referer": "https://cloudtv.akamaized.net/"}
+https://tvs2.aynaott.com/pbskids/index.m3u8?hdnts=st=1734364904~exp=1734408104~acl=/byte-capsule/*~data=103.174.51.248-WEB~hmac=500cb020fb124c10c7749e55ee119b4107da4739519aa7dbb220fe42e8337a79|referer=https://cloudtv.akamaized.net/
+#EXTINF:-1 group-title="Ayna By: @FREDFLIXTEM", WION
+#EXTVLCOPT:http-referrer=https://cloudtv.akamaized.net/
+#EXTHTTP:{"referer": "https://cloudtv.akamaized.net/"}
+https://tvs3.aynaott.com/wion/index.m3u8?hdnts=st=1734364904~exp=1734408104~acl=/byte-capsule/*~data=103.174.51.248-WEB~hmac=500cb020fb124c10c7749e55ee119b4107da4739519aa7dbb220fe42e8337a79|referer=https://cloudtv.akamaized.net/
+#EXTINF:-1 group-title="Ayna By: @FREDFLIXTEM", HBO
+#EXTVLCOPT:http-referrer=https://cloudtv.akamaized.net/
+#EXTHTTP:{"referer": "https://cloudtv.akamaized.net/"}
+https://tvs2.aynaott.com/hbo/index.m3u8?hdnts=st=1734364904~exp=1734408104~acl=/byte-capsule/*~data=103.174.51.248-WEB~hmac=500cb020fb124c10c7749e55ee119b4107da4739519aa7dbb220fe42e8337a79|referer=https://cloudtv.akamaized.net/
+#EXTINF:-1 group-title="Ayna By: @FREDFLIXTEM", Disney Channel
+#EXTVLCOPT:http-referrer=https://cloudtv.akamaized.net/
+#EXTHTTP:{"referer": "https://cloudtv.akamaized.net/"}
+https://tvs2.aynaott.com/disney/index.m3u8?hdnts=st=1734364904~exp=1734408104~acl=/byte-capsule/*~data=103.174.51.248-WEB~hmac=500cb020fb124c10c7749e55ee119b4107da4739519aa7dbb220fe42e8337a79|referer=https://cloudtv.akamaized.net/
+#EXTINF:-1 group-title="Ayna By: @FREDFLIXTEM", ZEE 24 Ghanta
+#EXTVLCOPT:http-referrer=https://cloudtv.akamaized.net/
+#EXTHTTP:{"referer": "https://cloudtv.akamaized.net/"}
+https://tvs1.aynaott.com/zee24/index.m3u8?hdnts=st=1734364904~exp=1734408104~acl=/byte-capsule/*~data=103.174.51.248-WEB~hmac=500cb020fb124c10c7749e55ee119b4107da4739519aa7dbb220fe42e8337a79|referer=https://cloudtv.akamaized.net/
+#EXTINF:-1 group-title="Ayna By: @FREDFLIXTEM", ZEE News
+#EXTVLCOPT:http-referrer=https://cloudtv.akamaized.net/
+#EXTHTTP:{"referer": "https://cloudtv.akamaized.net/"}
+https://tvs1.aynaott.com/zeenews/index.m3u8?hdnts=st=1734364904~exp=1734408104~acl=/byte-capsule/*~data=103.174.51.248-WEB~hmac=500cb020fb124c10c7749e55ee119b4107da4739519aa7dbb220fe42e8337a79|referer=https://cloudtv.akamaized.net/
+#EXTINF:-1 group-title="Ayna By: @FREDFLIXTEM", Zee Cinema HD
+#EXTVLCOPT:http-referrer=https://cloudtv.akamaized.net/
+#EXTHTTP:{"referer": "https://cloudtv.akamaized.net/"}
+https://tvs1.aynaott.com/ZeeCinemaHD/index.m3u8?hdnts=st=1734364904~exp=1734408104~acl=/byte-capsule/*~data=103.174.51.248-WEB~hmac=500cb020fb124c10c7749e55ee119b4107da4739519aa7dbb220fe42e8337a79|referer=https://cloudtv.akamaized.net/
+#EXTINF:-1 group-title="Ayna By: @FREDFLIXTEM", Nat Geo TV
+#EXTVLCOPT:http-referrer=https://cloudtv.akamaized.net/
+#EXTHTTP:{"referer": "https://cloudtv.akamaized.net/"}
+https://tvs1.aynaott.com/natgeo/index.m3u8?hdnts=st=1734364904~exp=1734408104~acl=/byte-capsule/*~data=103.174.51.248-WEB~hmac=500cb020fb124c10c7749e55ee119b4107da4739519aa7dbb220fe42e8337a79|referer=https://cloudtv.akamaized.net/
+#EXTINF:-1 group-title="Ayna By: @FREDFLIXTEM", beIN SPORTS
+#EXTVLCOPT:http-referrer=https://cloudtv.akamaized.net/
+#EXTHTTP:{"referer": "https://cloudtv.akamaized.net/"}
+https://tvs1.aynaott.com/beinsports/index.m3u8?hdnts=st=1734364904~exp=1734408104~acl=/byte-capsule/*~data=103.174.51.248-WEB~hmac=500cb020fb124c10c7749e55ee119b4107da4739519aa7dbb220fe42e8337a79|referer=https://cloudtv.akamaized.net/
+#EXTINF:-1 group-title="Ayna By: @FREDFLIXTEM", Nicktoons
+#EXTVLCOPT:http-referrer=https://cloudtv.akamaized.net/
+#EXTHTTP:{"referer": "https://cloudtv.akamaized.net/"}
+https://tvs2.aynaott.com/nicktoons/index.m3u8?hdnts=st=1734364904~exp=1734408104~acl=/byte-capsule/*~data=103.174.51.248-WEB~hmac=500cb020fb124c10c7749e55ee119b4107da4739519aa7dbb220fe42e8337a79|referer=https://cloudtv.akamaized.net/
+#EXTINF:-1 group-title="Ayna By: @FREDFLIXTEM", Nick Jr.
+#EXTVLCOPT:http-referrer=https://cloudtv.akamaized.net/
+#EXTHTTP:{"referer": "https://cloudtv.akamaized.net/"}
+https://tvs2.aynaott.com/nickjr/index.m3u8?hdnts=st=1734364904~exp=1734408104~acl=/byte-capsule/*~data=103.174.51.248-WEB~hmac=500cb020fb124c10c7749e55ee119b4107da4739519aa7dbb220fe42e8337a79|referer=https://cloudtv.akamaized.net/
+#EXTINF:-1 group-title="Ayna By: @FREDFLIXTEM", BabyTV
+#EXTVLCOPT:http-referrer=https://cloudtv.akamaized.net/
+#EXTHTTP:{"referer": "https://cloudtv.akamaized.net/"}
+https://tvs1.aynaott.com/babytv/index.m3u8?hdnts=st=1734364904~exp=1734408104~acl=/byte-capsule/*~data=103.174.51.248-WEB~hmac=500cb020fb124c10c7749e55ee119b4107da4739519aa7dbb220fe42e8337a79|referer=https://cloudtv.akamaized.net/
+#EXTINF:-1 group-title="Ayna By: @FREDFLIXTEM", BBC America
+#EXTVLCOPT:http-referrer=https://cloudtv.akamaized.net/
+#EXTHTTP:{"referer": "https://cloudtv.akamaized.net/"}
+https://tvs1.aynaott.com/bbcamerica/index.m3u8?hdnts=st=1734364904~exp=1734408104~acl=/byte-capsule/*~data=103.174.51.248-WEB~hmac=500cb020fb124c10c7749e55ee119b4107da4739519aa7dbb220fe42e8337a79|referer=https://cloudtv.akamaized.net/
+#EXTINF:-1 group-title="Ayna By: @FREDFLIXTEM", Bloomberg TV
+#EXTVLCOPT:http-referrer=https://cloudtv.akamaized.net/
+#EXTHTTP:{"referer": "https://cloudtv.akamaized.net/"}
+https://tvs1.aynaott.com/bloombergtv/index.m3u8?hdnts=st=1734364904~exp=1734408104~acl=/byte-capsule/*~data=103.174.51.248-WEB~hmac=500cb020fb124c10c7749e55ee119b4107da4739519aa7dbb220fe42e8337a79|referer=https://cloudtv.akamaized.net/
+#EXTINF:-1 group-title="Ayna By: @FREDFLIXTEM", Willow HD TV
+#EXTVLCOPT:http-referrer=https://cloudtv.akamaized.net/
+#EXTHTTP:{"referer": "https://cloudtv.akamaized.net/"}
+https://tvs3.aynaott.com/rEBp38Ax/index.m3u8?hdnts=st=1734364904~exp=1734408104~acl=/byte-capsule/*~data=103.174.51.248-WEB~hmac=500cb020fb124c10c7749e55ee119b4107da4739519aa7dbb220fe42e8337a79|referer=https://cloudtv.akamaized.net/
+#EXTINF:-1 group-title="Ayna By: @FREDFLIXTEM", ESPN
+#EXTVLCOPT:http-referrer=https://cloudtv.akamaized.net/
+#EXTHTTP:{"referer": "https://cloudtv.akamaized.net/"}
+https://tvs3.aynaott.com/espn/index.m3u8?hdnts=st=1734364904~exp=1734408104~acl=/byte-capsule/*~data=103.174.51.248-WEB~hmac=500cb020fb124c10c7749e55ee119b4107da4739519aa7dbb220fe42e8337a79|referer=https://cloudtv.akamaized.net/
+#EXTINF:-1 group-title="Ayna By: @FREDFLIXTEM", TSN 1
+#EXTVLCOPT:http-referrer=https://cloudtv.akamaized.net/
+#EXTHTTP:{"referer": "https://cloudtv.akamaized.net/"}
+https://tvs2.aynaott.com/tsn1/index.m3u8?hdnts=st=1734364904~exp=1734408104~acl=/byte-capsule/*~data=103.174.51.248-WEB~hmac=500cb020fb124c10c7749e55ee119b4107da4739519aa7dbb220fe42e8337a79|referer=https://cloudtv.akamaized.net/
+#EXTINF:-1 group-title="Ayna By: @FREDFLIXTEM", TSN 2
+#EXTVLCOPT:http-referrer=https://cloudtv.akamaized.net/
+#EXTHTTP:{"referer": "https://cloudtv.akamaized.net/"}
+https://tvs2.aynaott.com/tsn2/index.m3u8?hdnts=st=1734364904~exp=1734408104~acl=/byte-capsule/*~data=103.174.51.248-WEB~hmac=500cb020fb124c10c7749e55ee119b4107da4739519aa7dbb220fe42e8337a79|referer=https://cloudtv.akamaized.net/
+#EXTINF:-1 group-title="Ayna By: @FREDFLIXTEM", TSN 3
+#EXTVLCOPT:http-referrer=https://cloudtv.akamaized.net/
+#EXTHTTP:{"referer": "https://cloudtv.akamaized.net/"}
+https://tvs2.aynaott.com/tsn3/index.m3u8?hdnts=st=1734364904~exp=1734408104~acl=/byte-capsule/*~data=103.174.51.248-WEB~hmac=500cb020fb124c10c7749e55ee119b4107da4739519aa7dbb220fe42e8337a79|referer=https://cloudtv.akamaized.net/
+#EXTINF:-1 group-title="Ayna By: @FREDFLIXTEM", BT Sport 1
+#EXTVLCOPT:http-referrer=https://cloudtv.akamaized.net/
+#EXTHTTP:{"referer": "https://cloudtv.akamaized.net/"}
+https://tvs1.aynaott.com/btSport1/index.m3u8?hdnts=st=1734364904~exp=1734408104~acl=/byte-capsule/*~data=103.174.51.248-WEB~hmac=500cb020fb124c10c7749e55ee119b4107da4739519aa7dbb220fe42e8337a79|referer=https://cloudtv.akamaized.net/
+#EXTINF:-1 group-title="Ayna By: @FREDFLIXTEM", BT Sport 2
+#EXTVLCOPT:http-referrer=https://cloudtv.akamaized.net/
+#EXTHTTP:{"referer": "https://cloudtv.akamaized.net/"}
+https://tvs1.aynaott.com/btSport2/index.m3u8?hdnts=st=1734364904~exp=1734408104~acl=/byte-capsule/*~data=103.174.51.248-WEB~hmac=500cb020fb124c10c7749e55ee119b4107da4739519aa7dbb220fe42e8337a79|referer=https://cloudtv.akamaized.net/
+#EXTINF:-1 group-title="Ayna By: @FREDFLIXTEM", Fox Sports 1
+#EXTVLCOPT:http-referrer=https://cloudtv.akamaized.net/
+#EXTHTTP:{"referer": "https://cloudtv.akamaized.net/"}
+https://tvs3.aynaott.com/foxsports1/index.m3u8?hdnts=st=1734364904~exp=1734408104~acl=/byte-capsule/*~data=103.174.51.248-WEB~hmac=500cb020fb124c10c7749e55ee119b4107da4739519aa7dbb220fe42e8337a79|referer=https://cloudtv.akamaized.net/
+#EXTINF:-1 group-title="Ayna By: @FREDFLIXTEM", Fox Sports 2
+#EXTVLCOPT:http-referrer=https://cloudtv.akamaized.net/
+#EXTHTTP:{"referer": "https://cloudtv.akamaized.net/"}
+https://tvs3.aynaott.com/foxsports2/index.m3u8?hdnts=st=1734364904~exp=1734408104~acl=/byte-capsule/*~data=103.174.51.248-WEB~hmac=500cb020fb124c10c7749e55ee119b4107da4739519aa7dbb220fe42e8337a79|referer=https://cloudtv.akamaized.net/
+#EXTINF:-1 group-title="Ayna By: @FREDFLIXTEM", Movie live
+#EXTVLCOPT:http-referrer=https://cloudtv.akamaized.net/
+#EXTHTTP:{"referer": "https://cloudtv.akamaized.net/"}
+https://tvs2.aynaott.com/Movielive/index.m3u8?hdnts=st=1734364904~exp=1734408104~acl=/byte-capsule/*~data=103.174.51.248-WEB~hmac=500cb020fb124c10c7749e55ee119b4107da4739519aa7dbb220fe42e8337a79|referer=https://cloudtv.akamaized.net/
+#EXTINF:-1 group-title="Ayna By: @FREDFLIXTEM", Mastiii Music
+#EXTVLCOPT:http-referrer=https://cloudtv.akamaized.net/
+#EXTHTTP:{"referer": "https://cloudtv.akamaized.net/"}
+https://tvs1.aynaott.com/mastimusic/index.m3u8?hdnts=st=1734364904~exp=1734408104~acl=/byte-capsule/*~data=103.174.51.248-WEB~hmac=500cb020fb124c10c7749e55ee119b4107da4739519aa7dbb220fe42e8337a79|referer=https://cloudtv.akamaized.net/
+#EXTINF:-1 group-title="Ayna By: @FREDFLIXTEM", 9XM
+#EXTVLCOPT:http-referrer=https://cloudtv.akamaized.net/
+#EXTHTTP:{"referer": "https://cloudtv.akamaized.net/"}
+https://tvs1.aynaott.com/9xm/index.m3u8?hdnts=st=1734364904~exp=1734408104~acl=/byte-capsule/*~data=103.174.51.248-WEB~hmac=500cb020fb124c10c7749e55ee119b4107da4739519aa7dbb220fe42e8337a79|referer=https://cloudtv.akamaized.net/
+#EXTINF:-1 group-title="Ayna By: @FREDFLIXTEM", 9x Jalwa
+#EXTVLCOPT:http-referrer=https://cloudtv.akamaized.net/
+#EXTHTTP:{"referer": "https://cloudtv.akamaized.net/"}
+https://tvs1.aynaott.com/9xjalwa/index.m3u8?hdnts=st=1734364904~exp=1734408104~acl=/byte-capsule/*~data=103.174.51.248-WEB~hmac=500cb020fb124c10c7749e55ee119b4107da4739519aa7dbb220fe42e8337a79|referer=https://cloudtv.akamaized.net/
+#EXTINF:-1 group-title="Ayna By: @FREDFLIXTEM", Disney XD
+#EXTVLCOPT:http-referrer=https://cloudtv.akamaized.net/
+#EXTHTTP:{"referer": "https://cloudtv.akamaized.net/"}
+https://tvs3.aynaott.com/disneyXD/index.m3u8?hdnts=st=1734364904~exp=1734408104~acl=/byte-capsule/*~data=103.174.51.248-WEB~hmac=500cb020fb124c10c7749e55ee119b4107da4739519aa7dbb220fe42e8337a79|referer=https://cloudtv.akamaized.net/
+#EXTINF:-1 group-title="Ayna By: @FREDFLIXTEM", Fox News
+#EXTVLCOPT:http-referrer=https://cloudtv.akamaized.net/
+#EXTHTTP:{"referer": "https://cloudtv.akamaized.net/"}
+https://tvs1.aynaott.com/foxnews/index.m3u8?hdnts=st=1734364904~exp=1734408104~acl=/byte-capsule/*~data=103.174.51.248-WEB~hmac=500cb020fb124c10c7749e55ee119b4107da4739519aa7dbb220fe42e8337a79|referer=https://cloudtv.akamaized.net/
+#EXTINF:-1 group-title="Ayna By: @FREDFLIXTEM", Travel XP
+#EXTVLCOPT:http-referrer=https://cloudtv.akamaized.net/
+#EXTHTTP:{"referer": "https://cloudtv.akamaized.net/"}
+https://tvs1.aynaott.com/travelxp/index.m3u8?hdnts=st=1734364904~exp=1734408104~acl=/byte-capsule/*~data=103.174.51.248-WEB~hmac=500cb020fb124c10c7749e55ee119b4107da4739519aa7dbb220fe42e8337a79|referer=https://cloudtv.akamaized.net/
+#EXTINF:-1 group-title="Ayna By: @FREDFLIXTEM", MSNBC News
+#EXTVLCOPT:http-referrer=https://cloudtv.akamaized.net/
+#EXTHTTP:{"referer": "https://cloudtv.akamaized.net/"}
+https://tvs1.aynaott.com/msnbc/index.m3u8?hdnts=st=1734364904~exp=1734408104~acl=/byte-capsule/*~data=103.174.51.248-WEB~hmac=500cb020fb124c10c7749e55ee119b4107da4739519aa7dbb220fe42e8337a79|referer=https://cloudtv.akamaized.net/
+#EXTINF:-1 group-title="Ayna By: @FREDFLIXTEM", Food Network
+#EXTVLCOPT:http-referrer=https://cloudtv.akamaized.net/
+#EXTHTTP:{"referer": "https://cloudtv.akamaized.net/"}
+https://tvs1.aynaott.com/foodnetwork/index.m3u8?hdnts=st=1734364904~exp=1734408104~acl=/byte-capsule/*~data=103.174.51.248-WEB~hmac=500cb020fb124c10c7749e55ee119b4107da4739519aa7dbb220fe42e8337a79|referer=https://cloudtv.akamaized.net/
+#EXTINF:-1 group-title="Ayna By: @FREDFLIXTEM", Makkah Live
+#EXTVLCOPT:http-referrer=https://cloudtv.akamaized.net/
+#EXTHTTP:{"referer": "https://cloudtv.akamaized.net/"}
+https://tvs1.aynaott.com/qurantv/index.m3u8?hdnts=st=1734364904~exp=1734408104~acl=/byte-capsule/*~data=103.174.51.248-WEB~hmac=500cb020fb124c10c7749e55ee119b4107da4739519aa7dbb220fe42e8337a79|referer=https://cloudtv.akamaized.net/
+#EXTINF:-1 group-title="Ayna By: @FREDFLIXTEM", Madina Live
+#EXTVLCOPT:http-referrer=https://cloudtv.akamaized.net/
+#EXTHTTP:{"referer": "https://cloudtv.akamaized.net/"}
+https://tvs1.aynaott.com/sunnahtv/index.m3u8?hdnts=st=1734364904~exp=1734408104~acl=/byte-capsule/*~data=103.174.51.248-WEB~hmac=500cb020fb124c10c7749e55ee119b4107da4739519aa7dbb220fe42e8337a79|referer=https://cloudtv.akamaized.net/
+#EXTINF:-1 group-title="Ayna By: @FREDFLIXTEM", 9x Jhakaas
+#EXTVLCOPT:http-referrer=https://cloudtv.akamaized.net/
+#EXTHTTP:{"referer": "https://cloudtv.akamaized.net/"}
+https://tvs1.aynaott.com/9X_Jhakaas/index.m3u8?hdnts=st=1734364904~exp=1734408104~acl=/byte-capsule/*~data=103.174.51.248-WEB~hmac=500cb020fb124c10c7749e55ee119b4107da4739519aa7dbb220fe42e8337a79|referer=https://cloudtv.akamaized.net/
+#EXTINF:-1 group-title="Ayna By: @FREDFLIXTEM", Aakaash 8
+#EXTVLCOPT:http-referrer=https://cloudtv.akamaized.net/
+#EXTHTTP:{"referer": "https://cloudtv.akamaized.net/"}
+https://tvs1.aynaott.com/aakaashBangla/index.m3u8?hdnts=st=1734364904~exp=1734408104~acl=/byte-capsule/*~data=103.174.51.248-WEB~hmac=500cb020fb124c10c7749e55ee119b4107da4739519aa7dbb220fe42e8337a79|referer=https://cloudtv.akamaized.net/
+#EXTINF:-1 group-title="Ayna By: @FREDFLIXTEM", Dhoom Music Bangla
+#EXTVLCOPT:http-referrer=https://cloudtv.akamaized.net/
+#EXTHTTP:{"referer": "https://cloudtv.akamaized.net/"}
+https://tvs1.aynaott.com/dhoom/index.m3u8?hdnts=st=1734364904~exp=1734408104~acl=/byte-capsule/*~data=103.174.51.248-WEB~hmac=500cb020fb124c10c7749e55ee119b4107da4739519aa7dbb220fe42e8337a79|referer=https://cloudtv.akamaized.net/
+#EXTINF:-1 group-title="Ayna By: @FREDFLIXTEM", HiDost
+#EXTVLCOPT:http-referrer=https://cloudtv.akamaized.net/
+#EXTHTTP:{"referer": "https://cloudtv.akamaized.net/"}
+https://tvs1.aynaott.com/HiDost/index.m3u8?hdnts=st=1734364904~exp=1734408104~acl=/byte-capsule/*~data=103.174.51.248-WEB~hmac=500cb020fb124c10c7749e55ee119b4107da4739519aa7dbb220fe42e8337a79|referer=https://cloudtv.akamaized.net/
+#EXTINF:-1 group-title="Ayna By: @FREDFLIXTEM", Manoranjan Movies
+#EXTVLCOPT:http-referrer=https://cloudtv.akamaized.net/
+#EXTHTTP:{"referer": "https://cloudtv.akamaized.net/"}
+https://tvs1.aynaott.com/ManoranjanMovies/index.m3u8?hdnts=st=1734364904~exp=1734408104~acl=/byte-capsule/*~data=103.174.51.248-WEB~hmac=500cb020fb124c10c7749e55ee119b4107da4739519aa7dbb220fe42e8337a79|referer=https://cloudtv.akamaized.net/
+#EXTINF:-1 group-title="Ayna By: @FREDFLIXTEM", Music India
+#EXTVLCOPT:http-referrer=https://cloudtv.akamaized.net/
+#EXTHTTP:{"referer": "https://cloudtv.akamaized.net/"}
+https://tvs1.aynaott.com/MusicIndia/index.m3u8?hdnts=st=1734364904~exp=1734408104~acl=/byte-capsule/*~data=103.174.51.248-WEB~hmac=500cb020fb124c10c7749e55ee119b4107da4739519aa7dbb220fe42e8337a79|referer=https://cloudtv.akamaized.net/
+#EXTINF:-1 group-title="Ayna By: @FREDFLIXTEM", News Time
+#EXTVLCOPT:http-referrer=https://cloudtv.akamaized.net/
+#EXTHTTP:{"referer": "https://cloudtv.akamaized.net/"}
+https://tvs1.aynaott.com/NewsTime/index.m3u8?hdnts=st=1734364904~exp=1734408104~acl=/byte-capsule/*~data=103.174.51.248-WEB~hmac=500cb020fb124c10c7749e55ee119b4107da4739519aa7dbb220fe42e8337a79|referer=https://cloudtv.akamaized.net/
+#EXTINF:-1 group-title="Ayna By: @FREDFLIXTEM", Rplus
+#EXTVLCOPT:http-referrer=https://cloudtv.akamaized.net/
+#EXTHTTP:{"referer": "https://cloudtv.akamaized.net/"}
+https://tvs1.aynaott.com/Rplus/index.m3u8?hdnts=st=1734364904~exp=1734408104~acl=/byte-capsule/*~data=103.174.51.248-WEB~hmac=500cb020fb124c10c7749e55ee119b4107da4739519aa7dbb220fe42e8337a79|referer=https://cloudtv.akamaized.net/
+#EXTINF:-1 group-title="Ayna By: @FREDFLIXTEM", Anjan TV
+#EXTVLCOPT:http-referrer=https://cloudtv.akamaized.net/
+#EXTHTTP:{"referer": "https://cloudtv.akamaized.net/"}
+https://tvs2.aynaott.com/AnjanTV/index.m3u8?hdnts=st=1734364904~exp=1734408104~acl=/byte-capsule/*~data=103.174.51.248-WEB~hmac=500cb020fb124c10c7749e55ee119b4107da4739519aa7dbb220fe42e8337a79|referer=https://cloudtv.akamaized.net/
+#EXTINF:-1 group-title="Ayna By: @FREDFLIXTEM", Rupshi Bangla
+#EXTVLCOPT:http-referrer=https://cloudtv.akamaized.net/
+#EXTHTTP:{"referer": "https://cloudtv.akamaized.net/"}
+https://tvs1.aynaott.com/RupshiBangla/index.m3u8?hdnts=st=1734364904~exp=1734408104~acl=/byte-capsule/*~data=103.174.51.248-WEB~hmac=500cb020fb124c10c7749e55ee119b4107da4739519aa7dbb220fe42e8337a79|referer=https://cloudtv.akamaized.net/
+#EXTINF:-1 group-title="Ayna By: @FREDFLIXTEM", 9X Tashan
+#EXTVLCOPT:http-referrer=https://cloudtv.akamaized.net/
+#EXTHTTP:{"referer": "https://cloudtv.akamaized.net/"}
+https://tvs1.aynaott.com/9X_Tashan/index.m3u8?hdnts=st=1734364904~exp=1734408104~acl=/byte-capsule/*~data=103.174.51.248-WEB~hmac=500cb020fb124c10c7749e55ee119b4107da4739519aa7dbb220fe42e8337a79|referer=https://cloudtv.akamaized.net/
+#EXTINF:-1 group-title="Ayna By: @FREDFLIXTEM", ANB News
+#EXTVLCOPT:http-referrer=https://cloudtv.akamaized.net/
+#EXTHTTP:{"referer": "https://cloudtv.akamaized.net/"}
+https://tvs1.aynaott.com/ANB_News/index.m3u8?hdnts=st=1734364904~exp=1734408104~acl=/byte-capsule/*~data=103.174.51.248-WEB~hmac=500cb020fb124c10c7749e55ee119b4107da4739519aa7dbb220fe42e8337a79|referer=https://cloudtv.akamaized.net/
+#EXTINF:-1 group-title="Ayna By: @FREDFLIXTEM", B4U Kadak
+#EXTVLCOPT:http-referrer=https://cloudtv.akamaized.net/
+#EXTHTTP:{"referer": "https://cloudtv.akamaized.net/"}
+https://tvs1.aynaott.com/B4U_Kadak/index.m3u8?hdnts=st=1734364904~exp=1734408104~acl=/byte-capsule/*~data=103.174.51.248-WEB~hmac=500cb020fb124c10c7749e55ee119b4107da4739519aa7dbb220fe42e8337a79|referer=https://cloudtv.akamaized.net/
+#EXTINF:-1 group-title="Ayna By: @FREDFLIXTEM", Dabangg
+#EXTVLCOPT:http-referrer=https://cloudtv.akamaized.net/
+#EXTHTTP:{"referer": "https://cloudtv.akamaized.net/"}
+https://tvs1.aynaott.com/Dabangg/index.m3u8?hdnts=st=1734364904~exp=1734408104~acl=/byte-capsule/*~data=103.174.51.248-WEB~hmac=500cb020fb124c10c7749e55ee119b4107da4739519aa7dbb220fe42e8337a79|referer=https://cloudtv.akamaized.net/
+#EXTINF:-1 group-title="Ayna By: @FREDFLIXTEM", Dhamaal
+#EXTVLCOPT:http-referrer=https://cloudtv.akamaized.net/
+#EXTHTTP:{"referer": "https://cloudtv.akamaized.net/"}
+https://tvs1.aynaott.com/Dhamaal/index.m3u8?hdnts=st=1734364904~exp=1734408104~acl=/byte-capsule/*~data=103.174.51.248-WEB~hmac=500cb020fb124c10c7749e55ee119b4107da4739519aa7dbb220fe42e8337a79|referer=https://cloudtv.akamaized.net/
+#EXTINF:-1 group-title="Ayna By: @FREDFLIXTEM", Dhinchaak
+#EXTVLCOPT:http-referrer=https://cloudtv.akamaized.net/
+#EXTHTTP:{"referer": "https://cloudtv.akamaized.net/"}
+https://tvs1.aynaott.com/Dhinchaak/index.m3u8?hdnts=st=1734364904~exp=1734408104~acl=/byte-capsule/*~data=103.174.51.248-WEB~hmac=500cb020fb124c10c7749e55ee119b4107da4739519aa7dbb220fe42e8337a79|referer=https://cloudtv.akamaized.net/
+#EXTINF:-1 group-title="Ayna By: @FREDFLIXTEM", Goldmines
+#EXTVLCOPT:http-referrer=https://cloudtv.akamaized.net/
+#EXTHTTP:{"referer": "https://cloudtv.akamaized.net/"}
+https://tvs1.aynaott.com/Goldmines/index.m3u8?hdnts=st=1734364904~exp=1734408104~acl=/byte-capsule/*~data=103.174.51.248-WEB~hmac=500cb020fb124c10c7749e55ee119b4107da4739519aa7dbb220fe42e8337a79|referer=https://cloudtv.akamaized.net/
+#EXTINF:-1 group-title="Ayna By: @FREDFLIXTEM", Goldmines Bollywood
+#EXTVLCOPT:http-referrer=https://cloudtv.akamaized.net/
+#EXTHTTP:{"referer": "https://cloudtv.akamaized.net/"}
+https://tvs1.aynaott.com/GoldminesBollywood/index.m3u8?hdnts=st=1734364904~exp=1734408104~acl=/byte-capsule/*~data=103.174.51.248-WEB~hmac=500cb020fb124c10c7749e55ee119b4107da4739519aa7dbb220fe42e8337a79|referer=https://cloudtv.akamaized.net/
+#EXTINF:-1 group-title="Ayna By: @FREDFLIXTEM", Goldmines Movies
+#EXTVLCOPT:http-referrer=https://cloudtv.akamaized.net/
+#EXTHTTP:{"referer": "https://cloudtv.akamaized.net/"}
+https://tvs1.aynaott.com/GoldminesMovies/index.m3u8?hdnts=st=1734364904~exp=1734408104~acl=/byte-capsule/*~data=103.174.51.248-WEB~hmac=500cb020fb124c10c7749e55ee119b4107da4739519aa7dbb220fe42e8337a79|referer=https://cloudtv.akamaized.net/
+#EXTINF:-1 group-title="Ayna By: @FREDFLIXTEM", Khushboo
+#EXTVLCOPT:http-referrer=https://cloudtv.akamaized.net/
+#EXTHTTP:{"referer": "https://cloudtv.akamaized.net/"}
+https://tvs1.aynaott.com/Khushboo/index.m3u8?hdnts=st=1734364904~exp=1734408104~acl=/byte-capsule/*~data=103.174.51.248-WEB~hmac=500cb020fb124c10c7749e55ee119b4107da4739519aa7dbb220fe42e8337a79|referer=https://cloudtv.akamaized.net/
+#EXTINF:-1 group-title="Ayna By: @FREDFLIXTEM", TheQ
+#EXTVLCOPT:http-referrer=https://cloudtv.akamaized.net/
+#EXTHTTP:{"referer": "https://cloudtv.akamaized.net/"}
+https://tvs1.aynaott.com/TheQ/index.m3u8?hdnts=st=1734364904~exp=1734408104~acl=/byte-capsule/*~data=103.174.51.248-WEB~hmac=500cb020fb124c10c7749e55ee119b4107da4739519aa7dbb220fe42e8337a79|referer=https://cloudtv.akamaized.net/
+#EXTINF:-1 group-title="Ayna By: @FREDFLIXTEM", TV9 Bangla
+#EXTVLCOPT:http-referrer=https://cloudtv.akamaized.net/
+#EXTHTTP:{"referer": "https://cloudtv.akamaized.net/"}
+https://tvs1.aynaott.com/TV9Bangla/index.m3u8?hdnts=st=1734364904~exp=1734408104~acl=/byte-capsule/*~data=103.174.51.248-WEB~hmac=500cb020fb124c10c7749e55ee119b4107da4739519aa7dbb220fe42e8337a79|referer=https://cloudtv.akamaized.net/
+#EXTINF:-1 group-title="Ayna By: @FREDFLIXTEM", APN
+#EXTVLCOPT:http-referrer=https://cloudtv.akamaized.net/
+#EXTHTTP:{"referer": "https://cloudtv.akamaized.net/"}
+https://tvs1.aynaott.com/APN/index.m3u8?hdnts=st=1734364904~exp=1734408104~acl=/byte-capsule/*~data=103.174.51.248-WEB~hmac=500cb020fb124c10c7749e55ee119b4107da4739519aa7dbb220fe42e8337a79|referer=https://cloudtv.akamaized.net/
+#EXTINF:-1 group-title="Ayna By: @FREDFLIXTEM", Azzad TV
+#EXTVLCOPT:http-referrer=https://cloudtv.akamaized.net/
+#EXTHTTP:{"referer": "https://cloudtv.akamaized.net/"}
+https://tvs1.aynaott.com/AzzadTv/index.m3u8?hdnts=st=1734364904~exp=1734408104~acl=/byte-capsule/*~data=103.174.51.248-WEB~hmac=500cb020fb124c10c7749e55ee119b4107da4739519aa7dbb220fe42e8337a79|referer=https://cloudtv.akamaized.net/
+#EXTINF:-1 group-title="Ayna By: @FREDFLIXTEM", Bflix
+#EXTVLCOPT:http-referrer=https://cloudtv.akamaized.net/
+#EXTHTTP:{"referer": "https://cloudtv.akamaized.net/"}
+https://tvs1.aynaott.com/Bflix/index.m3u8?hdnts=st=1734364904~exp=1734408104~acl=/byte-capsule/*~data=103.174.51.248-WEB~hmac=500cb020fb124c10c7749e55ee119b4107da4739519aa7dbb220fe42e8337a79|referer=https://cloudtv.akamaized.net/
+#EXTINF:-1 group-title="Ayna By: @FREDFLIXTEM", Dangal
+#EXTVLCOPT:http-referrer=https://cloudtv.akamaized.net/
+#EXTHTTP:{"referer": "https://cloudtv.akamaized.net/"}
+https://tvs1.aynaott.com/Dangal/index.m3u8?hdnts=st=1734364904~exp=1734408104~acl=/byte-capsule/*~data=103.174.51.248-WEB~hmac=500cb020fb124c10c7749e55ee119b4107da4739519aa7dbb220fe42e8337a79|referer=https://cloudtv.akamaized.net/
+#EXTINF:-1 group-title="Ayna By: @FREDFLIXTEM", Dangal 2
+#EXTVLCOPT:http-referrer=https://cloudtv.akamaized.net/
+#EXTHTTP:{"referer": "https://cloudtv.akamaized.net/"}
+https://tvs1.aynaott.com/Dangal2/index.m3u8?hdnts=st=1734364904~exp=1734408104~acl=/byte-capsule/*~data=103.174.51.248-WEB~hmac=500cb020fb124c10c7749e55ee119b4107da4739519aa7dbb220fe42e8337a79|referer=https://cloudtv.akamaized.net/
+#EXTINF:-1 group-title="Ayna By: @FREDFLIXTEM", Manoranjan TV
+#EXTVLCOPT:http-referrer=https://cloudtv.akamaized.net/
+#EXTHTTP:{"referer": "https://cloudtv.akamaized.net/"}
+https://tvs1.aynaott.com/ManoranjanTV/index.m3u8?hdnts=st=1734364904~exp=1734408104~acl=/byte-capsule/*~data=103.174.51.248-WEB~hmac=500cb020fb124c10c7749e55ee119b4107da4739519aa7dbb220fe42e8337a79|referer=https://cloudtv.akamaized.net/
+#EXTINF:-1 group-title="Ayna By: @FREDFLIXTEM", Network 10
+#EXTVLCOPT:http-referrer=https://cloudtv.akamaized.net/
+#EXTHTTP:{"referer": "https://cloudtv.akamaized.net/"}
+https://tvs1.aynaott.com/Network10/index.m3u8?hdnts=st=1734364904~exp=1734408104~acl=/byte-capsule/*~data=103.174.51.248-WEB~hmac=500cb020fb124c10c7749e55ee119b4107da4739519aa7dbb220fe42e8337a79|referer=https://cloudtv.akamaized.net/
+#EXTINF:-1 group-title="Ayna By: @FREDFLIXTEM", News 1 India
+#EXTVLCOPT:http-referrer=https://cloudtv.akamaized.net/
+#EXTHTTP:{"referer": "https://cloudtv.akamaized.net/"}
+https://tvs1.aynaott.com/News1India/index.m3u8?hdnts=st=1734364904~exp=1734408104~acl=/byte-capsule/*~data=103.174.51.248-WEB~hmac=500cb020fb124c10c7749e55ee119b4107da4739519aa7dbb220fe42e8337a79|referer=https://cloudtv.akamaized.net/
+#EXTINF:-1 group-title="Ayna By: @FREDFLIXTEM", Republic TV Bharat
+#EXTVLCOPT:http-referrer=https://cloudtv.akamaized.net/
+#EXTHTTP:{"referer": "https://cloudtv.akamaized.net/"}
+https://tvs1.aynaott.com/RepublicTVBharat/index.m3u8?hdnts=st=1734364904~exp=1734408104~acl=/byte-capsule/*~data=103.174.51.248-WEB~hmac=500cb020fb124c10c7749e55ee119b4107da4739519aa7dbb220fe42e8337a79|referer=https://cloudtv.akamaized.net/
+#EXTINF:-1 group-title="Ayna By: @FREDFLIXTEM", Sadhna Prime News
+#EXTVLCOPT:http-referrer=https://cloudtv.akamaized.net/
+#EXTHTTP:{"referer": "https://cloudtv.akamaized.net/"}
+https://tvs1.aynaott.com/SadhnaPrimeNews/index.m3u8?hdnts=st=1734364904~exp=1734408104~acl=/byte-capsule/*~data=103.174.51.248-WEB~hmac=500cb020fb124c10c7749e55ee119b4107da4739519aa7dbb220fe42e8337a79|referer=https://cloudtv.akamaized.net/
+#EXTINF:-1 group-title="Ayna By: @FREDFLIXTEM", Shemaroo TV
+#EXTVLCOPT:http-referrer=https://cloudtv.akamaized.net/
+#EXTHTTP:{"referer": "https://cloudtv.akamaized.net/"}
+https://tvs1.aynaott.com/ShemarooTV/index.m3u8?hdnts=st=1734364904~exp=1734408104~acl=/byte-capsule/*~data=103.174.51.248-WEB~hmac=500cb020fb124c10c7749e55ee119b4107da4739519aa7dbb220fe42e8337a79|referer=https://cloudtv.akamaized.net/
+#EXTINF:-1 group-title="Ayna By: @FREDFLIXTEM", India Voice
+#EXTVLCOPT:http-referrer=https://cloudtv.akamaized.net/
+#EXTHTTP:{"referer": "https://cloudtv.akamaized.net/"}
+https://tvs1.aynaott.com/IndiaVoice/index.m3u8?hdnts=st=1734364904~exp=1734408104~acl=/byte-capsule/*~data=103.174.51.248-WEB~hmac=500cb020fb124c10c7749e55ee119b4107da4739519aa7dbb220fe42e8337a79|referer=https://cloudtv.akamaized.net/
+#EXTINF:-1 group-title="Ayna By: @FREDFLIXTEM", News 24
+#EXTVLCOPT:http-referrer=https://cloudtv.akamaized.net/
+#EXTHTTP:{"referer": "https://cloudtv.akamaized.net/"}
+https://tvs2.aynaott.com/News24/index.m3u8?hdnts=st=1734364904~exp=1734408104~acl=/byte-capsule/*~data=103.174.51.248-WEB~hmac=500cb020fb124c10c7749e55ee119b4107da4739519aa7dbb220fe42e8337a79|referer=https://cloudtv.akamaized.net/
+#EXTINF:-1 group-title="Ayna By: @FREDFLIXTEM", Rongeen TV
+#EXTVLCOPT:http-referrer=https://cloudtv.akamaized.net/
+#EXTHTTP:{"referer": "https://cloudtv.akamaized.net/"}
+https://tvs2.aynaott.com/RongeenTV/index.m3u8?hdnts=st=1734364904~exp=1734408104~acl=/byte-capsule/*~data=103.174.51.248-WEB~hmac=500cb020fb124c10c7749e55ee119b4107da4739519aa7dbb220fe42e8337a79|referer=https://cloudtv.akamaized.net/
+#EXTINF:-1 group-title="Ayna By: @FREDFLIXTEM", Shemaroo Umang
+#EXTVLCOPT:http-referrer=https://cloudtv.akamaized.net/
+#EXTHTTP:{"referer": "https://cloudtv.akamaized.net/"}
+https://tvs2.aynaott.com/ShemarooUmang/index.m3u8?hdnts=st=1734364904~exp=1734408104~acl=/byte-capsule/*~data=103.174.51.248-WEB~hmac=500cb020fb124c10c7749e55ee119b4107da4739519aa7dbb220fe42e8337a79|referer=https://cloudtv.akamaized.net/
+#EXTINF:-1 group-title="Ayna By: @FREDFLIXTEM", Afghan TV
+#EXTVLCOPT:http-referrer=https://cloudtv.akamaized.net/
+#EXTHTTP:{"referer": "https://cloudtv.akamaized.net/"}
+https://tvs2.aynaott.com/AfghanTV/index.m3u8?hdnts=st=1734364904~exp=1734408104~acl=/byte-capsule/*~data=103.174.51.248-WEB~hmac=500cb020fb124c10c7749e55ee119b4107da4739519aa7dbb220fe42e8337a79|referer=https://cloudtv.akamaized.net/
+#EXTINF:-1 group-title="Ayna By: @FREDFLIXTEM", B4U Movies India
+#EXTVLCOPT:http-referrer=https://cloudtv.akamaized.net/
+#EXTHTTP:{"referer": "https://cloudtv.akamaized.net/"}
+https://tvs2.aynaott.com/B4U_Movies_India/index.m3u8?hdnts=st=1734364904~exp=1734408104~acl=/byte-capsule/*~data=103.174.51.248-WEB~hmac=500cb020fb124c10c7749e55ee119b4107da4739519aa7dbb220fe42e8337a79|referer=https://cloudtv.akamaized.net/
+#EXTINF:-1 group-title="Ayna By: @FREDFLIXTEM", NTV Itahari
+#EXTVLCOPT:http-referrer=https://cloudtv.akamaized.net/
+#EXTHTTP:{"referer": "https://cloudtv.akamaized.net/"}
+https://tvs2.aynaott.com/NTV_Itahari/index.m3u8?hdnts=st=1734364904~exp=1734408104~acl=/byte-capsule/*~data=103.174.51.248-WEB~hmac=500cb020fb124c10c7749e55ee119b4107da4739519aa7dbb220fe42e8337a79|referer=https://cloudtv.akamaized.net/
+#EXTINF:-1 group-title="Ayna By: @FREDFLIXTEM", B4U Hitz
+#EXTVLCOPT:http-referrer=https://cloudtv.akamaized.net/
+#EXTHTTP:{"referer": "https://cloudtv.akamaized.net/"}
+https://tvs2.aynaott.com/B4UHitz/index.m3u8?hdnts=st=1734364904~exp=1734408104~acl=/byte-capsule/*~data=103.174.51.248-WEB~hmac=500cb020fb124c10c7749e55ee119b4107da4739519aa7dbb220fe42e8337a79|referer=https://cloudtv.akamaized.net/
+#EXTINF:-1 group-title="Ayna By: @FREDFLIXTEM", Dhamaka Movies
+#EXTVLCOPT:http-referrer=https://cloudtv.akamaized.net/
+#EXTHTTP:{"referer": "https://cloudtv.akamaized.net/"}
+https://tvs2.aynaott.com/DhamakaMovies/index.m3u8?hdnts=st=1734364904~exp=1734408104~acl=/byte-capsule/*~data=103.174.51.248-WEB~hmac=500cb020fb124c10c7749e55ee119b4107da4739519aa7dbb220fe42e8337a79|referer=https://cloudtv.akamaized.net/
+#EXTINF:-1 group-title="Ayna By: @FREDFLIXTEM", ABC Spark
+#EXTVLCOPT:http-referrer=https://cloudtv.akamaized.net/
+#EXTHTTP:{"referer": "https://cloudtv.akamaized.net/"}
+https://tvs1.aynaott.com/aspark/index.m3u8?hdnts=st=1734364904~exp=1734408104~acl=/byte-capsule/*~data=103.174.51.248-WEB~hmac=500cb020fb124c10c7749e55ee119b4107da4739519aa7dbb220fe42e8337a79|referer=https://cloudtv.akamaized.net/
+#EXTINF:-1 group-title="Ayna By: @FREDFLIXTEM", TBS
+#EXTVLCOPT:http-referrer=https://cloudtv.akamaized.net/
+#EXTHTTP:{"referer": "https://cloudtv.akamaized.net/"}
+https://tvs1.aynaott.com/tbs/index.m3u8?hdnts=st=1734364904~exp=1734408104~acl=/byte-capsule/*~data=103.174.51.248-WEB~hmac=500cb020fb124c10c7749e55ee119b4107da4739519aa7dbb220fe42e8337a79|referer=https://cloudtv.akamaized.net/
+#EXTINF:-1 group-title="Ayna By: @FREDFLIXTEM", Fox 5
+#EXTVLCOPT:http-referrer=https://cloudtv.akamaized.net/
+#EXTHTTP:{"referer": "https://cloudtv.akamaized.net/"}
+https://tvs1.aynaott.com/fox5/index.m3u8?hdnts=st=1734364904~exp=1734408104~acl=/byte-capsule/*~data=103.174.51.248-WEB~hmac=500cb020fb124c10c7749e55ee119b4107da4739519aa7dbb220fe42e8337a79|referer=https://cloudtv.akamaized.net/
+#EXTINF:-1 group-title="Ayna By: @FREDFLIXTEM", Fox Business
+#EXTVLCOPT:http-referrer=https://cloudtv.akamaized.net/
+#EXTHTTP:{"referer": "https://cloudtv.akamaized.net/"}
+https://tvs1.aynaott.com/foxbusiness/index.m3u8?hdnts=st=1734364904~exp=1734408104~acl=/byte-capsule/*~data=103.174.51.248-WEB~hmac=500cb020fb124c10c7749e55ee119b4107da4739519aa7dbb220fe42e8337a79|referer=https://cloudtv.akamaized.net/
+#EXTINF:-1 group-title="Ayna By: @FREDFLIXTEM", The Weather Channel
+#EXTVLCOPT:http-referrer=https://cloudtv.akamaized.net/
+#EXTHTTP:{"referer": "https://cloudtv.akamaized.net/"}
+https://tvs1.aynaott.com/TheWeatherChannel/index.m3u8?hdnts=st=1734364904~exp=1734408104~acl=/byte-capsule/*~data=103.174.51.248-WEB~hmac=500cb020fb124c10c7749e55ee119b4107da4739519aa7dbb220fe42e8337a79|referer=https://cloudtv.akamaized.net/
+#EXTINF:-1 group-title="Ayna By: @FREDFLIXTEM", Sky Nature
+#EXTVLCOPT:http-referrer=https://cloudtv.akamaized.net/
+#EXTHTTP:{"referer": "https://cloudtv.akamaized.net/"}
+https://tvs1.aynaott.com/skynature/index.m3u8?hdnts=st=1734364904~exp=1734408104~acl=/byte-capsule/*~data=103.174.51.248-WEB~hmac=500cb020fb124c10c7749e55ee119b4107da4739519aa7dbb220fe42e8337a79|referer=https://cloudtv.akamaized.net/
+#EXTINF:-1 group-title="Ayna By: @FREDFLIXTEM", Pix11
+#EXTVLCOPT:http-referrer=https://cloudtv.akamaized.net/
+#EXTHTTP:{"referer": "https://cloudtv.akamaized.net/"}
+https://tvs1.aynaott.com/pix11/index.m3u8?hdnts=st=1734364904~exp=1734408104~acl=/byte-capsule/*~data=103.174.51.248-WEB~hmac=500cb020fb124c10c7749e55ee119b4107da4739519aa7dbb220fe42e8337a79|referer=https://cloudtv.akamaized.net/
+#EXTINF:-1 group-title="Ayna By: @FREDFLIXTEM", Amc
+#EXTVLCOPT:http-referrer=https://cloudtv.akamaized.net/
+#EXTHTTP:{"referer": "https://cloudtv.akamaized.net/"}
+https://tvs1.aynaott.com/amc/index.m3u8?hdnts=st=1734364904~exp=1734408104~acl=/byte-capsule/*~data=103.174.51.248-WEB~hmac=500cb020fb124c10c7749e55ee119b4107da4739519aa7dbb220fe42e8337a79|referer=https://cloudtv.akamaized.net/
+#EXTINF:-1 group-title="Ayna By: @FREDFLIXTEM", Revolt
+#EXTVLCOPT:http-referrer=https://cloudtv.akamaized.net/
+#EXTHTTP:{"referer": "https://cloudtv.akamaized.net/"}
+https://tvs1.aynaott.com/revolt/index.m3u8?hdnts=st=1734364904~exp=1734408104~acl=/byte-capsule/*~data=103.174.51.248-WEB~hmac=500cb020fb124c10c7749e55ee119b4107da4739519aa7dbb220fe42e8337a79|referer=https://cloudtv.akamaized.net/
+#EXTINF:-1 group-title="Ayna By: @FREDFLIXTEM", axs
+#EXTVLCOPT:http-referrer=https://cloudtv.akamaized.net/
+#EXTHTTP:{"referer": "https://cloudtv.akamaized.net/"}
+https://tvs1.aynaott.com/axs/index.m3u8?hdnts=st=1734364904~exp=1734408104~acl=/byte-capsule/*~data=103.174.51.248-WEB~hmac=500cb020fb124c10c7749e55ee119b4107da4739519aa7dbb220fe42e8337a79|referer=https://cloudtv.akamaized.net/
+#EXTINF:-1 group-title="Ayna By: @FREDFLIXTEM", ytv
+#EXTVLCOPT:http-referrer=https://cloudtv.akamaized.net/
+#EXTHTTP:{"referer": "https://cloudtv.akamaized.net/"}
+https://tvs1.aynaott.com/ytv/index.m3u8?hdnts=st=1734364904~exp=1734408104~acl=/byte-capsule/*~data=103.174.51.248-WEB~hmac=500cb020fb124c10c7749e55ee119b4107da4739519aa7dbb220fe42e8337a79|referer=https://cloudtv.akamaized.net/
+#EXTINF:-1 group-title="Ayna By: @FREDFLIXTEM", Islam Channel
+#EXTVLCOPT:http-referrer=https://cloudtv.akamaized.net/
+#EXTHTTP:{"referer": "https://cloudtv.akamaized.net/"}
+https://tvs1.aynaott.com/islam/index.m3u8?hdnts=st=1734364904~exp=1734408104~acl=/byte-capsule/*~data=103.174.51.248-WEB~hmac=500cb020fb124c10c7749e55ee119b4107da4739519aa7dbb220fe42e8337a79|referer=https://cloudtv.akamaized.net/
+#EXTINF:-1 group-title="Ayna By: @FREDFLIXTEM", Kolkata TV
+#EXTVLCOPT:http-referrer=https://cloudtv.akamaized.net/
+#EXTHTTP:{"referer": "https://cloudtv.akamaized.net/"}
+https://tvs1.aynaott.com/kolkatatv/index.m3u8?hdnts=st=1734364904~exp=1734408104~acl=/byte-capsule/*~data=103.174.51.248-WEB~hmac=500cb020fb124c10c7749e55ee119b4107da4739519aa7dbb220fe42e8337a79|referer=https://cloudtv.akamaized.net/
+#EXTINF:-1 group-title="Ayna By: @FREDFLIXTEM", Channel Win
+#EXTVLCOPT:http-referrer=https://cloudtv.akamaized.net/
+#EXTHTTP:{"referer": "https://cloudtv.akamaized.net/"}
+https://tvs1.aynaott.com/ChannelWin/index.m3u8?hdnts=st=1734364904~exp=1734408104~acl=/byte-capsule/*~data=103.174.51.248-WEB~hmac=500cb020fb124c10c7749e55ee119b4107da4739519aa7dbb220fe42e8337a79|referer=https://cloudtv.akamaized.net/
