@@ -16,6 +16,7 @@ https://nowlivetv.com/ayna/stream.php?id=151&e=.m3u8|Referer=https://nowlivetv.c
 https://nowlivetv.com/ayna/stream.php?id=148&e=.m3u8|Referer=https://nowlivetv.com/ayna/&key=thenayeemparvez
 
 
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/zJgjkLs/wTCus2HY.png" group-title="SR Ayna OTT", test
 http-referrer=https://cloudtv.akamaized.net/ #EXTHTTP:{"referer": "https://cloudtv.akamaized.net/"} https://tvs1.aynaott.com/Goldmines/index.m3u8?hdnts=st=1734426223~exp=1734469423~acl=/byte-capsule/*~data=103.152.107.5-WEB~hmac=4b82e2c66b94e7abfc8f6fe1514f3da967bd0686b2cb4643775f2f706ae36134
 
