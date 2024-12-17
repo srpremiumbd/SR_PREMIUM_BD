@@ -17,6 +17,10 @@ https://nowlivetv.com/ayna/stream.php?id=151&e=.m3u8|Referer=https://nowlivetv.c
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/zJgjkLs/wTCus2HY.png" group-title="SR Ayna OTT", All Time Movies Ayna OTT
 https://nowlivetv.com/ayna/stream.php?id=148&e=.m3u8|Referer=https://nowlivetv.com/ayna/&key=thenayeemparvez
 
+#EXTINF:-1 group-title="SR Ayna OTT" General" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/ec439f3c-6b95-4194-a0fa-2a98f63028da.png", Willow HD TV
+https://nowlivetv.com/ayna/stream.php?id=111&e=.m3u8|Referer=https://nowlivetv.com/ayna/&key=thenayeemparvez
+
+
 
 
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images//Ten_HD.png" group-title="SR Sports", SONY Ten 1 HD Sony Liv
