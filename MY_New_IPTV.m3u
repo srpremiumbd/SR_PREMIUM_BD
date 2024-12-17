@@ -3,6 +3,8 @@
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/gPFJV7F/Screenshot-20241020-214936.jpg" group-title="Movies Request", t.me/sr_premium
 https://pixeldrain.com/api/file/Zfxt4VfG
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/gPFJV7F/Screenshot-20241020-214936.jpg" group-title="Movies Request", Ayna
+https://tvs2.aynaott.com/channeli/index.m3u8?hdnts=st=1734399542~exp=1734442742~acl=/byte-capsule/*~data=103.174.51.252-WEB~hmac=736bed5562029cb3f1cc3a6bd036773f7810b57c20c64a8d56177ba811d66323|referer=https://cloudtv.akamaized.net/
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tCgY1vF/20240820-171000.png" group-title="SR Ayna OTT" ,T Sports HD Ayna OTT
 https://nowlivetv.com/ayna/stream.php?id=27&e=.m3u8|Referer=https://nowlivetv.com/ayna/&key=thenayeemparvez
