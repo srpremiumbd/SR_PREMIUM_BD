@@ -23,7 +23,8 @@ https://tvs1.aynaott.com/somoytv/index.m3u8?hdnts=st=1734399388~exp=1734442588~a
 #EXTINF:-1 group-title="SR Ayna OTT" General" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/cc8f548e-089c-47f6-8b6f-ff8699fb2a3d.png", Jamuna TV
 https://tvs1.aynaott.com/jamunatv/index.m3u8?hdnts=st=1734399388~exp=1734442588~acl=/byte-capsule/*~data=103.174.51.252-WEB~hmac=9c319622eabb46f098af21d93c279a98fb7daf1ebd281e623e937f6aa25d7a8c|referer=https://cloudtv.akamaized.net/
 
-
+#EXTINF:-1 group-title="SR Ayna OTT" General" tvg-logo="https://i.ibb.co.com/n1S6DXS/svg.png", Nagorik TV
+https://tvs1.aynaott.com/nagoriktv/index.m3u8?hdnts=st=1734400818~exp=1734444018~acl=/byte-capsule/*~data=103.174.51.252-WEB~hmac=d72047f415559010ee0d66a23b970ea62826960efb4e81f9c686458a12d6e449|referer=https://cloudtv.akamaized.net/
 
 
 
