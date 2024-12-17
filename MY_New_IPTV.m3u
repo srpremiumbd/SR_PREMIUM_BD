@@ -19,7 +19,7 @@ https://nowlivetv.com/ayna/stream.php?id=148&e=.m3u8|Referer=https://nowlivetv.c
 
 
 
-#EXTINF:-1 group-title="Test" tvg-chno="6577c38b31b2fee545230d69" tvg-id="6577c38b31b2fee545230d69" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/54163718-53c4-4ac6-8d86-ceca29d69554.png", BTV National 
+#EXTINF:-1 group-title="Test222" tvg-chno="6577c38b31b2fee545230d69" tvg-id="6577c38b31b2fee545230d69" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/54163718-53c4-4ac6-8d86-ceca29d69554.png", BTV National 
 #EXTVLCOPT:http-referrer=https://cloudtv.akamaized.net/ #EXTHTTP:{"referer": "https://cloudtv.akamaized.net/"} https://tvs1.aynaott.com/btvhd/index.m3u8?hdnts=st=1734426897~exp=1734470097~acl=/byte-capsule/*~data=103.152.107.5-WEB~hmac=2790fae5d784c286c2f374d4883da71904e358abee996e216de6153bb6871225 
 
 
