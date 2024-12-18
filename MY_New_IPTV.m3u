@@ -23,6 +23,9 @@ https://nowlivetv.com/ayna/stream.php?id=111&e=.m3u8|Referer=https://nowlivetv.c
 #EXTINF:-1 group-title="SR Ayna OTT" General" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/cc8f548e-089c-47f6-8b6f-ff8699fb2a3d.png", Jamuna TV
 https://sr-premium-bd.vercel.app//api/aynaott/play.m3u8?channel_id=25
 
+#EXTINF:-1 group-title="SR Ayna OTT" General" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/1a695f5d-e1b7-43f7-95bd-a3d17787891e.png", Somoy News TV
+https://sr-premium-bd.vercel.app//api/aynaott/play.m3u8?channel_id=16
+
 
 
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images//Ten_HD.png" group-title="SR Sports", SONY Ten 1 HD Sony Liv
