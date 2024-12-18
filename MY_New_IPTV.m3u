@@ -21,7 +21,7 @@ https://nowlivetv.com/ayna/stream.php?id=148&e=.m3u8|Referer=https://nowlivetv.c
 https://nowlivetv.com/ayna/stream.php?id=111&e=.m3u8|Referer=https://nowlivetv.com/ayna/&key=thenayeemparvez
 
 #EXTINF:-1 group-title="SR Ayna OTT" General" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/cc8f548e-089c-47f6-8b6f-ff8699fb2a3d.png", Jamuna TV
-https://nowlivetv.com/ayna/stream.php?id=26&e=.m3u8|Referer=https://nowlivetv.com/ayna/&key=thenayeemparvez
+https://sr-premium-bd.vercel.app//api/aynaott/play.m3u8?channel_id=25
 
 
 
