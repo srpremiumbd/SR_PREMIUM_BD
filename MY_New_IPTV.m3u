@@ -4,32 +4,28 @@
 https://pixeldrain.com/api/file/Zfxt4VfG
 
 
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tCgY1vF/20240820-171000.png" group-title="SR Ayna OTT" ,T Sports HD Ayna OTT
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tCgY1vF/20240820-171000.png" group-title="SR sports" ,T Sports HD Ayna OTT
 https://sr-premium-bd.vercel.app//api/aynaott/play.m3u8?channel_id=25
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png" group-title="SR Sports" , A Sports
-https://tv.durbinlive.pro/api/ayna/stream2.m3u8?id=68&e=.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/d2RxB8P/20240817-133048.png" group-title="SR Ayna OTT", Goldmines Ayna OTT
+#EXTINF:-1 tvg-logo="https://i.ibb.co/d2RxB8P/20240817-133048.png" group-title="SR Movies", Goldmines Ayna OTT
 https://sr-premium-bd.vercel.app//api/aynaott/play.m3u8?channel_id=110
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1qFTv7R/4f1364dc-dbb0-47df-9a43-3f316b371053-180x180-Goldmines-Movies.jpg" group-title="SR Ayna OTT", Goldmines Movies Ayna OTT
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1qFTv7R/4f1364dc-dbb0-47df-9a43-3f316b371053-180x180-Goldmines-Movies.jpg" group-title="SR Movies", Goldmines Movies Ayna OTT
 https://sr-premium-bd.vercel.app//api/aynaott/play.m3u8?channel_id=112
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/zJgjkLs/wTCus2HY.png" group-title="SR Ayna OTT", All Time Movies Ayna OTT
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/zJgjkLs/wTCus2HY.png" group-title="SR Movies", All Time Movies Ayna OTT
 https://sr-premium-bd.vercel.app//api/aynaott/play.m3u8?channel_id=109
 
-#EXTINF:-1 group-title="SR Ayna OTT" General" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/ec439f3c-6b95-4194-a0fa-2a98f63028da.png", Willow HD TV
+#EXTINF:-1 group-title="SR sports" General" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/ec439f3c-6b95-4194-a0fa-2a98f63028da.png", Willow HD TV Ayna OTT
 https://nowlivetv.com/ayna/stream.php?id=111&e=.m3u8|Referer=https://nowlivetv.com/ayna/&key=thenayeemparvez
 
-#EXTINF:-1 group-title="SR Ayna OTT" General" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/cc8f548e-089c-47f6-8b6f-ff8699fb2a3d.png", Jamuna TV
+#EXTINF:-1 group-title="SR News" General" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/cc8f548e-089c-47f6-8b6f-ff8699fb2a3d.png", Jamuna TV Ayna OTT
 https://sr-premium-bd.vercel.app//api/aynaott/play.m3u8?channel_id=24
 
-#EXTINF:-1 group-title="SR Ayna OTT" General" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/1a695f5d-e1b7-43f7-95bd-a3d17787891e.png", Somoy News TV
+#EXTINF:-1 group-title="SR News" General" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/1a695f5d-e1b7-43f7-95bd-a3d17787891e.png", Somoy News TV Ayna OTT
 https://sr-premium-bd.vercel.app//api/aynaott/play.m3u8?channel_id=16
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png" group-title="SR Sports" , A Sports HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png" group-title="SR Sports" , A Sports HD Ayna OTT
 https://tv.durbinlive.pro/api/ayna/stream2.m3u8?id=68&e=.m3u8
 
 
@@ -78,9 +74,6 @@ https://static.jagobd.com.bd/live-orgin/somoyt000011226615544544.stream/playlist
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hBgYZhC/20240815-181411.png" group-title="SR News" ,Jamuna TV (BDIX)
 http://172.16.29.34/ontest1/ontest1/238
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hBgYZhC/20240815-181411.png" group-title="SR News" ,Jamuna TV Ayna OTT
-https://sr-premium-bd.vercel.app//api/aynaott/play.m3u8?channel_id=24
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xHNpDpp/20240815-181423.png" group-title="SR News" ,Channel 24
 https://sr-premium-bd.vercel.app//api/aynaott/play.m3u8?channel_id=19
