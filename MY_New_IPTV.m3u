@@ -4,7 +4,7 @@
 https://pixeldrain.com/api/file/Zfxt4VfG
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tCgY1vF/20240820-171000.png" group-title="SR sports" ,T Sports HD Ayna OTT
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tCgY1vF/20240820-171000.png" group-title="SR Sports" ,T Sports HD Ayna OTT
 https://sr-premium-bd.vercel.app//api/aynaott/play.m3u8?channel_id=25
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d2RxB8P/20240817-133048.png" group-title="SR Movies", Goldmines Ayna OTT
@@ -16,7 +16,7 @@ https://sr-premium-bd.vercel.app//api/aynaott/play.m3u8?channel_id=112
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/zJgjkLs/wTCus2HY.png" group-title="SR Movies", All Time Movies Ayna OTT
 https://sr-premium-bd.vercel.app//api/aynaott/play.m3u8?channel_id=109
 
-#EXTINF:-1 group-title="SR sports" General" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/ec439f3c-6b95-4194-a0fa-2a98f63028da.png", Willow HD TV Ayna OTT
+#EXTINF:-1 group-title="SR Sports" General" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/ec439f3c-6b95-4194-a0fa-2a98f63028da.png", Willow HD TV Ayna OTT
 https://nowlivetv.com/ayna/stream.php?id=111&e=.m3u8|Referer=https://nowlivetv.com/ayna/&key=thenayeemparvez
 
 #EXTINF:-1 group-title="SR News" General" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/cc8f548e-089c-47f6-8b6f-ff8699fb2a3d.png", Jamuna TV Ayna OTT
