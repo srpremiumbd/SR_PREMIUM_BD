@@ -7,7 +7,7 @@ https://pixeldrain.com/api/file/Zfxt4VfG
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tCgY1vF/20240820-171000.png" group-title="SR Sports" ,T Sports HD Ayna OTT
 https://sr-premium-bd.vercel.app//api/aynaott/play.m3u8?channel_id=25
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/d2RxB8P/20240817-133048.png" group-title="SR Movies", Goldmines Ayna OTT
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/c637b921-8577-4487-a3c8-9469cbd5dd4e.png" group-title="SR Movies", Goldmines Ayna OTT
 https://sr-premium-bd.vercel.app//api/aynaott/play.m3u8?channel_id=110
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/1qFTv7R/4f1364dc-dbb0-47df-9a43-3f316b371053-180x180-Goldmines-Movies.jpg" group-title="SR Movies", Goldmines Movies Ayna OTT
