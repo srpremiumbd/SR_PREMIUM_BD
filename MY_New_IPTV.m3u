@@ -307,7 +307,7 @@ http://172.16.29.34/ontest1/ontest1/233
 http://172.16.29.34/ontest1/ontest1/347
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/JQ5dfxJ/20241014-082122.png" group-title="SR Sports" , Star Sports HD 1 AynaOTT
-https://tv.durbinlive.pro/api/ayna/stream2.m3u8?id=73&e=.m3u8
+https://tv.durbinlive.pro/api/ayna/stream2.m3u8?id=42&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/xHtzmD3/20241014-082132.png" group-title="SR Sports" , Star Sports HD 2 (BDIX)
 http://172.16.29.34/ontest1/ontest1/349
