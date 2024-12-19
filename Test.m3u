@@ -1,3 +1,5 @@
+#EXTINF
+
 
 #EXTINF:-1 tvg-id="1" tvg-name="BTV National" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/e669d5a1-5d1b-4583-9832-aff70bdfd893_180x180_e18f5d1e-879c-44e1-b50f-863b724b665d.png" tvg-chno="1" group-title="AynaOTT (DurbinLIVE)",BTV NationalDurbinLIVE
 https://sr-premium-bd.vercel.app//api/aynaott/play.m3u8?id=1&e=.m3u8|referer=https://watch.aynaott.com/
