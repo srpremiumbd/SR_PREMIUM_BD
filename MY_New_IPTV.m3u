@@ -25,9 +25,6 @@ https://sr-premium-bd.vercel.app//api/aynaott/play.m3u8?channel_id=24
 #EXTINF:-1 group-title="SR News" General" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/1a695f5d-e1b7-43f7-95bd-a3d17787891e.png", Somoy News TV Ayna OTT
 https://sr-premium-bd.vercel.app//api/aynaott/play.m3u8?channel_id=16
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png" group-title="SR Sports" , A Sports HD Ayna OTT
-https://tv.durbinlive.pro/api/ayna/stream2.m3u8?id=68&e=.m3u8
-
 
 
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images//Ten_HD.png" group-title="SR Sports", SONY Ten 1 HD Sony Liv
