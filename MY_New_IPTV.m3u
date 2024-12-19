@@ -82,8 +82,11 @@ https://sr-premium-bd.vercel.app//api/aynaott/play.m3u8?channel_id=19
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4Z9gSdp/20240815-181521.png" group-title="SR News" ,Ekhon Tv 
 https://sr-premium-bd.vercel.app//api/aynaott/play.m3u8?channel_id=37
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0hbCzCH/20240818-174544.png" group-title="SR News" , Independent Television Jagobd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0hbCzCH/20240818-174544.png" group-title="SR News" , Independent Television
 https://sr-premium-bd.vercel.app//api/aynaott/play.m3u8?channel_id=7
+
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/news_24_hd.png" group-title="SR News" ,News 24 HD
+https://sr-premium-bd.vercel.app//api/aynaott/play.m3u8?channel_id=27
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/c3RNmkY/20240816-083023.png" group-title="SR News" ,DBC News 
 https://sr-premium-bd.vercel.app//api/aynaott/play.m3u8?channel_id=26
@@ -105,6 +108,9 @@ https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Nt7hhK1/20240815-181346.png" group-title="SR Bangladeshi" ,SATV
 https://sr-premium-bd.vercel.app//api/aynaott/play.m3u8?channel_id=22
+
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/ekushey_tv.png" group-title="SR Bangladeshi" ,Ekushey TV
+https://sr-premium-bd.vercel.app//api/aynaott/play.m3u8?channel_id=5
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/T432dfs/20240815-181328.png" group-title="SR Bangladeshi", RTV HD
 https://streamingengine.rtvplus.tv/rtvpluslive/rtvpluslive.stream/chunklist_w2015195144.m3u8
@@ -522,12 +528,6 @@ https://pixeldra.in/api/file/tjugkTWQ?download
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/54/Solo_Brathuke_So_Better.jpg" group-title="SR BDIX South" , Solo Brathuke So Better (2020)
 https://pixeldra.in/api/file/bt8qyt5e?download
-
-#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/news_24_hd.png" group-title="SR News" ,News 24 HD
-http://176.119.29.52/live.ts?channelId=107&uid=5284&deviceMac=00:1A:79:17:C0:71
-
-#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/ekushey_tv.png" group-title="SR Bangladeshi" ,Ekushey TV
-http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-PRn9blk3Jrwa7pAMXY209xP0Sm3ZNf1Kc2TXRYUkIwzYm_DE9r9QlAo&s=10" group-title="SR BDIX Bollywood" , Student of the Year 2 (2019)
 http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2019/Student-of-the-Year-2-%282019%29-Hindi-1080p/Student%20of%20the%20Year%202%20%282019%29%20Hindi%20Proper%20WEB-DL%20-%201080p%20-%20AVC%20-%20%28DD%2B5.1%20-%20192Kbps%29%20-%202.4GB%20-%20ESub.mp4
