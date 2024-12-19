@@ -259,7 +259,7 @@ http://172.16.29.34/ontest1/ontest1/360
 http://172.16.29.34/ontest1/ontest1/404
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOf13q_I9xpXRUOo2p94qrTXIOrdhF3fQ5skF_RcKGFg3r7nH4-l9g5WKX&s=10" group-title="SR Movies" , & Picture HD
-http://172.16.29.2:8090/hls/AndPictureTV.m3u8
+https://tv.durbinlive.pro/api/ayna/stream2.m3u8?id=93&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mzXD9KY/20240818-182658.png" group-title="SR Kids" ,Hungama TV
 http://xtv.ooo:8080/live/927382370/837382809/150480.m3u8
@@ -306,8 +306,8 @@ http://172.16.29.34/ontest1/ontest1/233
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/JQ5dfxJ/20241014-082122.png" group-title="SR Sports" , Star Sports HD 1 (BDIX)
 http://172.16.29.34/ontest1/ontest1/347
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/JQ5dfxJ/20241014-082122.png" group-title="SR Sports" , Star Sports HD 1 FTP
-http://172.16.29.2:8090/hls/starsports1hd.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/JQ5dfxJ/20241014-082122.png" group-title="SR Sports" , Star Sports HD 1 AynaOTT
+https://tv.durbinlive.pro/api/ayna/stream2.m3u8?id=73&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/xHtzmD3/20241014-082132.png" group-title="SR Sports" , Star Sports HD 2 (BDIX)
 http://172.16.29.34/ontest1/ontest1/349
