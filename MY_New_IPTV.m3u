@@ -58,6 +58,69 @@ https://keralamaxtv.com/sliv/stream.php?id=195&e=.m3u8|Referer=https://keralamax
 
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z4MKt7R/logo-ecdeea395f8e71ded197.png" group-title="SR FTP SERVER",  T Sports HD
+http://10.10.10.2/live/fnffeed1002/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z4MKt7R/logo-ecdeea395f8e71ded197.png" group-title="SR FTP SERVER",  T Sports HD 2
+http://172.16.29.2:8090/hls/tsportshd.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z4MKt7R/logo-ecdeea395f8e71ded197.png" group-title="SR FTP SERVER", Jamuna TV
+http://172.16.29.2:8090/hls/jamunatv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z4MKt7R/logo-ecdeea395f8e71ded197.png" group-title="SR FTP SERVER",  Zee Bangla HD
+http://172.16.29.2:8090/hls/zeebanglahd.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z4MKt7R/logo-ecdeea395f8e71ded197.png" group-title="SR FTP SERVER",  Colors Bangla HD
+http://172.16.29.2:8090/hls/colorsbanglahd.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z4MKt7R/logo-ecdeea395f8e71ded197.png" group-title="SR FTP SERVER",  Star Jalsha HD
+http://172.16.29.2:8090/hls/starjalshahd.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z4MKt7R/logo-ecdeea395f8e71ded197.png" group-title="SR FTP SERVER",  Enter 10 Bangla
+http://172.16.29.2:8090/hls/Enter10Bangla.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z4MKt7R/logo-ecdeea395f8e71ded197.png" group-title="SR FTP SERVER", Jalsha Movies HD
+http://172.16.29.2:8090/hls/jalshamovieshd.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z4MKt7R/logo-ecdeea395f8e71ded197.png" group-title="SR FTP SERVER",  Sony Max HD
+http://172.16.29.2:8090/hls/sonymaxhd.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z4MKt7R/logo-ecdeea395f8e71ded197.png" group-title="SR FTP SERVER",  Star Gold HD
+http://172.16.29.2:8090/hls/stargoldhd.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z4MKt7R/logo-ecdeea395f8e71ded197.png" group-title="SR FTP SERVER",  Colors HD
+http://172.16.29.2:8090/hls/colorshd.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z4MKt7R/logo-ecdeea395f8e71ded197.png" group-title="SR FTP SERVER", PTV Sports 
+http://172.16.29.2:8090/hls/ptvsportshd.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z4MKt7R/logo-ecdeea395f8e71ded197.png" group-title="SR FTP SERVER",  Sony Ten 1
+http://172.16.29.2:8090/hls/sonyten1hd.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z4MKt7R/logo-ecdeea395f8e71ded197.png" group-title="SR FTP SERVER",  Sony Ten 2
+http://172.16.29.2:8090/hls/sonyten2hd.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z4MKt7R/logo-ecdeea395f8e71ded197.png" group-title="SR FTP SERVER",  Star Sports HD 1
+http://172.16.29.2:8090/hls/starsports1hd.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z4MKt7R/logo-ecdeea395f8e71ded197.png" group-title="SR FTP SERVER", POGO
+http://172.16.29.2:8090/hls/pogo.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z4MKt7R/logo-ecdeea395f8e71ded197.png" group-title="SR FTP SERVER", Duronto Tv
+http://172.16.29.2:8090/hls/duronto.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z4MKt7R/logo-ecdeea395f8e71ded197.png" group-title="SR FTP SERVER",  National Geographic Bangla
+http://172.16.29.2:8090/hls/NatGeoHD.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z4MKt7R/logo-ecdeea395f8e71ded197.png" group-title="SR FTP SERVER", Discovery Bangla
+http://172.16.29.2:8090/hls/DiscoveryHD.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z4MKt7R/logo-ecdeea395f8e71ded197.png" group-title="SR FTP SERVER",  And Pictures HD
+http://172.16.29.2:8090/hls/AndPictureTV.m3u8
+
+
+
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/0sXXGcx/20241006-215707.jpg" group-title="Bigg Boss Live", Bigg Boss 18 Live Feed
 https://prod-ent-live-gm.jiocinema.com/hls/live/2105436/hd_akamai_iosmob_avc_24x7_bbhindi_s18_day03/master.m3u8
