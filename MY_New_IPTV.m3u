@@ -283,6 +283,9 @@ https://jadoo.iptvbd.xyz/jadoo.php?id=nagorik_tv&e=.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rxfvjBN/20240817-215846.png" group-title="SR Sports" ,Gazi TV Jagobd
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/gazibd.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rxfvjBN/20240817-215846.png" group-title="SR Sports" ,Gazi TV FTP
+http://10.10.10.2/live/fnffeed1001/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/MkvHBbW/Sports18-1-HD.png" group-title="SR Sports" ,Sports 18 HD 1 (BDIX)
 http://172.16.29.34/ontest1/ontest1/336
 
@@ -290,7 +293,7 @@ http://172.16.29.34/ontest1/ontest1/336
 https://jiotvbpklive.cdn.jio.com/bpk-tv/IDCDemo_IPL23_Sports18_MOB/Fallback/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.tsports.com/images/mobile_logo/1719672720-LIVE.jpg" group-title="SR Sports" ,T Sports Live 1
-http://10.10.10.2/live/fnffeed1002/index.m3u8
+http://10.10.10.2/live/fnffeed1003/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.tsports.com/images/mobile_logo/1719672720-LIVE.jpg" group-title="SR Sports" ,T Sports Live 2
 http://stvlive.net:8080/tsports1/tracks-v1a1/mono.m3u8
