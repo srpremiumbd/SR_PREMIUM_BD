@@ -8,8 +8,6 @@ https://pixeldra.in/api/file/FPNkRWgX?download
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6c/FanCode_logo.svg/1200px-FanCode_logo.svg.png" group-title="SR BPL 2025", FANCODE
-http://4.240.80.15:5000/auto/https://dai.google.com/linear/hls/event/5mUMl6CcSIydH6ovBFGWIw/master.m3u8|User-Agent=join@live_cricket_24
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/Tb8ct6Z/FB-IMG-1735541876258.jpg" group-title="SR BPL 2025", T Sports HD 1
 http://172.16.29.34/ontest1/ontest1/181
