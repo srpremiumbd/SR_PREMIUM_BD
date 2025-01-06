@@ -24,6 +24,9 @@ http://stvlive.net:8080/tsports1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/Tb8ct6Z/FB-IMG-1735541876258.jpg" group-title="SR BPL 2025", Gazi TV
 http://10.10.10.2/live/fnffeed1001/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Tb8ct6Z/FB-IMG-1735541876258.jpg" group-title="SR BPL 2025", Gazi TV BDIX
+http://172.16.29.34/ontest1/ontest1/233
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/Tb8ct6Z/FB-IMG-1735541876258.jpg" group-title="SR BPL 2025", Gazi TV JagoBD
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/gazibd.stream/playlist.m3u8
 
