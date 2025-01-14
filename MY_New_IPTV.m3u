@@ -338,6 +338,9 @@ http://172.16.29.34/ontest1/ontest1/443
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/qngmqnm/20241014-082111.png" group-title="SR Sports" , Willow HD (BDIX)
 http://172.16.29.34/ontest1/ontest1/413
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png" group-title="SR Sports" , A Sports HD (BDIX)
+http://172.16.29.34/ontest1/ontest1/282
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT95vYtCnyh6haFPO25ufKvYuzP-kRMS23jaQ&usqp=CAU" group-title="SR Sports" , TNT Sports 1 HD (BDIX)
 http://172.16.29.34/ontest1/ontest1/366
 
