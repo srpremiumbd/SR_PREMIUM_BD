@@ -120,10 +120,10 @@ http://172.16.29.34/ontest1/ontest1/446
 https://sr-premium-bd.vercel.app//api/aynaott/play.m3u8?channel_id=0
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dtkcb19/20240815-181402.png" group-title="SR Bangladeshi" ,Atn Bangla
-https://sr-premium-bd.vercel.app//api/aynaott/play.m3u8?channel_id=8
+https://app.ncare.live/live-orgin/atnbd-8-org.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N6YsQx2/20240815-181504.png" group-title="SR Bangladeshi", Banglavision HD
-https://sr-premium-bd.vercel.app//api/aynaott/play.m3u8?channel_id=3
+https://app.ncare.live/live-orgin/banglav000.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pL1B7kt/20240815-181452.png" group-title="SR Bangladeshi" ,Boishakhi TV 
 https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
