@@ -211,6 +211,9 @@ http://117.102.16.2:34567/play/STARJALSHAMOVIESHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hX8xKVW/20240816-152834.png" group-title="SR Movies" ,Jalsha Movies HD (BDIX)
 http://172.16.29.34/ontest1/ontest1/387
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRb7TJ7dxWFjs3y0sMCduzNOXTbuZQO1dRtmo0exiK_6isDkiahYjP9XeNU&s=10" group-title="SR Movies" , Tara Bangla Cinema
+http://103.145.48.150:90/laosat24/taratv/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FbkRHbt/20240816-150712.png" group-title="SR Movies" ,Colors Cineplex HD (JIO)
 https://fifabangladesh.live/VHOD/go.php?id=Colors_Cineplex_voot_MOB
 
@@ -1295,9 +1298,6 @@ https://pixeldra.in/api/file/deY91LCS?download
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScic4qtBqUKo_VFW4D5urIf8IOQ9cspwXqY2vw-9WBeF8MhKZMSvNXVjdE&s=10" group-title="SR BDIX South" , Power (2014)
 https://pixeldra.in/api/file/M55ZNKpq?download
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUwR86jHJIVJLgC6sRp46_M3giz_Uo3MRMStgocnMKCHcwVmUgfz--Juv1&s=10" group-title="SR Movies" ,Jalsha Movies SD
-http://tv.cloudcdn.me/live.ts?channelId=117&uid=13433&deviceMac=00:1A:79:00:97:A1
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/phbg9Qv/image.jpg" group-title="SR BDIX South" , Pattathu Yaanai (2013)
 http://172.16.50.14/DHAKA-FLIX-14/SOUTH%20INDIAN%20MOVIES/Hindi%20Dubbed/%282013%29/Pattathu%20Yaanai%20%282013%29%20720p%20%5BDual%20Audio%5D/Pattathu%20Yaanai%20%282013%29%20UNCUT%20720p%20HDRip%20x264%20%5BDual%20Audio%5D%5BHindi%20DD2.0%2BTamil%20DD2.0%5D%20-Dr.S.mkv
@@ -2635,9 +2635,6 @@ http://103.153.175.254/NAS1/NAS2/TV_Web_Series/Bangla_Web_Series/Taqdeer%20%28TV
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNWFkNGQ1NmUtZjcyNS00ZjM2LWJlODMtOWM4MWRkMTg0YTQxXkEyXkFqcGdeQXVyOTQ0MDUwOTM@._V1_FMjpg_UX728_.jpg" group-title="SR BDIX Taqdeer S01 (2020) " , Episode 08
 http://103.153.175.254/NAS1/NAS2/TV_Web_Series/Bangla_Web_Series/Taqdeer%20%28TV%20Series%202020%E2%80%93%20%29/Season01/Taqdeer%20S01E08%20Hoichoi%20Originals%201080P%20WEBDL%20x264%20AVC%20AAC%20%5Bshadow%5D.mp4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRb7TJ7dxWFjs3y0sMCduzNOXTbuZQO1dRtmo0exiK_6isDkiahYjP9XeNU&s=10" group-title="SR Movies" , Tara Bangla Cinema
-http://103.145.48.150:90/laosat24/taratv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.static-bluray.com/movies/covers/139800_front.jpg?t=1468569465" group-title="SR BDIX South" , Krishna Gaadi Veera Prema Gaadha (2016)
 https://pixeldra.in/api/file/D7HtXtpz?download
