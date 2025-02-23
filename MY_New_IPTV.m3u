@@ -198,6 +198,9 @@ http://103.145.48.150:90/laosat24/taratv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FbkRHbt/20240816-150712.png" group-title="SR Movies" ,Colors Cineplex HD (JIO)
 https://iamranapk-com-wcc9.spidy.online/VOT/go.php?id=Colors_Cineplex_voot_MOB
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FbkRHbt/20240816-150712.png" group-title="SR Movies" ,Colors Cineplex HD BDIX
+http://172.16.29.34/ontest1/ontest1/491
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qkhk4g3/20240816-150730.png" group-title="SR Movies" ,Colors Cineplex SD (JIO)
 https://iamranapk-com-wcc9.spidy.online/VOT/go.php?id=Colors_Cineplex_SD_voot_MOB
 
