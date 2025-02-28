@@ -286,7 +286,7 @@ http://172.16.29.34/ontest1/ontest1/336
 https://jiotvbpklive.cdn.jio.com/bpk-tv/IDCDemo_IPL23_Sports18_MOB/Fallback/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.tsports.com/images/mobile_logo/1719672720-LIVE.jpg" group-title="SR Sports" ,T Sports Live 1
-http://10.10.10.2:84/fnffeed1001/video.m3u8
+http://10.10.10.2/live/fnf001/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.tsports.com/images/mobile_logo/1719672720-LIVE.jpg" group-title="SR Sports" ,T Sports Live 2
 http://172.16.29.3:8090/hls/tsportshd_feed2.m3u8
