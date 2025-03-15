@@ -4,6 +4,9 @@
 https://pixeldrain.com/api/file/Zfxt4VfG
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tCgY1vF/20240820-171000.png" group-title="SR Sports" ,T Sports HD AynaOTT
+https://tvs2.aynaott.com/tsportshd/index.m3u8?token=8284f32172e35ddf28b3dab5b00b21b73338f0e4-53f886f724dc6c8afab10efb5386c576-1742129333-1742042633&amp;remote=no_check_ip
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tCgY1vF/20240820-171000.png" group-title="SR AynaOTT" ,T Sports HD Ayna OTT
 https://sr-premium-bd.vercel.app//api/aynaott/play.m3u8?channel_id=25
