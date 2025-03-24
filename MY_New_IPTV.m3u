@@ -4,31 +4,6 @@
 https://pixeldrain.com/api/file/Zfxt4VfG
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tCgY1vF/20240820-171000.png" group-title="SR AynaOTT" ,T Sports HD Ayna OTT
-https://sr-premium-bd.vercel.app//api/aynaott/play.m3u8?channel_id=25
-
-#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/c637b921-8577-4487-a3c8-9469cbd5dd4e.png" group-title="SR AynaOTT", Goldmines Ayna OTT
-https://sr-premium-bd.vercel.app//api/aynaott/play.m3u8?channel_id=110
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1qFTv7R/4f1364dc-dbb0-47df-9a43-3f316b371053-180x180-Goldmines-Movies.jpg" group-title="SR AynaOTT", Goldmines Movies Ayna OTT
-https://sr-premium-bd.vercel.app//api/aynaott/play.m3u8?channel_id=112
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/zJgjkLs/wTCus2HY.png" group-title="SR AynaOTT", All Time Movies Ayna OTT
-https://sr-premium-bd.vercel.app//api/aynaott/play.m3u8?channel_id=109
-
-#EXTINF:-1 group-title="SR AynaOTT" General" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/ec439f3c-6b95-4194-a0fa-2a98f63028da.png", Willow HD TV Ayna OTT
-https://nowlivetv.com/ayna/stream.php?id=111&e=.m3u8|Referer=https://nowlivetv.com/ayna/&key=thenayeemparvez
-
-#EXTINF:-1 group-title="SR AynaOTT" General" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/cc8f548e-089c-47f6-8b6f-ff8699fb2a3d.png", Jamuna TV Ayna OTT
-https://sr-premium-bd.vercel.app//api/aynaott/play.m3u8?channel_id=24
-
-#EXTINF:-1 group-title="SR AynaOTT" General" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/1a695f5d-e1b7-43f7-95bd-a3d17787891e.png", Somoy News TV Ayna OTT
-https://sr-premium-bd.vercel.app//api/aynaott/play.m3u8?channel_id=16
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rxfvjBN/20240817-215846.png" group-title="SR AynaOTT" ,Gazi TV AynaOTT
-https://sr-premium-bd.vercel.app//api/aynaott/play.m3u8?channel_id=17
-
-
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images//Ten_HD.png" group-title="SR Sports", SONY Ten 1 HD Sony Liv
 https://mhdstream.com/sliv/stream.php?id=7541236|Referer=https://mhdstream.com/sliv/&key=thenayeemparvez
 
@@ -5901,5 +5876,6 @@ https://pixeldrain.net/api/file/LxktJZwF?download
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/Kx0vcwmm/20250309-211808.jpg" group-title="SR BDIX Dance Bangla Dance (2025)", S13E05
 https://pixeldrain.net/api/file/5DQRMQJ6?download
 
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Th6kRNC/20250108-182703.jpg" group-title="SR BDIX CID Chota Hero (2024) Bangla", S01EP16
+https://pixeldrain.net/api/file/CSoZhcNw?download
 
