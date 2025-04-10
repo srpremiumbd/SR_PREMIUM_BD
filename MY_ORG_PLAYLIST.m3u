@@ -3,6 +3,262 @@
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/gPFJV7F/Screenshot-20241020-214936.jpg" group-title="Movies Request", t.me/sr_premium
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Hzh8T61/20240815-181437.png" group-title="SR News" ,Somoy Tv (BDIX)
+http://172.16.29.34/ontest1/ontest1/317
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Hzh8T61/20240815-181437.png" group-title="SR News" ,Somoy Tv
+http://172.16.29.3:8090/hls/somoytv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hBgYZhC/20240815-181411.png" group-title="SR News" ,Jamuna TV (BDIX)
+http://172.16.29.34/ontest1/ontest1/238
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hBgYZhC/20240815-181411.png" group-title="SR News" ,Jamuna TV
+http://172.16.29.3:8090/hls/jamunatv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hBgYZhC/20240815-181411.png" group-title="SR News" ,Jamuna TV AkashGO
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1701/output/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xHNpDpp/20240815-181423.png" group-title="SR News" ,Channel 24
+https://app.ncare.live/live-orgin/channel24-sg-e8e.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4Z9gSdp/20240815-181521.png" group-title="SR News" ,Ekhon Tv 
+https://app.ncare.live/live-orgin/globaltv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0hbCzCH/20240818-174544.png" group-title="SR News" , Independent Television
+https://sr-premium-bd.vercel.app//api/aynaott/play.m3u8?channel_id=7
+
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/news_24_hd.png" group-title="SR News" ,News 24 HD
+https://sr-premium-bd.vercel.app//api/aynaott/play.m3u8?channel_id=27
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/c3RNmkY/20240816-083023.png" group-title="SR News" ,DBC News 
+https://sr-premium-bd.vercel.app//api/aynaott/play.m3u8?channel_id=26
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/02/Bangladesh_Television_Logo.svg" group-title="SR Bangladeshi", BTV HD (BDIX)
+http://172.16.29.34/ontest1/ontest1/446
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/02/Bangladesh_Television_Logo.svg" group-title="SR Bangladeshi", BTV HD
+https://sr-premium-bd.vercel.app//api/aynaott/play.m3u8?channel_id=0
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dtkcb19/20240815-181402.png" group-title="SR Bangladeshi" ,Atn Bangla
+https://app.ncare.live/live-orgin/atnbd-8-org.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N6YsQx2/20240815-181504.png" group-title="SR Bangladeshi", Banglavision HD
+http://103.163.247.39:80/local_out/banglavision/tracks-v1a1/mono.m3u8?token=At5F1MFZYnciB3
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pL1B7kt/20240815-181452.png" group-title="SR Bangladeshi" ,Boishakhi TV 
+https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Nt7hhK1/20240815-181346.png" group-title="SR Bangladeshi" ,SATV
+https://sr-premium-bd.vercel.app//api/aynaott/play.m3u8?channel_id=22
+
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/ekushey_tv.png" group-title="SR Bangladeshi" ,Ekushey TV
+https://sr-premium-bd.vercel.app//api/aynaott/play.m3u8?channel_id=5
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/T432dfs/20240815-181328.png" group-title="SR Bangladeshi", RTV HD
+http://103.163.247.39:80/local_out/rtv/video.m3u8?token=At5F1MFZYnciB3
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/P98mF2r/20240815-181318.png" group-title="SR Bangladeshi" ,Bangla TV
+https://sr-premium-bd.vercel.app//api/aynaott/play.m3u8?channel_id=29
+
+#EXTINF:-1 tvg-logo="https://tds-images.thedailystar.net/sites/default/files/styles/big_202/public/images/2021/08/12/channel_i.png" group-title="SR Bangladeshi" , Channel i
+http://103.163.247.39:80/local_out/channeli/video.m3u8?token=At5F1MFZYnciB3
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VBKhBmy/20240815-181253.png" group-title="SR Entertainment" ,Star Jalsha HD FTP
+http://172.16.29.2:8090/hls/starjalshahd.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vccXQhL/20240815-181223.png" group-title="SR Entertainment" ,Colors HD (BDIX)
+http://172.16.29.34/ontest1/ontest1/294
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vccXQhL/20240815-181223.png" group-title="SR Entertainment" ,Colors HD (JIO)
+https://iamranapk-com-wcc9.spidy.online/VOT/go.php?id=Colors_HD_voot_MOB
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vccXQhL/20240815-181223.png" group-title="SR Entertainment" ,Colors HD FTP
+http://172.16.29.2:8090/hls/colorshd.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vv7rV1v/image-Content-11915-j9l5clzs-m1.webp" group-title="SR Movies" ,Zee Cinema HD
+https://mhdmaxtv.me/nowmelive/stream.php?id=0-9-zeecinemahd|Referer=https://mhdmaxtv.me/z5/&key=thenayeemparvez
+
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11970-j9luk5ag-v1/imageContent-11970-j9luk5ag-m1.png" group-title="SR Entertainment" ,Zee Bangla HD
+http://172.16.29.2:8090/hls/zeebanglahd.m3u8
+
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11009-j8xbk7js-v1/imageContent-11009-j8xbk7js-m1.png" group-title="SR Movies" ,Zee Bangla Cinema
+https://mhdmaxtv.me/nowmelive/stream.php?id=0-9-zeebanglacinema|Referer=https://mhdmaxtv.me/z5/&key=thenayeemparvez
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4pQkwcX/20240815-205052.png" group-title="SR documentary" ,Discovery Bangla
+https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4pQkwcX/20240815-205052.png" group-title="SR documentary" ,Discovery Hindi
+https://varun-iptv.netlify.app/m3u/discoveryhindi.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/XWYWzgG/images.png" group-title="SR documentary" , National Geographic HD (BDIX)
+http://172.16.29.34/ontest1/ontest1/312
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4pQkwcX/20240815-205052.png" group-title="SR documentary" ,Animal Planet HD
+https://denver1769.pages.dev/Discovery/animal_planet_hd_hindi.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pdQfbjg/20240816-143214.png" group-title="SR Entertainment" ,Colors Bangla HD (JIO)
+https://iamranapk-com-wcc9.spidy.online/VOT/go.php?id=Colors_Bangla_HD_voot_MOB
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pdQfbjg/20240816-143214.png" group-title="SR Entertainment" ,Colors Bangla SD (JIO)
+https://iamranapk-com-wcc9.spidy.online/VOT/go.php?id=Colors_Bangla_voot_MOB
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NV4JPXV/20240816-145822.png" group-title="SR Movies" ,Colors Bangla Cinema (JIO)
+https://iamranapk-com-wcc9.spidy.online/VOT/go.php?id=Colors_Bangla_Cinema_voot_MOB
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kHtw2YZ/20240816-160121.png" group-title="SR Entertainment" ,Sony TV HD
+http://172.16.29.3:8090/hls/sonyhd.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kHtw2YZ/20240816-160121.png" group-title="SR Entertainment" ,Sony TV HD (BDIX)
+http://172.16.29.34/ontest1/ontest1/395
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/t8m47h0/20240816-143232.png" group-title="SR Movies" ,Sony Max HD
+http://172.16.29.2:8090/hls/sonymaxhd.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/t8m47h0/20240816-143232.png" group-title="SR Movies" ,Sony Max HD FHD
+http://103.205.133.71/SonyMaxFHD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/t8m47h0/20240816-143232.png" group-title="SR Movies" ,Sony Max HD (BDIX)
+http://172.16.29.34/ontest1/ontest1/323
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7twc8zN/20240818-124547.png" group-title="SR Entertainment" ,Sony Aath
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:77:87:1A&stream=373435&extension=ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7twc8zN/20240818-124547.png" group-title="SR Entertainment" ,Sony Aath FTP
+http://172.16.29.2:8090/hls/sonyatth.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hX8xKVW/20240816-152834.png" group-title="SR Movies" ,Jalsha Movies HD
+http://117.102.16.2:34567/play/STARJALSHAMOVIESHD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hX8xKVW/20240816-152834.png" group-title="SR Movies" ,Jalsha Movies HD (BDIX)
+http://172.16.29.34/ontest1/ontest1/387
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRb7TJ7dxWFjs3y0sMCduzNOXTbuZQO1dRtmo0exiK_6isDkiahYjP9XeNU&s=10" group-title="SR Movies" , Tara Bangla Cinema
+http://103.145.48.150:90/laosat24/taratv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FbkRHbt/20240816-150712.png" group-title="SR Movies" ,Colors Cineplex HD (JIO)
+https://iamranapk-com-wcc9.spidy.online/VOT/go.php?id=Colors_Cineplex_voot_MOB
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FbkRHbt/20240816-150712.png" group-title="SR Movies" ,Colors Cineplex HD BDIX
+http://172.16.29.34/ontest1/ontest1/491
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qkhk4g3/20240816-150730.png" group-title="SR Movies" ,Colors Cineplex SD (JIO)
+https://iamranapk-com-wcc9.spidy.online/VOT/go.php?id=Colors_Cineplex_SD_voot_MOB
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/b3CWhkd/20240816-150721.png" group-title="SR Movies" ,Colors Cineplex Superhit (JIO)
+https://iamranapk-com-wcc9.spidy.online/VOT/go.php?id=Rishtey_Cineplex_voot_MOB
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xJ1rnqW/20240803-105438.png" group-title="SR Movies", B4U MOVIE
+https://cdn2.pishow.tv/live/156/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/d2RxB8P/20240817-133048.png" group-title="SR Movies", Goldmines FD
+https://cdn-2.pishow.tv/live/1459/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1qFTv7R/4f1364dc-dbb0-47df-9a43-3f316b371053-180x180-Goldmines-Movies.jpg" group-title="SR Movies", Goldmines Movies FD
+https://cdn-2.pishow.tv/live/1461/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/zJgjkLs/wTCus2HY.png" group-title="SR Movies", All Time Movies FD
+http://172.105.123.238:18002/play/a065
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QCCFhSh/20240817-133814.png" group-title="SR Entertainment", Enterr10 Bangla
+https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/n6c0xPh/20240817-133826.png" group-title="SR Bangladeshi" ,Deepto Tv
+https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TmVc7XQ/20240817-133844.png" group-title="SR Bangladeshi" ,Asian Tv
+https://mtlivestream.com/asian/ytlive/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rkmsTgZ/20240817-133855.png" group-title="SR Bangladeshi" ,Maasranga Tv
+https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1fkFvQL/20240817-133908.png" group-title="SR Bangladeshi" ,My Tv
+https://mytvbangla.com/0.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/02xWysg/20240817-135436.png" group-title="SR Kids" ,Discovery Kids Hindi
+https://varun-iptv.netlify.app/m3u/discoverykidshindi.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2jbcj3m/20240817-141832.png" group-title="SR Kids" ,Disney Channel
+http://103.84.57.155:8000/play/a03u/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vvNk9vL/20240817-153116.png" group-title="SR Movies" ,RDC Movies
+https://janya-rdcmovies.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/230a723f-867d-4fa3-b2d2-a622ba994cd2/main.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1nG471H/20240816-160109.png" group-title="SR Movies" ,Star Gold FHD
+http://45.127.56.3:6699/live/Corpus-POL1/SRV4/1/STAR-GOLD-HD/live.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/n7bjFdc/20240817-171812.png" group-title="SR Kids" ,Duronto TV
+http://172.16.29.34/ontest1/ontest1/441
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/n7bjFdc/20240817-171812.png" group-title="SR Kids" ,POGO
+http://172.16.29.34/ontest1/ontest1/400
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hd5rMzc/star-gold-logo-D1-A2937-F35-seeklogo-com.png" group-title="SR Movies" , Star Gold HD (BDIX)
+http://172.16.29.34/ontest1/ontest1/340
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/NW64rB6/images.png" group-title="SR Movies" , Star Gold Select HD (BDIX)
+http://172.16.29.34/ontest1/ontest1/385
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLFRYLs_eqxFj6EsdH7yN7S53yVu3BzUpWLgHRdnDJvvKYNufcKBRiLih9&s=10" group-title="SR Movies" , ZEE Cinema HD (BDIX)
+http://172.16.29.34/ontest1/ontest1/360
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOf13q_I9xpXRUOo2p94qrTXIOrdhF3fQ5skF_RcKGFg3r7nH4-l9g5WKX&s=10" group-title="SR Movies" , And Picture HD (BDIX)
+http://172.16.29.34/ontest1/ontest1/404
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOf13q_I9xpXRUOo2p94qrTXIOrdhF3fQ5skF_RcKGFg3r7nH4-l9g5WKX&s=10" group-title="SR Movies" , & Picture HD
+http://172.16.29.3:8090/hls/AndPictureTV.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/Colors_TV_logo.svg" group-title="SR Entertainment" ,Colors SD (JIO)
+https://iamranapk-com-wcc9.spidy.online/VOT/go.php?id=Colors_voot_MOB
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pdQfbjg/20240816-143214.png" group-title="SR Entertainment" ,Colors Bangla HD (BDIX)
+http://172.16.29.34/ontest1/ontest1/386
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfqDdTe9G1pv5gxCSYPLEAMfa4z8IhK81gGQ&s" group-title="SR Bangladeshi" , Nagorik TV (BDIX)
+http://172.16.29.34/ontest1/ontest1/252
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rxfvjBN/20240817-215846.png" group-title="SR Sports" ,Gazi TV FTP
+http://10.10.10.2/live/fnf003/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/MkvHBbW/Sports18-1-HD.png" group-title="SR Sports" ,Sports 18 HD 1 (BDIX)
+http://172.16.29.34/ontest1/ontest1/336
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/MkvHBbW/Sports18-1-HD.png" group-title="SR Sports" ,Sports 18 HD 1 (JIO)
+https://jiotvbpklive.cdn.jio.com/bpk-tv/IDCDemo_IPL23_Sports18_MOB/Fallback/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.tsports.com/images/mobile_logo/1719672720-LIVE.jpg" group-title="SR Sports" ,T Sports Live 1
+http://10.10.10.2/live/fnf001/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.tsports.com/images/mobile_logo/1719672720-LIVE.jpg" group-title="SR Sports" ,T Sports Live 2
+http://172.16.29.3:8090/hls/tsportshd_feed2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tCgY1vF/20240820-171000.png" group-title="SR Sports" ,T Sports HD (BDIX) 1
+http://172.16.29.34/ontest1/ontest1/181
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tCgY1vF/20240820-171000.png" group-title="SR Sports" ,T Sports HD (BDIX) 2
+http://172.16.29.34/ontest1/ontest1/461
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rxfvjBN/20240817-215846.png" group-title="SR Sports" ,Gazi TV (BDIX)
+http://172.16.29.34/ontest1/ontest1/233
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/JQ5dfxJ/20241014-082122.png" group-title="SR Sports" , Star Sports HD 1 (BDIX)
+http://172.16.29.34/ontest1/ontest1/347
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xHtzmD3/20241014-082132.png" group-title="SR Sports" , Star Sports HD 2 (BDIX)
+http://172.16.29.34/ontest1/ontest1/349
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="SR Sports" , PTV Sports (BDIX)
+http://172.16.29.34/ontest1/ontest1/443
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/qngmqnm/20241014-082111.png" group-title="SR Sports" , Willow HD (BDIX)
+http://172.16.29.34/ontest1/ontest1/413
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png" group-title="SR Sports" , A Sports HD (BDIX)
+http://172.16.29.34/ontest1/ontest1/282
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT95vYtCnyh6haFPO25ufKvYuzP-kRMS23jaQ&usqp=CAU" group-title="SR Sports" , TNT Sports 1 HD (BDIX)
+http://172.16.29.34/ontest1/ontest1/366
+
+
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMmRkMGMzYTUtM2E2My00YjZlLWFmZjItMDA5M2EwNjNiZTNjXkEyXkFqcGdeQXVyNDY5MTUyNjU@._V1_.jpg" group-title="SR BDIX South" , Ala Vaikunthapurramuloo (2020)
 https://pixeldra.in/api/file/iKk8dMra?download
 
