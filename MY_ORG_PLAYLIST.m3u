@@ -36,8 +36,8 @@ https://sr-premium-bd.vercel.app//api/aynaott/play.m3u8?channel_id=26
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/02/Bangladesh_Television_Logo.svg" group-title="SR Bangladeshi", BTV HD (BDIX)
 http://172.16.29.34/ontest1/ontest1/446
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/02/Bangladesh_Television_Logo.svg" group-title="SR Bangladeshi", BTV HD
-https://sr-premium-bd.vercel.app//api/aynaott/play.m3u8?channel_id=0
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/02/Bangladesh_Television_Logo.svg" group-title="SR Bangladeshi", BTV HD (AKDTH)
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1709/output/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dtkcb19/20240815-181402.png" group-title="SR Bangladeshi" ,Atn Bangla
 https://app.ncare.live/live-orgin/atnbd-8-org.stream/playlist.m3u8
