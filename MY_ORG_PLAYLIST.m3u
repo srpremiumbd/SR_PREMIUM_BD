@@ -205,7 +205,7 @@ http://172.16.29.34/ontest1/ontest1/385
 http://172.16.29.34/ontest1/ontest1/360
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLFRYLs_eqxFj6EsdH7yN7S53yVu3BzUpWLgHRdnDJvvKYNufcKBRiLih9&s=10" group-title="SR Movies" , ZEE Cinema HD
-https://digitalviewonline.com/zee5_by_skshakib/playlist.php?id=ZeeCinemaHDELE&key=2105540&e=.m3u8
+https://live.drmlive-02.workers.dev/zee/zeecinemahd.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOf13q_I9xpXRUOo2p94qrTXIOrdhF3fQ5skF_RcKGFg3r7nH4-l9g5WKX&s=10" group-title="SR Movies" , And Picture HD (BDIX)
 http://172.16.29.34/ontest1/ontest1/404
