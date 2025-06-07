@@ -23,19 +23,19 @@ http://172.16.29.3:8090/hls/jamunatv.m3u8
 https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1701/output/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xHNpDpp/20240815-181423.png" group-title="SR News" ,Channel 24
-https://app.ncare.live/live-orgin/channel24-sg-e8e.stream/playlist.m3u8
+http://172.16.29.34/ontest1/ontest1/208
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4Z9gSdp/20240815-181521.png" group-title="SR News" ,Ekhon Tv 
-https://app.ncare.live/live-orgin/globaltv.stream/playlist.m3u8
+http://172.16.29.34/ontest1/ontest1/221
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0hbCzCH/20240818-174544.png" group-title="SR News" , Independent Television
-https://sr-premium-bd.vercel.app//api/aynaott/play.m3u8?channel_id=7
+http://172.16.29.34/ontest1/ontest1/236
 
 #EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/news_24_hd.png" group-title="SR News" ,News 24 HD
-https://sr-premium-bd.vercel.app//api/aynaott/play.m3u8?channel_id=27
+http://172.16.29.34/ontest1/ontest1/254
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/c3RNmkY/20240816-083023.png" group-title="SR News" ,DBC News 
-https://sr-premium-bd.vercel.app//api/aynaott/play.m3u8?channel_id=26
+http://172.16.29.34/ontest1/ontest1/213
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/02/Bangladesh_Television_Logo.svg" group-title="SR Bangladeshi", BTV HD (BDIX)
 http://172.16.29.34/ontest1/ontest1/446
