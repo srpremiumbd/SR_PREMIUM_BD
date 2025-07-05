@@ -2,8 +2,9 @@
 
 t.me/sr_premium
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/vbmWzcW/Screenshot-20250423-203919.jpg" group-title="Movies Request", @sr_premium
-https://pixeldrain.com/api/file/Zfxt4VfG
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XBqrRYk/Screenshot-20250705-154127.jpg" group-title="Movies Request", @sr_premium
+https://pixeldrain.net/api/file/QenKNpVf?download
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7dKbtRhd/20250428-175512.jpg" group-title="SR BDIX South" , Ala Vaikunthapurramuloo (2020)
 https://pixeldrain.dev/api/file/iKk8dMra?download
