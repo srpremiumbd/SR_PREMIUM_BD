@@ -8,6 +8,9 @@ https://pixeldrain.net/api/file/QenKNpVf?download
 https://pixeldrain.net/api/file/ANoP6yRU?download
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4wmvmYKg/images.jpg" group-title="SR BDIX Movies", Colors Bangla Cinema
+https://tiger-hub.vercel.app/Colors-bangla-cinema/tracks-v1a1/mono.ts.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dsjBs0v6/1920x1080listf776e74efc6f4aae8f68ffd877450e9a-webp.webp" group-title="SR BDIX ZEE5", ZEE CINEMA HD
 https://live.drmlive-02.workers.dev/zee/0-9-zeecinemahd.m3u8
 
