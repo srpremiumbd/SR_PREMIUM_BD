@@ -26,6 +26,33 @@ https://tiger-hub.vercel.app/Sun-bangla/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4wmvmYKg/images.jpg" group-title="SR BDIX Movies", Colors Bangla Cinema
 https://tiger-hub.vercel.app/Colors-bangla-cinema/tracks-v1a1/mono.ts.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tw529j5W/WILLOW-2023-Primary-Stacked.png" group-title="SR BDIX Sports", WillowHD
+https://tiger-hub.vercel.app/WillowHD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SDPwLM04/images-edit-202648505685744.jpg" group-title="SR BDIX Sports", WillowHD 2
+https://tiger-hub.vercel.app/WillowHD-2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JjQkSVDP/SS1HD.jpg" group-title="SR BDIX Sports", Star Sports 1 HD
+https://tiger-hub.vercel.app/Star_Sports-1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/67P77YL6/SS1Hindi.jpg" group-title="SR BDIX Sports", StarSports 1 Hindi HD
+https://tiger-hub.vercel.app/Star_Sports-1_Hindy/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TMthB2ky/4qm3dw1692437861.png" group-title="SR BDIX Sports", LaLiga tv(DAZN)
+https://tiger-hub.vercel.app/DAZN-LaLiga/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mr5GbcjQ/images.jpg" group-title="SR BDIX Sports", LaLiga TV
+https://tiger-hub.vercel.app/LaLiga_TV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/chm1MXyt/images.png" group-title="SR BDIX Sports", Bein sports 2 ENG
+https://tiger-hub.vercel.app/Bein-sports_2_ENG/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QjKBhLHy/images-1.jpg" group-title="SR BDIX Sports", SkySports premire League
+https://tiger-hub.vercel.app/SkySports-premire_League/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/H19VgMD/Sky-sports-football.jpg" group-title="SR BDIX Sports", SkySports Football
+https://tiger-hub.vercel.app/SkySports-Football/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dsjBs0v6/1920x1080listf776e74efc6f4aae8f68ffd877450e9a-webp.webp" group-title="SR BDIX ZEE5", ZEE CINEMA HD
 https://live.drmlive-02.workers.dev/zee/0-9-zeecinemahd.m3u8
 
