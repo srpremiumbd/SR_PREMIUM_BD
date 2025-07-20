@@ -12,7 +12,8 @@ http://tvsen5.aynaott.com/gUX8BJmNc2yF/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Q3dvxGTv/Star-Jalsha-HD-logo-2019.png" group-title="SR BDIX Entertainment", Star Jalsha HD Server 2
 https://smart.bengaldigital.live/Star-jalsha/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xSC0FPSb/Colors-HD.png" group-title="SR BDIX Entertainment", Colors HD (Jio) https://mini1.allinonereborn.xyz/jiotv-ww192/app/ts_live_144.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xSC0FPSb/Colors-HD.png" group-title="SR BDIX Entertainment", Colors HD (Jio)
+https://mini1.allinonereborn.xyz/jiotv-ww192/app/ts_live_144.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fVjnSQr6/Colors-Bengali-HD.png" group-title="SR BDIX Entertainment", Colors Bangla HD (jio)
 https://mini1.allinonereborn.xyz/jiotv-ww192/app/ts_live_756.m3u8
