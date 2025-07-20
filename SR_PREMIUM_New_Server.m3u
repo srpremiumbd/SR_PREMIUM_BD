@@ -6,6 +6,46 @@ https://pixeldrain.net/api/file/QenKNpVf?download
 
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Q3dvxGTv/Star-Jalsha-HD-logo-2019.png" group-title="SR BDIX Entertainment", Star Jalsha HD AynaOTT
+http://tvsen5.aynaott.com/gUX8BJmNc2yF/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Q3dvxGTv/Star-Jalsha-HD-logo-2019.png" group-title="SR BDIX Entertainment", Star Jalsha HD Server 2
+https://smart.bengaldigital.live/Star-jalsha/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xSC0FPSb/Colors-HD.png" group-title="SR BDIX Entertainment", Colors HD (Jio) https://mini1.allinonereborn.xyz/jiotv-ww192/app/ts_live_144.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fVjnSQr6/Colors-Bengali-HD.png" group-title="SR BDIX Entertainment", Colors Bangla HD (jio)
+https://mini1.allinonereborn.xyz/jiotv-ww192/app/ts_live_756.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4ZVb0w26/Rishtey-Cineplex.png" group-title="SR BDIX Movies", Colors Cineplex Superhits (jio)
+https://mini1.allinonereborn.xyz/jiotv-ww192/app/ts_live_1450.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/h60FcrF/Sony-HD.png" group-title="SR BDIX Entertainment", Sony TV HD
+https://tataplay.slivcdn.com/hls/live/2011671/SETHD/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QvhVw04z/Sony-Aath-new.png" group-title="SR BDIX Entertainment", Sony Aath Server 2
+https://tataplay.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/b4ghfvf/Sony-SAB-HD.png" group-title="SR BDIX Entertainment", Sony Sab HD
+https://tataplay.slivcdn.com/hls/live/2011749/SABHD/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RpsD7VW2/Sony-Max-SD.png" group-title="SR BDIX Movies", Sony Max SD
+https://tataplay.slivcdn.com/hls/live/2011745/SonyMaxSD/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nMq0Wm1W/Sony-Max-HD.png" group-title="SR BDIX Entertainment", Sony Max HD Server 2
+https://tataplay.slivcdn.com/hls/live/2011670/SonyMaxhd/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8DyjsCSP/Color-Cineplex-HD.png" group-title="SR BDIX Movies", Colors Cineplex HD (jio)
+https://mini1.allinonereborn.xyz/jiotv-ww192/app/ts_live_1477.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/84xTSC9L/Colors-Cineplex.png" group-title="SR BDIX Movies", Colors Cineplex SD (jio)
+https://mini1.allinonereborn.xyz/jiotv-ww192/app/ts_live_1477.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tP468hPt/Colors-Bangla-Cinema.png" group-title="SR BDIX Movies", Colors Bangla Cinema (jio)
+https://mini1.allinonereborn.xyz/jiotv-ww192/app/ts_live_1657.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8463QyZN/Colors-Bangla.png" group-title="SR BDIX Entertainment", Colors Bangla SD (jio)
+https://mini1.allinonereborn.xyz/jiotv-ww192/app/ts_live_1369.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8D5CZnXs/Star-Jalsha-HD-logo-2011.png" group-title="SR BDIX Entertainment", Star Jalsha HD
 https://tiger-hub.vercel.app/Star-jalsha/tracks-v1a1/mono.ts.m3u8
