@@ -12,7 +12,7 @@ http://172.16.29.34/ontest1/ontest1/317
 http://172.16.29.3:8090/hls/somoytv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Hzh8T61/20240815-181437.png" group-title="SR News" ,Somoy Tv AynaOTT
-https://tvsen6.aynaott.com/nagoriktv/tracks-v1a1/mono.ts.m3u8
+https://tvsen6.aynaott.com/somoytv/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Hzh8T61/20240815-181437.png" group-title="SR News" ,Somoy Tv AkashGO
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
