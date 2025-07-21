@@ -215,8 +215,11 @@ https://iamranapk-com-wcc9.spidy.online/VOT/go.php?id=Colors_voot_MOB
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pdQfbjg/20240816-143214.png" group-title="SR Entertainment" ,Colors Bangla HD (BDIX)
 http://172.16.29.34/ontest1/ontest1/386
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfqDdTe9G1pv5gxCSYPLEAMfa4z8IhK81gGQ&s" group-title="SR Bangladeshi" , Nagorik TV (BDIX)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/M5Pgycr9/Logo-of-Nagorik-TV-svg.png" group-title="SR Bangladeshi" , Nagorik TV (BDIX)
 http://172.16.29.34/ontest1/ontest1/252
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/M5Pgycr9/Logo-of-Nagorik-TV-svg.png" group-title="SR Bangladeshi" , Nagorik TV AynaOTT
+https://tvsen6.aynaott.com/nagoriktv/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rxfvjBN/20240817-215846.png" group-title="SR Sports" ,Gazi TV FTP
 http://10.10.10.2/live/fnf003/index.m3u8
