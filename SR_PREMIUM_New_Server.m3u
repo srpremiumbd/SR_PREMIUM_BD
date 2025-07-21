@@ -6,6 +6,37 @@ https://pixeldrain.net/api/file/QenKNpVf?download
 
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rGdfktdB/Logo-of-Deepto-TV-svg.png" group-title="SR BDIX AkashGO", Deepto TV HD 
+https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Kx47XxNg/Logo-of-Channel-24-Bangladesh-svg.png" group-title="SR BDIX AkashGO", Channel 24 HD 
+https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3Yym9LLW/SOMOY-TV-Logo-svg.png" group-title="SR BDIX AkashGO", Somoy TV 
+https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZqbjR8N/Independent-Television-Logo-svg.png" group-title="SR BDIX AkashGO", Independent TV 
+https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4ZLWjLTP/images.jpg" group-title="SR BDIX AkashGO", Jamuna TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xqTCKj1J/Banglavision-svg.png" group-title="SR BDIX AkashGO", Banglavision
+https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Cp8pGM8D/1677040358634-BTVogo.png" group-title="SR BDIX AkashGO", BTV HD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fmY3XVs/NTV-Bangladesh-logo-svg.png" group-title="SR BDIX AkashGO", NTV HD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yBKyDFzc/Logo-of-ATN-Bangla-svg.png" group-title="SR BDIX AkashGO", ATN Bangla
+https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zWGCyqrV/Channel-i-svg.png" group-title="SR BDIX AkashGO", Channel i HD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Q3dvxGTv/Star-Jalsha-HD-logo-2019.png" group-title="SR BDIX Entertainment", Star Jalsha HD AynaOTT
 http://tvsen5.aynaott.com/gUX8BJmNc2yF/tracks-v1a1/mono.ts.m3u8
 
