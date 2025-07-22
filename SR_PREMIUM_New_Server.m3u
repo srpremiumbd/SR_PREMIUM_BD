@@ -5,6 +5,12 @@ t.me/sr_premium
 https://pixeldrain.net/api/file/QenKNpVf?download
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Kpmncv42/T-Sports-logo-svg.png" group-title="SR Sports" ,T Sports HD Server 1
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA_EZvRERoc3gLd1P3fd64kk/m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Kpmncv42/T-Sports-logo-svg.png" group-title="SR Sports" ,T Sports HD Server 2
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA7DzImxWwZd-nNy7aKwgGzI/m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/T-Sports-Playlist-Auto-Update/refs/heads/main/images/images%20(6)%20(9).jpeg" group-title="SR Sports" ,T Sports HD App 1
 https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8
 
