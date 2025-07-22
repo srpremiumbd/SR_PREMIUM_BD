@@ -5,6 +5,11 @@ t.me/sr_premium
 https://pixeldrain.net/api/file/QenKNpVf?download
 
 
+#EXTINF:-1 tvg-logo="https://image.tsports.com/images/mobile_logo/1719672720-LIVE.jpg" group-title="SR Sports" ,T Sports Live 1
+http://10.10.10.2/live/fnf003/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rxfvjBN/20240817-215846.png" group-title="SR Sports" ,Gazi TV FTP 2
+http://10.10.10.2/live/fnf003/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rxfvjBN/20240817-215846.png" group-title="SR Sports" ,Gazi TV FTP 
 http://172.16.29.3:8090/hls/gazitvhd.m3u8
