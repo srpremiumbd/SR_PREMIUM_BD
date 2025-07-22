@@ -4,8 +4,6 @@ t.me/sr_premium
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XBqrRYk/Screenshot-20250705-154127.jpg" group-title="Movies Request", @sr_premium
 https://pixeldrain.net/api/file/QenKNpVf?download
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/XBqrRYk/Screenshot-20250705-154127.jpg" group-title="Movies Request", @
-http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA7DzImxWwZd-nNy7aKwgGzI/m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Hzh8T61/20240815-181437.png" group-title="SR News" ,Somoy Tv (BDIX)
 http://172.16.29.34/ontest1/ontest1/317
@@ -256,7 +254,7 @@ http://172.16.29.34/ontest1/ontest1/181
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tCgY1vF/20240820-171000.png" group-title="SR Sports" ,T Sports HD (BDIX) 2
 http://172.16.29.34/ontest1/ontest1/461
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tCgY1vF/20240820-171000.png" group-title="SR Sports" ,T Sports HD AynaOTT
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/8f951219-25ee-4c91-80ff-25cf62577599.png" group-title="SR Sports" ,T Sports HD AynaOTT
 https://tvsen5.aynaott.com/YNMn5kZz8aLm/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rxfvjBN/20240817-215846.png" group-title="SR Sports" ,Gazi TV (BDIX)
