@@ -236,6 +236,9 @@ https://tvsen6.aynaott.com/nagoriktv/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rxfvjBN/20240817-215846.png" group-title="SR Sports" ,Gazi TV FTP
 http://10.10.10.2/live/fnf003/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rxfvjBN/20240817-215846.png" group-title="SR Sports" ,Gazi TV FTP 2
+http://172.16.29.3:8090/hls/gazitvhd.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/MkvHBbW/Sports18-1-HD.png" group-title="SR Sports" ,Sports 18 HD 1 (BDIX)
 http://172.16.29.34/ontest1/ontest1/336
 
