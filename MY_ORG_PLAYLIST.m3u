@@ -288,6 +288,18 @@ http://172.16.29.34/ontest1/ontest1/282
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT95vYtCnyh6haFPO25ufKvYuzP-kRMS23jaQ&usqp=CAU" group-title="SR Sports" , TNT Sports 1 HD (BDIX)
 http://172.16.29.34/ontest1/ontest1/366
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qLpJBJnt/Ten-3.png" group-title="SR BDIX SR Sports", Sony Sports 3 Hindi HD
+https://tataplay.slivcdn.com/hls/live/2020591-b/TEN3HD/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DPxdqYXG/181x0-icon.png" group-title="SR BDIX SR Sports", Sony Sports 5 HD
+https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JjwvmvCW/SST4-Telugu.jpg" group-title="SR BDIX SR Sports", Sony Sports 4 Telugu
+https://tataplay.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qLjcrHx3/SONY-Sports-Ten1-HD-Logo-CLR.png" group-title="SR BDIX SR Sports", Sony Sports 1 HD
+https://tataplay.slivcdn.com/hls/live/2011747-b/TEN1HD/master.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7dKbtRhd/20250428-175512.jpg" group-title="SR BDIX South" , Ala Vaikunthapurramuloo (2020)
