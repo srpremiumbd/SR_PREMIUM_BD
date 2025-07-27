@@ -20,6 +20,24 @@ https://tataplay.slivcdn.com/hls/live/2011747-b/TEN1HD/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hQQq9ua.jpeg" group-title="SR Sports" ,T Sports HD Server 3
 http://103.15.140.138/tsports/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Six_HD.png" group-title="SR BDIX Sports", Sony Ten 5 HD
+http://103.120.172.74:4300
+
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Max_HD.png" group-title="SR BDIX Movies", Sony MaX HD
+http://103.120.172.74:1120
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/2560px-Star_Sports_1_HD.png" group-title="SR BDIX Sports", Star Sports 1 HD
+http://103.120.172.74:4600
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/af/Star-sports-select-2-hd.png/revision/latest?cb=20230128175317" group-title="SR BDIX Sports", Star Sports Select 2 HD 
+http://103.120.172.74:4700
+
+#EXTINF:-1 tvg-logo="https://medianet.mv/media/channel/187x0-icon.png" group-title="SR BDIX Sports", Sony Ten 2 HD
+http://103.120.172.74:4800
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d0/SS1_Hindi_HD.JPG/revision/latest?cb=20240313194838" group-title="SR BDIX Sports", Star Sports 1 hindi
+http://103.120.172.74:5500
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Hzh8T61/20240815-181437.png" group-title="SR News" ,Somoy Tv (BDIX)
 http://172.16.29.34/ontest1/ontest1/317
 
@@ -293,25 +311,6 @@ https://live.drmlive-02.workers.dev/zee/0-9-9z5383488.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wrLspgqJ/images.jpg" group-title="SR BDIX ZEE5", Zee Chitramandir
 https://live.drmlive-02.workers.dev/zee/0-9-394.m3u8
-
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Six_HD.png" group-title="SR BDIX Sports", Sony Ten 5 HD
-http://103.120.172.74:4300
-
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Max_HD.png" group-title="SR BDIX Movies", Sony MaX HD
-http://103.120.172.74:1120
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/2560px-Star_Sports_1_HD.png" group-title="SR BDIX Sports", Star Sports 1 HD
-http://103.120.172.74:4600
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/af/Star-sports-select-2-hd.png/revision/latest?cb=20230128175317" group-title="SR BDIX Sports", Star Sports Select 2 HD 
-http://103.120.172.74:4700
-
-#EXTINF:-1 tvg-logo="https://medianet.mv/media/channel/187x0-icon.png" group-title="SR BDIX Sports", Sony Ten 2 HD
-http://103.120.172.74:4800
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d0/SS1_Hindi_HD.JPG/revision/latest?cb=20240313194838" group-title="SR BDIX Sports", Star Sports 1 hindi
-http://103.120.172.74:5500
-
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PsyTV35x/PGT-1822-2.png" group-title="SR BDIX Movies" , Sony Max1
 https://rex-streaming.vercel.app/api/just-test/sonym@x1.m3u8|user-agent=@xfireflixbd
