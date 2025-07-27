@@ -5,6 +5,9 @@ t.me/sr_premium
 https://pixeldrain.net/api/file/QenKNpVf?download
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8DyjsCSP/Color-Cineplex-HD.png" group-title="SR BDIX Movies", Colors Cineplex HD
+https://live.dinesh29.com.np/stream/livetv/cineplexhd/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qLpJBJnt/Ten-3.png" group-title="SR Sports", Sony Sports 3 Hindi HD
 https://tataplay.slivcdn.com/hls/live/2020591-b/TEN3HD/master.m3u8
 
@@ -149,9 +152,6 @@ https://tataplay.slivcdn.com/hls/live/2011745/SonyMaxSD/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nMq0Wm1W/Sony-Max-HD.png" group-title="SR BDIX Entertainment", Sony Max HD Server 2
 https://tataplay.slivcdn.com/hls/live/2011670/SonyMaxhd/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8DyjsCSP/Color-Cineplex-HD.png" group-title="SR BDIX Movies", Colors Cineplex HD (jio)
-https://mini1.allinonereborn.xyz/jiotv-ww192/app/ts_live_1477.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8D5CZnXs/Star-Jalsha-HD-logo-2011.png" group-title="SR BDIX Entertainment", Star Jalsha HD
 https://tiger-hub.vercel.app/Star-jalsha/tracks-v1a1/mono.ts.m3u8
