@@ -1,6 +1,9 @@
 #EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/54163718-53c4-4ac6-8d86-ceca29d69554.png" group-title="SR AynaOTT", BTV National
 https://tvsen6.aynaott.com/btvhd/tracks-v1a1/mono.ts.m3u8
 
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/3e176e82-a168-4371-aa1e-ac4064d5133e.png" group-title="SR AynaOTT", BTV Chattogram
+https://tvsen6.aynaott.com/btvctg/tracks-v1a1/mono.ts.m3u8
+
 #EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/f23ac7b0-7b7f-42e9-8c94-87d09d72f2f3.png" group-title="SR AynaOTT", Channel i HD
 https://tvsen6.aynaott.com/channeli/tracks-v1a1/mono.ts.m3u8
 
