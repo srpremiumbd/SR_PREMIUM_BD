@@ -5,6 +5,12 @@ t.me/sr_premium
 https://pixeldrain.net/api/file/QenKNpVf?download
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hd5rMzc/star-gold-logo-D1-A2937-F35-seeklogo-com.png" group-title="SR Movies" , Star Gold HD
+https://live.dinesh29.com.np/stream/livetv/stargoldhd/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/NW64rB6/images.png" group-title="SR Movies" , Star Gold Select HD
+https://live.dinesh29.com.np/stream/livetv/stargoldselecthd/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dsjBs0v6/1920x1080listf776e74efc6f4aae8f68ffd877450e9a-webp.webp" group-title="SR BDIX Movies", ZEE CINEMA HD
 https://live.dinesh29.com.np/stream/livetv/zeecinemahd/master.m3u8
 
