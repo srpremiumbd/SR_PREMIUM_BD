@@ -214,13 +214,13 @@ http://172.16.29.34/ontest1/ontest1/385
 http://172.16.29.34/ontest1/ontest1/360
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLFRYLs_eqxFj6EsdH7yN7S53yVu3BzUpWLgHRdnDJvvKYNufcKBRiLih9&s=10" group-title="SR Movies" , ZEE Cinema HD
-https://live.drmlive-02.workers.dev/zee/zeecinemahd.m3u8
+https://live.dinesh29.com.np/stream/tataplay/zeecinemahd/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOf13q_I9xpXRUOo2p94qrTXIOrdhF3fQ5skF_RcKGFg3r7nH4-l9g5WKX&s=10" group-title="SR Movies" , And Picture HD (BDIX)
 http://172.16.29.34/ontest1/ontest1/404
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOf13q_I9xpXRUOo2p94qrTXIOrdhF3fQ5skF_RcKGFg3r7nH4-l9g5WKX&s=10" group-title="SR Movies" , & Picture HD
-https://live.drmlive-02.workers.dev/zee/0-9-tvpictureshd.m3u8
+https://live.dinesh29.com.np/stream/tataplay/andpictureshd/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/Colors_TV_logo.svg" group-title="SR Entertainment" ,Colors SD (JIO)
 https://iamranapk-com-wcc9.spidy.online/VOT/go.php?id=Colors_voot_MOB
