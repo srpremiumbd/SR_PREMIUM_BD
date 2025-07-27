@@ -5,6 +5,12 @@ t.me/sr_premium
 https://pixeldrain.net/api/file/QenKNpVf?download
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kHtw2YZ/20240816-160121.png" group-title="SR Entertainment" ,Sony TV HD Server 2
+https://live.dinesh29.com.np/stream/livetv/sonyentertainmenthd/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vccXQhL/20240815-181223.png" group-title="SR Entertainment" ,Colors HD
+https://live.dinesh29.com.np/stream/livetv/colorshd/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/hd5rMzc/star-gold-logo-D1-A2937-F35-seeklogo-com.png" group-title="SR Movies" , Star Gold HD
 https://live.dinesh29.com.np/stream/livetv/stargoldhd/master.m3u8
 
