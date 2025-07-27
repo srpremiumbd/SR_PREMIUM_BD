@@ -5,6 +5,12 @@ t.me/sr_premium
 https://pixeldrain.net/api/file/QenKNpVf?download
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dsjBs0v6/1920x1080listf776e74efc6f4aae8f68ffd877450e9a-webp.webp" group-title="SR BDIX Movies", ZEE CINEMA HD
+https://live.dinesh29.com.np/stream/livetv/zeecinemahd/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/QMwWnZUBtpl-Sbt7S2sx/posters/f2e6acfd-0031-4ca4-b954-c014a0c99058.png" group-title="SR BDIX Movies", And Pictures HD
+https://live.dinesh29.com.np/stream/tataplay/andpictureshd/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8DyjsCSP/Color-Cineplex-HD.png" group-title="SR BDIX Movies", Colors Cineplex HD
 https://live.dinesh29.com.np/stream/livetv/cineplexhd/master.m3u8
 
