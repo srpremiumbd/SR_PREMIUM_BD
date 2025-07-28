@@ -5,43 +5,6 @@ t.me/sr_premium
 https://pixeldrain.net/api/file/QenKNpVf?download
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/39wXZsRD/SET-LOGO-HD.png" group-title="SonyLIV-SR PREMIUM",SET HD
-https://tataplay.slivcdn.com/hls/live/2011671/SETHD/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wZKcW8fs/SONY-SAB-HD-WHITE.png" group-title="SonyLIV-SR PREMIUM",Sony SAB HD
-https://tataplay.slivcdn.com/hls/live/2011749/SABHD/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/1Y9DbbdY/SONY-PAL.png" group-title="SonyLIV-SR PREMIUM",Sony PAL
-https://tataplay.slivcdn.com/hls/live/2011741/SonyPalSD/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/fLVDrGK/SONY-YAY.png" group-title="SonyLIV-SR PREMIUM",Sony YAY
-https://tataplay.slivcdn.com/hls/live/2011746/SonyYaySD/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Y4H79YJz/Sony-MARATHI.png" group-title="SonyLIV-SR PREMIUM",Sony Marathi
-https://tataplay.slivcdn.com/hls/live/2011740/SonyMarathi/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/WvQVGNd4/SONY-AATH.png" group-title="SonyLIV-SR PREMIUM",Sony AATH
-https://tataplay.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/twYsJJyW/Sony-MAX-HD-WHITE.png" group-title="SonyLIV-SR PREMIUM",Sony MAX HD
-https://tataplay.slivcdn.com/hls/live/2011670/SonyMaxhd/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/FLG3zp54/Sony-MAX.png" group-title="SonyLIV-SR PREMIUM",Sony MAX
-https://tataplay.slivcdn.com/hls/live/2011745/SonyMaxSD/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Z6tvP31y/Sony-WAH.png" group-title="SonyLIV-SR PREMIUM",Sony WAH
-https://tataplay.slivcdn.com/hls/live/2011906/SonyWah/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ttkGxvB/Sony-MAX2.png" group-title="SonyLIV-SR PREMIUM",Sony MAX2
-https://tataplay.slivcdn.com/hls/live/2011908/MAX2/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MyVy3RQ0/PIX-HD-WHITE.png" group-title="SonyLIV-SR PREMIUM",Sony PIX HD
-https://tataplay.slivcdn.com/hls/live/2011748/PIXHD/master.m3u8
-
-#EXTINF: -1 tvg-logo="https://i.ibb.co/twX0xwPT/SBBCE-LOGO-NEW-PNG.png" group-title="SonyLIV-SR PREMIUM",Sony BBC Earth HD
-https://tataplay.slivcdn.com/hls/live/2011907/SonyBBCEarthHD/master.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Hzh8T61/20240815-181437.png" group-title="SR News" ,Somoy Tv (BDIX)
 http://172.16.29.34/ontest1/ontest1/317
