@@ -37,4 +37,15 @@ https://tataplay.slivcdn.com/hls/live/2011748/PIXHD/master.m3u8
 #EXTINF: -1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SBBCE_LOGO_NEW_PNG.png" group-title="SonyLIV-SR PREMIUM",Sony BBC Earth HD
 https://tataplay.slivcdn.com/hls/live/2011907/SonyBBCEarthHD/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qLpJBJnt/Ten-3.png" group-title="SonyLIV-SR PREMIUM", Sony Sports 3 Hindi HD
+https://tataplay.slivcdn.com/hls/live/2020591-b/TEN3HD/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DPxdqYXG/181x0-icon.png" group-title="SonyLIV-SR PREMIUM", Sony Sports 5 HD
+https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JjwvmvCW/SST4-Telugu.jpg" group-title="SonyLIV-SR PREMIUM", Sony Sports 4 Telugu
+https://tataplay.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qLjcrHx3/SONY-Sports-Ten1-HD-Logo-CLR.png" group-title="SonyLIV-SR PREMIUM", Sony Sports 1 HD
+https://tataplay.slivcdn.com/hls/live/2011747-b/TEN1HD/master.m3u8
 
