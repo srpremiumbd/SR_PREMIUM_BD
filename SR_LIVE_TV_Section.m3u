@@ -55,6 +55,119 @@ https://tataplay.slivcdn.com/hls/live/2011747-b/TEN1HD/master.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/54163718-53c4-4ac6-8d86-ceca29d69554.png" group-title="SR AynaOTT", BTV National
+https://tvsen6.aynaott.com/btvhd/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/3e176e82-a168-4371-aa1e-ac4064d5133e.png" group-title="SR AynaOTT", BTV Chattogram
+https://tvsen6.aynaott.com/btvctg/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/f23ac7b0-7b7f-42e9-8c94-87d09d72f2f3.png" group-title="SR AynaOTT", Channel i HD
+https://tvsen6.aynaott.com/channeli/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/cc8f548e-089c-47f6-8b6f-ff8699fb2a3d.png" group-title="SR AynaOTT", Jamuna TV
+https://tvsen6.aynaott.com/jamunatv/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/1a695f5d-e1b7-43f7-95bd-a3d17787891e.png" group-title="SR AynaOTT", Somoy TV
+https://tvsen6.aynaott.com/somoytv/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/1a33c7ab-d12a-4b70-bd10-697aa2886451.png" group-title="SR AynaOTT", Ekushey TV
+https://tvsen6.aynaott.com/etv/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/b1684d4d-63b5-496b-b4d5-bc88129ac4e6.png" group-title="SR AynaOTT", Independent TV
+https://tvsen6.aynaott.com/independenttv/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/0eb2b55a-a44d-4d44-abd1-c4de611ff941.png" group-title="SR AynaOTT", Boishakhi TV
+https://tvsen6.aynaott.com/boishakhitv/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/581fb949-ddaf-4f57-8cad-ca92985407aa.png" group-title="SR AynaOTT", Maasranga TV
+https://tvsen6.aynaott.com/maasrangatv/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/ac92db20-1e80-40da-aa95-ccaa3072d95d.png" group-title="SR AynaOTT", Desh TV
+https://tvsen6.aynaott.com/deshtv/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/af0bb392-5459-4ae0-a7f7-861e49ee0573.png" group-title="SR AynaOTT", My TV
+https://tvsen6.aynaott.com/mytv/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/d067d664-002b-4b58-aae3-3e2b6c643dcf.png" group-title="SR AynaOTT", ATN News
+https://tvsen6.aynaott.com/atnnews/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/f535895a-3b1d-49f4-a6e2-544a5e90510c.png" group-title="SR AynaOTT", Mohona TV
+https://tvsen6.aynaott.com/mohonatv/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/44597fbf-862c-42a2-a542-6436abde3ffe.png" group-title="SR AynaOTT", Bijoy TV
+https://tvsen6.aynaott.com/bijoytv/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/226d28bf-a5aa-4889-9de1-4d5654021fea.png" group-title="SR AynaOTT", Gazi TV HD
+https://tvsen6.aynaott.com/gtvhdforgame/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/346b6f47-c3d7-456e-bd98-d563d383c18a.png" group-title="SR AynaOTT", Channel 9
+https://tvsen6.aynaott.com/channel9/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/b6aa0497-735a-471c-9812-c42256e9b8de.png" group-title="SR AynaOTT", Channel 24
+https://tvsen6.aynaott.com/channel24/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1YpLBVGJ/logo-footer.png" group-title="SR AynaOTT", Ekattor TV
+https://tvsen6.aynaott.com/ekattorbdtv/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/whSc1ZVH/images.jpg" group-title="SR AynaOTT", Asian TV
+https://tvsen6.aynaott.com/asiantv/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/bf0b6e80-ff46-4929-8f51-3b4c762a4909.png" group-title="SR AynaOTT", SA TV
+https://tvsen6.aynaott.com/satv/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/8f951219-25ee-4c91-80ff-25cf62577599.png" group-title="SR AynaOTT", T sports HD
+https://tvsen6.aynaott.com/tsportsfhd/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/8a826f10-626d-435d-aa6d-1d94ee2eba01.png" group-title="SR AynaOTT", DBC News
+https://tvsen6.aynaott.com/dbcnews/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/456be57e-2988-428c-af5d-9499ce726fb8.png" group-title="SR AynaOTT", News 24
+https://tvsen6.aynaott.com/news24/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/b36ee02a-f3a1-4fe0-8c6c-b6fd237c20a7.png" group-title="SR AynaOTT", Bangla TV
+https://tvsen6.aynaott.com/banglatv/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/c9e1a9bb-bd4a-4782-908a-b3d1e94e9ccd.png" group-title="SR AynaOTT", Ananda TV
+https://tvsen6.aynaott.com/anandatv/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/b6b293e3-a9bc-4957-8110-435cf7464649.png" group-title="SR AynaOTT", Duronto TV
+https://tvsen6.aynaott.com/durontotv/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/41f41d61-4fa8-4b5f-9fe8-42632d7b599b.png" group-title="SR AynaOTT", Ekhon TV
+https://tvsen6.aynaott.com/ekhontv/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/M5Pgycr9/Logo-of-Nagorik-TV-svg.png" group-title="SR AynaOTT", Nagorik TV
+https://tvsen6.aynaott.com/nagoriktv/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/3a0902c7-364d-4506-88a6-5c54840237d9.png" group-title="SR AynaOTT", Zee Cinema HD 
+https://tvsen6.aynaott.com/ZeeCinemaHD/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/4dd960d0-da32-4c23-b9aa-2d6b7e567ae1.png" group-title="SR AynaOTT", Nat Geo TV
+https://tvsen6.aynaott.com/natgeo/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/583734a3-8fdb-4d9a-a1e4-64dd31d58624.png" group-title="SR AynaOTT", Aakaash 8
+https://tvsen6.aynaott.com/aakaashBangla/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/db2f96e4-5633-4c83-b2a9-c8cacc2c876c.png" group-title="SR AynaOTT", Rupshi Bangla
+https://tvsen6.aynaott.com/RupshiBangla/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/bafa3370-8092-4974-8924-8c6bf4627bad.png" group-title="SR AynaOTT", B4U Kadak
+https://tvsen6.aynaott.com/B4U_Kadak/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/33b4e6d7-d66c-4afd-81ca-0ecd90e3e112.png" group-title="SR AynaOTT", Dhinchaak
+https://tvsen6.aynaott.com/Dhinchaak/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/c637b921-8577-4487-a3c8-9469cbd5dd4e.png" group-title="SR AynaOTT", Goldmines
+https://tvsen6.aynaott.com/Goldmines/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/4087eb73-46cd-4f54-a2a8-38f73caba875.png" group-title="SR AynaOTT", Goldmines Bollywood
+https://tvsen6.aynaott.com/GoldminesBollywood/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/80cda149-7530-47bb-83c7-7a1923d9bcc1.png" group-title="SR AynaOTT", Goldmimes Movies
+https://tvsen6.aynaott.com/GoldminesMovies/tracks-v1a1/mono.ts.m3u8
+
+
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kHtw2YZ/20240816-160121.png" group-title="SR BDIX Entertainment" ,Sony TV HD Server 2
 https://live.dinesh29.com.np/stream/livetv/sonyentertainmenthd/master.m3u8
