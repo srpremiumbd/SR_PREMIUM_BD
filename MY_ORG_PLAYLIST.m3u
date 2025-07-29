@@ -4,6 +4,12 @@ t.me/sr_premium
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XBqrRYk/Screenshot-20250705-154127.jpg" group-title="Movies Request", @sr_premium
 https://pixeldrain.net/api/file/QenKNpVf?download
 
+#EXTINF:-1 tvg-id="0-9-zeecinemahd" group-title="Movies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png",Zee Cinema HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
+https://z5ak-cmaflive.zee5.com/cmaf/live/2105540/ZeeCinemaHDELE/index-connected.m3u8?hdntl=exp=1753842884~acl=%2f*~data=hdntl~hmac=36a97450b3ec66d57868156665517983a84879d1e707a1bf161b999058be6854|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
+
+
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Hzh8T61/20240815-181437.png" group-title="SR News" ,Somoy Tv (BDIX)
 http://172.16.29.34/ontest1/ontest1/317
