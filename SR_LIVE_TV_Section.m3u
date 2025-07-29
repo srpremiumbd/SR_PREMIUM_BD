@@ -353,6 +353,9 @@ https://tiger-hub.vercel.app/Sun-bangla/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4wmvmYKg/images.jpg" group-title="SR BDIX Movies", Colors Bangla Cinema
 https://tiger-hub.vercel.app/Colors-bangla-cinema/tracks-v1a1/mono.ts.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4wmvmYKg/images.jpg" group-title="SR BDIX Movies", Colors Bangla Cinema V2
+https://live.dinesh29.com.np/stream/jiotv/colorsbanglacinema/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tw529j5W/WILLOW-2023-Primary-Stacked.png" group-title="SR BDIX Sports", WillowHD
 https://tiger-hub.vercel.app/WillowHD/tracks-v1a1/mono.m3u8
 
