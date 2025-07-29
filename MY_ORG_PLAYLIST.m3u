@@ -4,9 +4,6 @@ t.me/sr_premium
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XBqrRYk/Screenshot-20250705-154127.jpg" group-title="Movies Request", @sr_premium
 https://pixeldrain.net/api/file/QenKNpVf?download
 
-#EXTINF:-1 tvg-id="0-9-zeecinemahd" group-title="Movies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png",Zee Cinema HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://z5ak-cmaflive.zee5.com/cmaf/live/2105540/ZeeCinemaHDELE/index-connected.m3u8?hdntl=exp=1753842884~acl=%2f*~data=hdntl~hmac=36a97450b3ec66d57868156665517983a84879d1e707a1bf161b999058be6854|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
 
 
 
@@ -196,6 +193,10 @@ https://varun-iptv.netlify.app/m3u/discoverykidshindi.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2jbcj3m/20240817-141832.png" group-title="SR Kids" ,Disney Channel
 http://103.84.57.155:8000/play/a03u/index.m3u8
+
+#EXTINF:-1 tvg-id="0-9-zeecinemahd" group-title="SR Movies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png",Zee Cinema HD (ZEE5)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
+https://z5ak-cmaflive.zee5.com/cmaf/live/2105540/ZeeCinemaHDELE/index-connected.m3u8?hdntl=exp=1753842884~acl=%2f*~data=hdntl~hmac=36a97450b3ec66d57868156665517983a84879d1e707a1bf161b999058be6854|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vvNk9vL/20240817-153116.png" group-title="SR Movies" ,RDC Movies
 https://janya-rdcmovies.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/230a723f-867d-4fa3-b2d2-a622ba994cd2/main.m3u8
