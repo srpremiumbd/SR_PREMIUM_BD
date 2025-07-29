@@ -81,7 +81,7 @@ http://172.16.29.3:8090/hls/channelihd.m3u8
 http://172.16.29.34/ontest1/ontest1/294
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vccXQhL/20240815-181223.png" group-title="SR Entertainment" ,Colors HD (JIO)
-https://mini1.allinonereborn.xyz/jiotv-ww192/app/ts_live_144.m3u8
+https://live.dinesh29.com.np/stream/jiotv/colorshd/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vccXQhL/20240815-181223.png" group-title="SR Entertainment" ,Colors HD FTP
 http://172.16.29.2:8090/hls/colorshd.m3u8
@@ -105,13 +105,13 @@ http://172.16.29.34/ontest1/ontest1/312
 https://denver1769.pages.dev/Discovery/animal_planet_hd_hindi.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pdQfbjg/20240816-143214.png" group-title="SR Entertainment" ,Colors Bangla HD (JIO)
-https://mini1.allinonereborn.xyz/jiotv-ww192/app/ts_live_756.m3u8
+https://live.dinesh29.com.np/stream/jiotv/colorsbengalihd/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pdQfbjg/20240816-143214.png" group-title="SR Entertainment" ,Colors Bangla SD (JIO)
 https://mini1.allinonereborn.xyz/jiotv-ww192/app/ts_live_1369.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NV4JPXV/20240816-145822.png" group-title="SR Movies" ,Colors Bangla Cinema (JIO)
-https://mini1.allinonereborn.xyz/jiotv-ww192/app/ts_live_1657.m3u8
+https://live.dinesh29.com.np/stream/jiotv/colorsbanglacinema/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kHtw2YZ/20240816-160121.png" group-title="SR Entertainment" ,Sony TV HD
 https://tataplay.slivcdn.com/hls/live/2011671/SETHD/master.m3u8
