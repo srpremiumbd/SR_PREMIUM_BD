@@ -10,6 +10,9 @@ https://tvsen6.aynaott.com/channeli/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/cc8f548e-089c-47f6-8b6f-ff8699fb2a3d.png" group-title="SR AynaOTT", Jamuna TV
 https://tvsen6.aynaott.com/jamunatv/tracks-v1a1/mono.ts.m3u8
 
+#EXTINF:-1 tvg-id="21e75798-3b6a-4214-9d93-b3fecaa4e700" tvg-name="Bangla Vision" tvg-logo="https://s3.aynaott.com/storage/e86c14566b4d5b6dd68ac37dce4f6043" group-title="SR AynaOTT",Bangla Vision
+https://tvsen5.aynaott.com/banglavision/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/1a695f5d-e1b7-43f7-95bd-a3d17787891e.png" group-title="SR AynaOTT", Somoy TV
 https://tvsen6.aynaott.com/somoytv/tracks-v1a1/mono.ts.m3u8
 
